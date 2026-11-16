@@ -58,7 +58,7 @@ export default function ForeignEmployeeTreatySsaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Treaty and Social Security for Australian Employees in India: Article 15 and the Social Security Agreement"
-        description="How the India-Australia DTAA (Article 15) and the India-Australia Social Security Agreement apply to Australian employees working in India: the 183-day rule, Indian tax residency, certificates of coverage, provident fund and superannuation."
+        description="India Australia social security agreement. It covers the right visa, the employer on the contract and the papers to carry in plain English with the dates named."
         datePublished="2026-10-15"
         dateModified="2026-10-15"
         isPartOfUrl={HUB_URL}

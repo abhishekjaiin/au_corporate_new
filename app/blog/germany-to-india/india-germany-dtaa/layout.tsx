@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India-Germany DTAA for German Companies",
+    absolute: "India Germany DTAA: Documents, Deadlines and Next Steps",
   },
   description:
-    "The India-Germany double taxation agreement explained article by article from the German parent's point of view: the flat 10% rates table, permanent.",
+    "India Germany DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner today.",
+  keywords: ["India Germany DTAA: Documents, Deadlines and Next Steps", "India Germany tax treaty", "DTAA rates", "dividend", "royalty", "PE", "Form 10F", "TRC"],
   alternates: guideAlternates("germany", "india-dtaa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India-Germany%20DTAA%20for%20German%20Companies", width: 1200, height: 630, alt: "India-Germany DTAA for German Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20Germany%20DTAA%3A%20Documents%2C%20Deadlines%20and%20Next%20Steps", width: 1200, height: 630, alt: "India Germany DTAA: Documents, Deadlines and Next Steps" }],
     siteName: "AU Corporate",
-    title: "India-Germany DTAA for German Companies",
+    title: "India Germany DTAA: Documents, Deadlines and Next Steps",
     description:
-      "The India-Germany double taxation agreement explained article by article from the German parent's point of view: the flat 10% rates table, permanent.",
+      "India Germany DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner today.",
     url: "https://www.theaucorp.com/germany-to-india/india-germany-dtaa",
     locale: "en_DE",
   },
   twitter: {
-    title: "India-Germany DTAA for German Companies",
+    title: "India Germany DTAA: Documents, Deadlines and Next Steps",
     description:
-      "The India-Germany double taxation agreement explained article by article from the German parent's point of view: the flat 10% rates table, permanent.",
+      "India Germany DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner today.",
   },
 }
 

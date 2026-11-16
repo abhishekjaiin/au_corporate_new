@@ -79,7 +79,7 @@ export default function SingaporeToIndiaHubPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="How to Set Up a Subsidiary in India from Singapore: The 2026 Guide"
-        description="How Singapore companies set up a subsidiary in India: structure, FDI rules, incorporation, FEMA filings, the India-Singapore tax treaty, holding companies, staff and compliance. By a Chartered Accountant."
+        description="Set up a subsidiary in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         inLanguage="en-SG"
@@ -527,6 +527,52 @@ export default function SingaporeToIndiaHubPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for set up a subsidiary in India from Singapore, start with the decision a Singapore company has to make. The form name is the second conversation, not the first. If the parent team asks about Singapore company setup in India, answer it from this same file. It is not a separate project. Keep register a company in India from Singapore in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put FDI on the checklist before the first filing, not after someone asks where it went. wholly owned subsidiary sits on the critical path more often than people expect. Leave a line for it in the working paper. A Singapore holding company does not skip Indian reporting. It only changes who signs the parent set. ACRA papers still need an apostille. Pick two company names you would actually answer the phone as.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The first name is often taken. The second name should not be a joke you would hate to keep. Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true. Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole. Waiting until India asks for it is how timelines slip.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment. The certificate of incorporation does not pay anyone. Allot the shares, then report the investment. The day the money arrives and the day the shares are allotted are different days, and the reporting clock follows the allotment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Decide the structure before you collect passports. A subsidiary, a branch and a liaison office are different permissions, different tax and a different way out. Confirm the parent can own the shares it thinks it can own. The sector, and the shareholder chain above the parent, sometimes change the route. If a step needs a wet-ink signature, book it before the signatory travels. Chasing a director through an airport lounge is how a simple filing takes a month.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            One folder for the year, with a dull name, beats a trail of attachments. The next finance manager should be able to open it and see what was filed without calling anyone. Read the activity you registered against the work you actually do. Drift is quiet. It shows up when a bank, a customer or an auditor asks a question you did not expect. A fixed scope is kinder than an open promise to 'handle India'.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            List the forms, the period and what is outside the work. People can plan around a list. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before. Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Write the owner's name next to every filing. If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Keep the signed PDF, not a photo of the signed PDF. Banks and the Registrar both send those back, and the week you lose is never the week you had spare. Do not translate the Indian sequence into the sequence you use at home.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date. Save the acknowledgement. The form, on its own, does not prove you filed. The acknowledgement is what you produce when the group auditor asks.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Use the legal name of the Indian entity on the invoice, the contract and the bank. A brand name that is close enough for a website is not close enough for a KYC team. Give the work a single name that both offices recognise. If India calls it onboarding and the parent calls it legal, the status email will talk about two projects that are one project. Decide what 'done' means before you start.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Done is not 'we sent the documents'. Done is the acknowledgement in the folder and the parent told, on the same day. Keep a decision log of three columns: the question, the answer, and who may change the answer. Memory is a poor system once a second director joins the thread. Do not collect passport scans in a personal WhatsApp chat. Put them in the folder with a restricted list.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            You will need them again, and you will not want to hunt a phone. When two documents disagree on a date of birth or a spelling, stop. Pick the passport and make everything else match it. Do not file the hopeful version.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

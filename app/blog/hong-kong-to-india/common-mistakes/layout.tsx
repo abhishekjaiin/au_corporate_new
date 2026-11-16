@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Common Mistakes Hong Kong Companies Make When Entering India",
+    absolute: "Mistakes When Setting Up a Company in India from Hong Kong",
   },
   description:
-    "The most common mistakes of Hong Kong companies entering India: skipping Press Note 3, thin hub structures, late FEMA filings, weak treaty paperwork.",
+    "Mistakes when setting up a company in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow. We map the steps.",
+  keywords: ["mistakes when setting up a company in India from Hong Kong", "India entry pitfalls", "FEMA penalties", "late filing", "resident director", "bank account"],
   alternates: guideAlternates("hongkong", "common-mistakes"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Common%20Mistakes%20Hong%20Kong%20Companies%20Make%20When%20Entering%20India", width: 1200, height: 630, alt: "Common Mistakes Hong Kong Companies Make When Entering India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Mistakes%20When%20Setting%20Up%20a%20Company%20in%20India%20from%20Hong%20Kong", width: 1200, height: 630, alt: "Mistakes When Setting Up a Company in India from Hong Kong" }],
     siteName: "AU Corporate",
-    title: "Common Mistakes Hong Kong Companies Make When Entering India",
+    title: "Mistakes When Setting Up a Company in India from Hong Kong",
     description:
-      "The most common mistakes of Hong Kong companies entering India: skipping Press Note 3, thin hub structures, late FEMA filings, weak treaty paperwork.",
+      "Mistakes when setting up a company in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow. We map the steps.",
     url: "https://www.theaucorp.com/hong-kong-to-india/common-mistakes",
     locale: "en_HK",
   },
   twitter: {
-    title: "Common Mistakes Hong Kong Companies Make When Entering India",
+    title: "Mistakes When Setting Up a Company in India from Hong Kong",
     description:
-      "The most common mistakes of Hong Kong companies entering India: skipping Press Note 3, thin hub structures, late FEMA filings, weak treaty paperwork.",
+      "Mistakes when setting up a company in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow. We map the steps.",
   },
 }
 

@@ -48,7 +48,7 @@ export default function SingaporeEmployeesInIndiaEpfCpfPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Singapore Employees Working in India: What the Tax Treaty, the EPF Exemption and CPF Mean"
-        description="How income tax, India's Employees' Provident Fund and Singapore's CPF apply to Singapore staff working in India: the treaty's 183-day test, the citizen exemption, and PR and foreign-national gaps."
+        description="India Singapore social security for employees. It covers the right visa, the employer on the contract and the papers to carry in writing. Start with the papers."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         isPartOfUrl={PARENT_URL}
@@ -252,6 +252,17 @@ export default function SingaporeEmployeesInIndiaEpfCpfPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Singapore social security for employees, start with the decision a Singapore company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

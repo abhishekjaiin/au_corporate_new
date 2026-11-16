@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India FDI Rules for Russian Companies",
+    absolute: "FDI in India from Russia: A Practical 2026 Filing Guide",
   },
   description:
-    "How India's FDI rules apply to a Russian parent: Press Note 3 covers land-border countries and Russia is not one, the Automatic Route and sector caps.",
+    "FDI in India from Russia. It covers the structure, the papers your parent signs and the filings that follow, with the bank pack included. Start with the papers.",
+  keywords: ["FDI in India from Russia: A Practical 2026 Filing Guide", "Russian investment India rules", "automatic route", "sectoral caps", "sanctions"],
   alternates: guideAlternates("russia", "fdi-rules"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India%20FDI%20Rules%20for%20Russian%20Companies", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=FDI%20in%20India%20from%20Russia%3A%20A%20Practical%202026%20Filing%20Guide", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "India FDI Rules for Russian Companies",
+    title: "FDI in India from Russia: A Practical 2026 Filing Guide",
     description:
-      "How India's FDI rules apply to a Russian parent: Press Note 3 covers land-border countries and Russia is not one, the Automatic Route and sector caps.",
+      "FDI in India from Russia. It covers the structure, the papers your parent signs and the filings that follow, with the bank pack included. Start with the papers.",
     url: "https://www.theaucorp.com/russia-to-india/india-fdi-rules-for-russian-companies",
     locale: "en_RU",
   },
   twitter: {
-    title: "India FDI Rules for Russian Companies",
+    title: "FDI in India from Russia: A Practical 2026 Filing Guide",
     description:
-      "How India's FDI rules apply to a Russian parent: Press Note 3 covers land-border countries and Russia is not one, the Automatic Route and sector caps.",
+      "FDI in India from Russia. It covers the structure, the papers your parent signs and the filings that follow, with the bank pack included. Start with the papers.",
   },
 }
 

@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Repatriating Profits from India to Germany",
+    absolute: "Repatriation of Profits from India: Timeline and Filings",
   },
   description:
-    "How a German parent receives money from an Indian subsidiary: the flat 10% treaty rate, Section 393 withholding, Forms 41, 145 and 146, German 95%.",
+    "Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers.",
+  keywords: ["repatriation of profits from India", "dividend repatriation India", "royalty and service fees", "withholding tax", "DTAA", "buyback", "Form 15CA 15CB"],
   alternates: guideAlternates("germany", "repatriating-profits"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Repatriating%20Profits%20from%20India%20to%20Germany", width: 1200, height: 630, alt: "Repatriating Profits from India to Germany" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Repatriation%20of%20Profits%20from%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "Repatriation of Profits from India: Timeline and Filings" }],
     siteName: "AU Corporate",
-    title: "Repatriating Profits from India to Germany",
+    title: "Repatriation of Profits from India: Timeline and Filings",
     description:
-      "How a German parent receives money from an Indian subsidiary: the flat 10% treaty rate, Section 393 withholding, Forms 41, 145 and 146, German 95%.",
+      "Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers.",
     url: "https://www.theaucorp.com/germany-to-india/repatriating-profits",
     locale: "en_DE",
   },
   twitter: {
-    title: "Repatriating Profits from India to Germany",
+    title: "Repatriation of Profits from India: Timeline and Filings",
     description:
-      "How a German parent receives money from an Indian subsidiary: the flat 10% treaty rate, Section 393 withholding, Forms 41, 145 and 146, German 95%.",
+      "Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers.",
   },
 }
 

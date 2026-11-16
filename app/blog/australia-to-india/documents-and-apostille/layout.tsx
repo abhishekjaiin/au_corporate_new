@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India Subsidiary Documents and Apostille, Australia",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "Which documents an Australian parent must prepare to incorporate an Indian subsidiary, and how notarisation and a DFAT apostille work.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "Australian parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("australia", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India%20Subsidiary%20Documents%20and%20Apostille%2C%20Australia", width: 1200, height: 630, alt: "India Subsidiary Documents and Apostille, Australia" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "Documents Required for Subsidiary Registration in India" }],
     siteName: "AU Corporate",
-    title: "India Subsidiary Documents and Apostille, Australia",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "Which documents an Australian parent must prepare to incorporate an Indian subsidiary, and how notarisation and a DFAT apostille work.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/australia-to-india/documents-and-apostille",
     locale: "en_AU",
   },
   twitter: {
-    title: "India Subsidiary Documents and Apostille, Australia",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "Which documents an Australian parent must prepare to incorporate an Indian subsidiary, and how notarisation and a DFAT apostille work.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

@@ -48,7 +48,7 @@ export default function DocumentsNotarisationLegalisationPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Preparing Chinese Documents for India: Why There Is No Apostille Between China and India and What to Do Instead"
-        description="How to prepare Chinese company documents for an Indian subsidiary: notarisation in China, authentication by the Chinese foreign affairs authority, attestation by the Indian Embassy or Consulate, certified translations and why the Apostille Convention does not apply between China and India."
+        description="Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -230,6 +230,20 @@ export default function DocumentsNotarisationLegalisationPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for documents required for subsidiary registration in India, start with the decision a Chinese company has to make. The form name is the second conversation, not the first. If the parent team asks about apostille documents for India, answer it from this same file. It is not a separate project. Keep Chinese parent company documents in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put board resolution on the checklist before the first filing, not after someone asks where it went. certificate of incorporation sits on the critical path more often than people expect. Leave a line for it in the working paper. Check the shareholder chain for Press Note 3 before anyone drafts an Indian form. Legalised documents and a certified English translation are the usual long pole.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

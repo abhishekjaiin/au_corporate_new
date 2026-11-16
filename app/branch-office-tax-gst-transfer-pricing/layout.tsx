@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Tax, GST and Transfer Pricing for Branch Offices in India",
+    absolute: "Branch Office Tax Rate in India: A Practical 2026 Guide",
   },
   description:
-    "Tax rate, advance tax, TDS, GST, transfer pricing, permanent establishment, treaty relief and litigation for the India branch office of a foreign company.",
+    "Branch office tax rate in India. It covers the RBI permission, the activity limit and how profits go home so your parent is not guessing. Start with the papers.",
+  keywords: ["branch office tax rate in India", "branch office GST", "branch office transfer pricing", "permanent establishment", "40% tax rate", "advance tax", "TDS", "Form 3CEB", "DTAA"],
   alternates: {
     canonical: "https://www.theaucorp.com/branch-office-tax-gst-transfer-pricing",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=Tax%2C%20GST%20and%20Transfer%20Pricing%20for%20Branch%20Offices%20in%20India", width: 1200, height: 630, alt: "Tax, GST and Transfer Pricing for Branch Offices in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Branch%20Office%20Tax%20Rate%20in%20India%3A%20A%20Practical%202026%20Guide", width: 1200, height: 630, alt: "Branch Office Tax Rate in India: A Practical 2026 Guide" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "Tax, GST and Transfer Pricing for Branch Offices in India",
+    title: "Branch Office Tax Rate in India: A Practical 2026 Guide",
     description:
-      "Tax rate, advance tax, TDS, GST, transfer pricing, permanent establishment, treaty relief and litigation for the India branch office of a foreign company.",
+      "Branch office tax rate in India. It covers the RBI permission, the activity limit and how profits go home so your parent is not guessing. Start with the papers.",
     url: "https://www.theaucorp.com/branch-office-tax-gst-transfer-pricing",
   },
   twitter: {
-    title: "Tax, GST and Transfer Pricing for Branch Offices in India",
+    title: "Branch Office Tax Rate in India: A Practical 2026 Guide",
     description:
-      "Tax rate, advance tax, TDS, GST, transfer pricing, permanent establishment, treaty relief and litigation for the India branch office of a foreign company.",
+      "Branch office tax rate in India. It covers the RBI permission, the activity limit and how profits go home so your parent is not guessing. Start with the papers.",
   },
 }
 

@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Documents and Apostille for a Japanese Parent Company",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "Which documents a Japanese parent must prepare to incorporate an Indian subsidiary, and how notarization, translation and apostille work in Japan.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "Japanese parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("japan", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20and%20Apostille%20for%20a%20Japanese%20Parent%20Company", width: 1200, height: 630, alt: "Documents and Apostille for a Japanese Parent Company" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "Documents Required for Subsidiary Registration in India" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "Documents and Apostille for a Japanese Parent Company",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "Which documents a Japanese parent must prepare to incorporate an Indian subsidiary, and how notarization, translation and apostille work in Japan.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/japan-to-india/documents-and-apostille",
   },
   twitter: {
-    title: "Documents and Apostille for a Japanese Parent Company",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "Which documents a Japanese parent must prepare to incorporate an Indian subsidiary, and how notarization, translation and apostille work in Japan.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

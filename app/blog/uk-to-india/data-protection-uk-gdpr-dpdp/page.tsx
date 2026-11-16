@@ -45,7 +45,7 @@ export default function DataProtectionUkGdprDpdpPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Data Protection for a UK Group with an Indian Subsidiary: UK GDPR Transfers and India's DPDP Act"
-        description="How a UK company moves personal data to and from an Indian subsidiary: UK GDPR transfer rules, India's Digital Personal Data Protection Act and Rules, timelines, and practical contract terms."
+        description="DPDP Act compliance for UK companies. It covers the structure, the papers your parent signs and the filings that follow with clear dates. Start with the papers."
         datePublished="2026-10-19"
         dateModified="2026-10-19"
         isPartOfUrl={PARENT_URL}
@@ -225,6 +225,20 @@ export default function DataProtectionUkGdprDpdpPage() {
           Last updated 19 October 2026. General information only, not legal or tax advice. Indian and UK rules
           change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a UK team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for DPDP Act compliance for UK companies, start with the decision a UK company has to make. The form name is the second conversation, not the first. If the parent team asks about data protection India, answer it from this same file. It is not a separate project. Keep cross-border data transfer in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put DPDP Rules 2025 on the checklist before the first filing, not after someone asks where it went. Companies House papers still need a notary and an apostille before India will rely on them. HMRC questions can wait until the Indian facts are finished. Keep the signed pack in one folder.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

@@ -50,7 +50,7 @@ export default function RussianEmployeesInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Russian Employees in India: Salary Tax, the Treaty Day Count, EPF for International Workers and Russian Social Insurance"
-        description="What a Russian employer must plan for staff in India: Indian salary tax and the treaty test, EPF for international workers, no social security agreement, Russian insurance contributions and secondment contracts."
+        description="India Russia social security for employees. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-11-02"
         isPartOfUrl={PARENT_URL}
@@ -200,6 +200,27 @@ export default function RussianEmployeesInIndiaPage() {
           Last updated 2 November 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Russia social security for employees, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about international worker PF, answer it from this same file. It is not a separate project. Keep certificate of coverage in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put exemption on the checklist before the first filing, not after someone asks where it went. The apostille and the English translation are the document work. The longer conversation is the bank, and whether the payment route is one the bank will actually process. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The parent company abroad is not that employer, even if it pays the group bonus. Keep passport copies, the visa and the address registration where HR can find them. Do not leave them in the person's own laptop only. Tax residence and social security are a separate note from the visa. A person can be allowed to work and still create a payroll question you have not modelled. If the assignment is short, say so in the letter.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Open-ended expat letters are how a six-month plan becomes an unplanned local hire. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

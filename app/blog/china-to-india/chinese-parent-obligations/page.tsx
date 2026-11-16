@@ -47,7 +47,7 @@ export default function ChineseParentObligationsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="What a Chinese Parent Must Do at Home: Outbound Investment Filings, SAFE Registration and Tax Credit for Indian Tax"
-        description="The Chinese-side steps for a parent investing in India: NDRC and MOFCOM outbound investment approval or filing, SAFE foreign exchange registration through the bank, state-owned enterprise approvals, export controls on technology and tax credit."
+        description="Chinese parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow this year carefully."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -226,6 +226,17 @@ export default function ChineseParentObligationsPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Chinese parent company obligations for Indian subsidiary, start with the decision a Chinese company has to make. The form name is the second conversation, not the first. If the parent team asks about parent company reporting India, answer it from this same file. It is not a separate project. Keep consolidation in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

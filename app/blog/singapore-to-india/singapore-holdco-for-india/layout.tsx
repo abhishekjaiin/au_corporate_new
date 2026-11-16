@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Using a Singapore Holding Company for India",
+    absolute: "Singapore Holding Company for India: 2026 Filing Guide",
   },
   description:
-    "How a Singapore holdco is used to own Indian subsidiaries: treaty positions on dividends and gains, grandfathering, Article 24A limitation of benefits.",
+    "Singapore holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
+  keywords: ["Singapore holding company for India", "Singapore holdco structure", "DTAA", "GAAR", "LOB clause", "capital gains"],
   alternates: guideAlternates("singapore", "holdco"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Using%20a%20Singapore%20Holding%20Company%20for%20India", width: 1200, height: 630, alt: "Using a Singapore Holding Company for India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Singapore%20Holding%20Company%20for%20India%3A%202026%20Filing%20Guide", width: 1200, height: 630, alt: "Singapore Holding Company for India: 2026 Filing Guide" }],
     siteName: "AU Corporate",
-    title: "Using a Singapore Holding Company for India",
+    title: "Singapore Holding Company for India: 2026 Filing Guide",
     description:
-      "How a Singapore holdco is used to own Indian subsidiaries: treaty positions on dividends and gains, grandfathering, Article 24A limitation of benefits.",
+      "Singapore holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
     url: "https://www.theaucorp.com/singapore-to-india/singapore-holdco-for-india",
     locale: "en_SG",
   },
   twitter: {
-    title: "Using a Singapore Holding Company for India",
+    title: "Singapore Holding Company for India: 2026 Filing Guide",
     description:
-      "How a Singapore holdco is used to own Indian subsidiaries: treaty positions on dividends and gains, grandfathering, Article 24A limitation of benefits.",
+      "Singapore holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
   },
 }
 

@@ -50,7 +50,7 @@ export default function ExpatVisaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Sending a Japanese Executive to India: Visa, Housing, Banking and Tax"
-        description="How to relocate a Japanese executive to India: employment visa, FRRO registration, housing, banking, tax residency and permanent establishment risk for the parent."
+        description="Employment visa India for Japanese nationals. It covers the right visa, the employer on the contract and the papers to carry in practice. Start with the papers."
         datePublished="2026-10-20"
         dateModified="2026-11-02"
         isPartOfUrl={PARENT_URL}
@@ -205,6 +205,17 @@ export default function ExpatVisaPage() {
           Last updated 2 November 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Japanese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for employment visa India for Japanese nationals, start with the decision a Japanese company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

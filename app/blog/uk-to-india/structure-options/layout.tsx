@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Subsidiary, Branch, Liaison or LLP: UK",
+    absolute: "Subsidiary vs Branch vs Liaison Office in India in 2026",
   },
   description:
-    "How a UK company should choose between an Indian subsidiary, branch, liaison office, LLP or Employer of Record, and whether to hold it directly or through.",
+    "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
+  keywords: ["subsidiary vs branch vs liaison office in India", "India entry structure for UK companies", "LLP vs private limited", "wholly owned subsidiary", "branch office", "liaison office", "tax rate"],
   alternates: guideAlternates("uk", "subsidiary-vs-branch-vs-liaison-office-vs-llp"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%2C%20Branch%2C%20Liaison%20or%20LLP%3A%20UK", width: 1200, height: 630, alt: "Subsidiary, Branch, Liaison or LLP: UK" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%20vs%20Branch%20vs%20Liaison%20Office%20in%20India%20in%202026", width: 1200, height: 630, alt: "Subsidiary vs Branch vs Liaison Office in India in 2026" }],
     siteName: "AU Corporate",
-    title: "Subsidiary, Branch, Liaison or LLP: UK",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "How a UK company should choose between an Indian subsidiary, branch, liaison office, LLP or Employer of Record, and whether to hold it directly or through.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
     url: "https://www.theaucorp.com/uk-to-india/structure-options",
     locale: "en_GB",
   },
   twitter: {
-    title: "Subsidiary, Branch, Liaison or LLP: UK",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "How a UK company should choose between an Indian subsidiary, branch, liaison office, LLP or Employer of Record, and whether to hold it directly or through.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
   },
 }
 

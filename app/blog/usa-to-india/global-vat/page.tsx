@@ -53,7 +53,7 @@ export default function GlobalVatPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Global VAT for US Companies: Registration, Filing and Compliance"
-        description="How VAT works for US companies selling digital services and goods into Europe, the UK and beyond: registration, B2B and B2C rules and compliance."
+        description="GST in India vs VAT for US companies. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads. We map the steps."
         datePublished="2026-10-07"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -239,6 +239,17 @@ export default function GlobalVatPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for GST in India vs VAT for US companies, start with the decision a US company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

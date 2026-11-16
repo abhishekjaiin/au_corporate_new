@@ -395,6 +395,88 @@ export default function BranchOfficeRegistrationPage() {
           }),
         }}
       />
+            {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What to do with this in practice</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for branch office registration in India, start with the decision a foreign company has to make. The form name is the second conversation, not the first. If the parent team asks about foreign company branch office India, answer it from this same file. It is not a separate project. Keep Form FNC in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put AD Category-I bank on the checklist before the first filing, not after someone asks where it went. UIN sits on the critical path more often than people expect. Leave a line for it in the working paper. Open the bank account only after the permission letter matches the name you will print on invoices. A near-match is a rejection, not a small typo. Keep a copy of the permission with the sales team.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If they sell something the letter does not allow, the problem will not show up until a customer contract is already signed. Remit profits only with the board paper, the accounts and the tax proof the bank asks for. A SWIFT message is not a substitute for that pack. Review the activity once a year against the letter. Offices drift. The annual look is cheaper than explaining the drift later.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Confirm a branch is the right vehicle. It is the same legal person as the foreign company, and the tax on its profits is not the subsidiary rate. Model that before the slide is finished. Write down the activity in one sentence. The permission will follow that sentence. A second line of business later is a new permission, not a footnote. Collect the parent documents, the accounts and the net-worth support the bank and the RBI expect.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Incomplete packs sit in a queue without anyone calling you. Name the authorised people in India and the people at the parent who can instruct them. Banks get nervous when those two lists do not match. Save the acknowledgement. The form, on its own, does not prove you filed. The acknowledgement is what you produce when the group auditor asks. Use the legal name of the Indian entity on the invoice, the contract and the bank.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A brand name that is close enough for a website is not close enough for a KYC team. If a step needs a wet-ink signature, book it before the signatory travels. Chasing a director through an airport lounge is how a simple filing takes a month. One folder for the year, with a dull name, beats a trail of attachments. The next finance manager should be able to open it and see what was filed without calling anyone.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Read the activity you registered against the work you actually do. Drift is quiet. It shows up when a bank, a customer or an auditor asks a question you did not expect. A fixed scope is kinder than an open promise to 'handle India'. List the forms, the period and what is outside the work. People can plan around a list. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted. Write the owner's name next to every filing. If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Keep the signed PDF, not a photo of the signed PDF.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Banks and the Registrar both send those back, and the week you lose is never the week you had spare. Do not translate the Indian sequence into the sequence you use at home. The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Give the work a single name that both offices recognise. If India calls it onboarding and the parent calls it legal, the status email will talk about two projects that are one project. Decide what 'done' means before you start. Done is not 'we sent the documents'. Done is the acknowledgement in the folder and the parent told, on the same day. Keep a decision log of three columns: the question, the answer, and who may change the answer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Memory is a poor system once a second director joins the thread. Do not collect passport scans in a personal WhatsApp chat. Put them in the folder with a restricted list. You will need them again, and you will not want to hunt a phone. When two documents disagree on a date of birth or a spelling, stop. Pick the passport and make everything else match it. Do not file the hopeful version.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A weekly fifteen-minute call beats a monthly essay. The call has three questions: what moved, what is stuck, and what you need from the parent before Friday. If the parent wants a dashboard, give them five dates and a red or a green. A dashboard with forty rows is where real blockers go to hide. Budget a week for the thing you have not thought of. In the first India setup it is usually a document in the wrong language, or a signatory who is on leave.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Write the fee and the out-of-pocket items in the same note as the timeline. A timeline without a cost is how a finance controller loses trust in week six. Do not promise a customer, or a new hire, a date you do not control. Promise the date you control, and describe the date that depends on a government or a bank as a range. After each filing, write one sentence on what it unlocked.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The next person should see why the paper mattered, not only that it was uploaded. If you already have an Indian contractor or a consultant on the ground, list what they have signed and in whose name. Old arrangements are the usual surprise. Keep the group's chart of accounts in mind when you open the Indian books. Rebuilding the mapping at the first close is miserable, and it is avoidable.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Say no to a step that belongs to a different structure. Helpful extras are how a liaison office starts selling, or a project office starts hiring for a second client. Leave a note for the person who will do this next year. What felt obvious in month one is not obvious in month fourteen, and you may be that person. Check the registered email and the mobile number on the government portals.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            OTPs go there. If they go to someone who has left, the filing stops for a reason that takes a day to explain. When a PDF is password protected, put the password in the same folder in a plain text file with a dull name. Auditors do not enjoy treasure hunts, and neither will you. If the parent has a travel freeze or a hiring freeze, say so. The India plan changes when nobody can visit and nobody can be added to payroll.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Pretending otherwise wastes a month. Number the documents the way the bank will number them. A covering index with ten lines saves a reviewer from opening every PDF to find the board resolution. If a translation is required, translate the document you will actually file, not an earlier draft. Version mix-ups are a quiet way to submit the wrong share capital. Put the registered office address on the invoice template before the first invoice goes out.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Changing it later means a trail of documents with two addresses, and someone will pick the old one. Agree who may speak to the bank. If three people call with three versions of the purpose, the account opening slows down for a reason that has nothing to do with the paperwork. Keep a copy of what you told the parent last week. When the date moves, the explanation should start from that note, not from a reconstructed memory of the call.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Do the name check, the director check and the activity check as three separate lines. Bundling them into 'KYC done' is how a mismatch survives until the filing is rejected. If the group already has an Indian entity, say whether this work is for that entity or for a new one. Teams have incorporated a second company because nobody checked the first. Write the escalation in one line: who gets told if a filing is two days from late.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A policy that says 'inform management' is not an escalation. After the bank account is open, send a test description of the first inward remittance to the bank before the parent sends the money. The purpose line is easier to fix in a draft than in a live transfer. When you close the year, archive the folder and start a new one. Mixing two financial years in one directory is how an acknowledgement from last March gets attached to this March.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Before you call the work finished, read the whole pack as if you were the person who has to defend it six months later. Check the legal name, the dates, the signatory and the activity against each other. If two pages disagree, fix them now. Then send the parent a short note with the acknowledgement, the next date on the calendar and the name of the person who owns that date.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            That note is the handover. Without it, the knowledge stays in one inbox, and the next filing starts from zero. Keep one running list of open points, with a date and a name on each line. Close a point only when the acknowledgement is in the folder. A list that lives in someone's head will not survive the first holiday. Review it on the weekly call, cross out what is done, and do not add a point that nobody owns.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            What is the legal name of the parent, and who above the parent actually owns it? The chain changes the route more often than the brochure does. What do you want to do in India in the next twelve months, in one sentence? If the sentence has two businesses in it, we split them before we pick a structure. Who can sign in the home country in the next three weeks? A perfect form with no signatory is a form that waits.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Is there already an Indian contractor, employee or bank account? Existing arrangements are where the surprises sit. Which group calendar are we serving, the Indian year or the parent's year? The work can serve both, but only if we say so at the start.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/contact" className="font-semibold text-blue-800 underline">contact AU Corporate</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
     </main>
   )
 }

@@ -74,7 +74,7 @@ export default function IndiaAustraliaDtaaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="The India-Australia DTAA: Article-by-Article Guide for Australian Companies"
-        description="The India-Australia double taxation avoidance agreement (DTAA) explained article by article, with India as the source state and Australia as the residence state: tax rates table, permanent establishment, business profits, dividends, interest, royalties, capital gains, employees, relief, MAP and how to claim treaty benefits."
+        description="India Australia DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner now."
         datePublished="2026-10-15"
         dateModified="2026-10-15"
         isPartOfUrl={HUB_URL}

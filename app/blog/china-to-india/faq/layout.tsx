@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "147 FAQs: Setting Up an India Subsidiary from China",
+    absolute: "China to India Company Setup FAQ: A Practical 2026 Guide",
   },
   description:
-    "147 plain answers for Chinese companies: Press Note 3 approval, incorporation, FEMA, the India-China tax treaty, documents, staff, data protection.",
+    "China to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent. Start with the papers.",
+  keywords: ["China to India company setup FAQ", "India subsidiary FAQ", "FDI", "resident director", "tax"],
   alternates: guideAlternates("china", "faq"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=147%20FAQs%3A%20Setting%20Up%20an%20India%20Subsidiary%20from%20China", width: 1200, height: 630, alt: "147 FAQs: Setting Up an India Subsidiary from China" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=China%20to%20India%20Company%20Setup%20FAQ%3A%20A%20Practical%202026%20Guide", width: 1200, height: 630, alt: "China to India Company Setup FAQ: A Practical 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "147 FAQs: Setting Up an India Subsidiary from China",
+    title: "China to India Company Setup FAQ: A Practical 2026 Guide",
     description:
-      "147 plain answers for Chinese companies: Press Note 3 approval, incorporation, FEMA, the India-China tax treaty, documents, staff, data protection.",
+      "China to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent. Start with the papers.",
     url: "https://www.theaucorp.com/china-to-india/faq",
     locale: "en_CN",
   },
   twitter: {
-    title: "147 FAQs: Setting Up an India Subsidiary from China",
+    title: "China to India Company Setup FAQ: A Practical 2026 Guide",
     description:
-      "147 plain answers for Chinese companies: Press Note 3 approval, incorporation, FEMA, the India-China tax treaty, documents, staff, data protection.",
+      "China to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent. Start with the papers.",
   },
 }
 

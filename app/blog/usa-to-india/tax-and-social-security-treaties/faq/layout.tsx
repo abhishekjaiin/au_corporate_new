@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Treaty and Social Security FAQs for India-US Expats",
+    absolute: "India USA Tax Treaty FAQ: A Practical 2026 Filing Guide",
   },
   description:
-    "50 plain answers on the India-US tax treaty, DTAA withholding rates, Form 6166 and 41, expat tax, EPF, FICA and the missing totalization agreement.",
+    "India USA tax treaty FAQ. It covers corporate tax, GST, intercompany charges and the calendar to track, in the order a parent can follow. Start with the papers.",
+  keywords: ["India USA tax treaty FAQ", "DTAA FAQ", "treaty", "social security"],
   alternates: guideAlternates("usa", "treaties-faq"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Treaty%20and%20Social%20Security%20FAQs%20for%20India-US%20Expats", width: 1200, height: 630, alt: "Treaty and Social Security FAQs for India-US Expats" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20USA%20Tax%20Treaty%20FAQ%3A%20A%20Practical%202026%20Filing%20Guide", width: 1200, height: 630, alt: "India USA Tax Treaty FAQ: A Practical 2026 Filing Guide" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "Treaty and Social Security FAQs for India-US Expats",
+    title: "India USA Tax Treaty FAQ: A Practical 2026 Filing Guide",
     description:
-      "50 plain answers on the India-US tax treaty, DTAA withholding rates, Form 6166 and 41, expat tax, EPF, FICA and the missing totalization agreement.",
+      "India USA tax treaty FAQ. It covers corporate tax, GST, intercompany charges and the calendar to track, in the order a parent can follow. Start with the papers.",
     url: "https://www.theaucorp.com/usa-to-india/tax-and-social-security-treaties/faq",
   },
   twitter: {
-    title: "Treaty and Social Security FAQs for India-US Expats",
+    title: "India USA Tax Treaty FAQ: A Practical 2026 Filing Guide",
     description:
-      "50 plain answers on the India-US tax treaty, DTAA withholding rates, Form 6166 and 41, expat tax, EPF, FICA and the missing totalization agreement.",
+      "India USA tax treaty FAQ. It covers corporate tax, GST, intercompany charges and the calendar to track, in the order a parent can follow. Start with the papers.",
   },
 }
 

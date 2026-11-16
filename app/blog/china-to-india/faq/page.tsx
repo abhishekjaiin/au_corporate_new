@@ -344,7 +344,7 @@ export default function ChinaToIndiaFaqPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="147 Questions About Setting Up and Running a Subsidiary in India"
-        description="147 plain answers for Chinese companies: Press Note 3 approval, incorporation, FEMA, the India-China tax treaty, documents, staff, data protection, compliance, repatriation and exit."
+        description="China to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -430,6 +430,17 @@ export default function ChinaToIndiaFaqPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for China to India company setup FAQ, start with the decision a Chinese company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

@@ -47,7 +47,7 @@ export default function DocumentsCompaniesHouseApostillePage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Documents a UK Parent Needs for an Indian Subsidiary: Companies House Papers, Notarisation and the Apostille"
-        description="The documents a UK company needs to incorporate an Indian subsidiary, how Companies House papers, notarisation and the UK apostille work, and the mistakes that cost weeks."
+        description="Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent."
         datePublished="2026-10-19"
         dateModified="2026-10-19"
         isPartOfUrl={PARENT_URL}
@@ -235,6 +235,20 @@ export default function DocumentsCompaniesHouseApostillePage() {
           Last updated 19 October 2026. General information only, not legal or tax advice. Indian and UK rules
           change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a UK team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for documents required for subsidiary registration in India, start with the decision a UK company has to make. The form name is the second conversation, not the first. If the parent team asks about apostille documents for India, answer it from this same file. It is not a separate project. Keep UK parent company documents in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put consularisation on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

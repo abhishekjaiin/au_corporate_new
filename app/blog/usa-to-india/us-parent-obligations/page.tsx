@@ -54,7 +54,7 @@ export default function UsParentObligationsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="US Parent Obligations When You Own an Indian Subsidiary"
-        description="US reporting that follows when you own an Indian subsidiary: Form 5471, FBAR, Form 8938 and international tax regimes. A guide for US finance teams."
+        description="US parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest."
         datePublished="2026-10-07"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -248,6 +248,17 @@ export default function UsParentObligationsPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for US parent company obligations for Indian subsidiary, start with the decision a US company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

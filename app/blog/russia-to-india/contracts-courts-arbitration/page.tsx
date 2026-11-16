@@ -49,7 +49,7 @@ export default function ContractsCourtsArbitrationPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Contracts and Dispute Resolution for Russian Companies in India: Governing Law, Arbitration Seats, Enforcing Awards and Court Judgments"
-        description="How to draft and enforce contracts between a Russian company and Indian counterparties: governing law, arbitration seat and institution, enforcing awards under the New York Convention, the position on court judgments, Russian courts' jurisdiction over sanctions disputes, stamp duty and interim relief."
+        description="Dispute resolution and arbitration in India for Russian companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -232,6 +232,23 @@ export default function ContractsCourtsArbitrationPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Russian
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for dispute resolution and arbitration in India for Russian companies, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about enforcing contracts in India, answer it from this same file. It is not a separate project. Keep arbitration clause in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put SIAC on the checklist before the first filing, not after someone asks where it went. LCIA sits on the critical path more often than people expect. Leave a line for it in the working paper. The apostille and the English translation are the document work. The longer conversation is the bank, and whether the payment route is one the bank will actually process. Price the shares in a way you can explain.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A round number chosen on a Thursday afternoon is not a valuation, and it will be the number someone asks about. File the annual foreign-liability return even in a quiet year. The year you skip is the year it stops feeling optional.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/fema-rbi-compliance" className="font-semibold text-blue-800 underline">FEMA and RBI compliance</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

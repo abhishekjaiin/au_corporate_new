@@ -48,7 +48,7 @@ export default function RestrictedSectorsProcurementAndTradePage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="What Else Applies to Chinese-Linked Companies in India: Sector Limits, Government Contracts, App Blocks, Customs and Trade Remedies"
-        description="Beyond Press Note 3: sector limits, the registration rule for land-border-country bidders in government procurement, blocked apps and security reviews, customs duty, anti-dumping duties and enforcement scrutiny for a Chinese-owned company in India."
+        description="Restrictions on Chinese companies in India. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -232,6 +232,27 @@ export default function RestrictedSectorsProcurementAndTradePage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for restrictions on Chinese companies in India, start with the decision a Chinese company has to make. The form name is the second conversation, not the first. If the parent team asks about public procurement restrictions China, answer it from this same file. It is not a separate project. Put GFR 144(xi) on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Check the shareholder chain for Press Note 3 before anyone drafts an Indian form. Legalised documents and a certified English translation are the usual long pole. Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true. Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Waiting until India asks for it is how timelines slip. Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment. The certificate of incorporation does not pay anyone. Allot the shares, then report the investment.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The day the money arrives and the day the shares are allotted are different days, and the reporting clock follows the allotment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

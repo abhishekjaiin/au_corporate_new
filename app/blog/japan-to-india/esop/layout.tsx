@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "ESOPs for Indian Employees of a Japanese Parent Company",
+    absolute: "ESOP for Indian Subsidiary Employees of Japanese Parent",
   },
   description:
-    "How ESOPs and RSUs work for employees of an Indian subsidiary: FEMA reporting, employee tax, valuation, cost recharge and transfer pricing for a Japanese.",
+    "ESOP for Indian subsidiary employees of Japanese parent. It covers the right visa, the employer on the contract and the papers to carry today. We map the steps.",
+  keywords: ["ESOP for Indian subsidiary employees of Japanese parent", "cross-border ESOP India", "RSU taxation India", "perquisite tax", "FEMA ODI", "vesting", "SAR"],
   alternates: guideAlternates("japan", "esop"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=ESOPs%20for%20Indian%20Employees%20of%20a%20Japanese%20Parent%20Company", width: 1200, height: 630, alt: "ESOPs for Indian Employees of a Japanese Parent Company" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=ESOP%20for%20Indian%20Subsidiary%20Employees%20of%20Japanese%20Parent", width: 1200, height: 630, alt: "ESOP for Indian Subsidiary Employees of Japanese Parent" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "ESOPs for Indian Employees of a Japanese Parent Company",
+    title: "ESOP for Indian Subsidiary Employees of Japanese Parent",
     description:
-      "How ESOPs and RSUs work for employees of an Indian subsidiary: FEMA reporting, employee tax, valuation, cost recharge and transfer pricing for a Japanese.",
+      "ESOP for Indian subsidiary employees of Japanese parent. It covers the right visa, the employer on the contract and the papers to carry today. We map the steps.",
     url: "https://www.theaucorp.com/japan-to-india/esop",
   },
   twitter: {
-    title: "ESOPs for Indian Employees of a Japanese Parent Company",
+    title: "ESOP for Indian Subsidiary Employees of Japanese Parent",
     description:
-      "How ESOPs and RSUs work for employees of an Indian subsidiary: FEMA reporting, employee tax, valuation, cost recharge and transfer pricing for a Japanese.",
+      "ESOP for Indian subsidiary employees of Japanese parent. It covers the right visa, the employer on the contract and the papers to carry today. We map the steps.",
   },
 }
 

@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Common Mistakes Russian Companies Make When Entering India",
+    absolute: "Mistakes When Setting Up a Company in India from Russia",
   },
   description:
-    "The most common mistakes of Russian companies entering India: ignoring banking and sanctions, skipping Russian clearance, late FEMA filings, weak treaty.",
+    "Mistakes when setting up a company in India from Russia. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["mistakes when setting up a company in India from Russia", "India entry pitfalls", "FEMA penalties", "late filing", "resident director", "bank account"],
   alternates: guideAlternates("russia", "common-mistakes"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Common%20Mistakes%20Russian%20Companies%20Make%20When%20Entering%20India", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Mistakes%20When%20Setting%20Up%20a%20Company%20in%20India%20from%20Russia", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Common Mistakes Russian Companies Make When Entering India",
+    title: "Mistakes When Setting Up a Company in India from Russia",
     description:
-      "The most common mistakes of Russian companies entering India: ignoring banking and sanctions, skipping Russian clearance, late FEMA filings, weak treaty.",
+      "Mistakes when setting up a company in India from Russia. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/russia-to-india/common-mistakes",
     locale: "en_RU",
   },
   twitter: {
-    title: "Common Mistakes Russian Companies Make When Entering India",
+    title: "Mistakes When Setting Up a Company in India from Russia",
     description:
-      "The most common mistakes of Russian companies entering India: ignoring banking and sanctions, skipping Russian clearance, late FEMA filings, weak treaty.",
+      "Mistakes when setting up a company in India from Russia. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

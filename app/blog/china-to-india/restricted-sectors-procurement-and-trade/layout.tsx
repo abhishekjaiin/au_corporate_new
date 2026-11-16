@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Restricted Sectors and Trade Rules for Chinese Companies",
+    absolute: "Restrictions on Chinese Companies in India: A 2026 Guide",
   },
   description:
-    "Beyond Press Note 3: sector limits, the registration rule for land-border-country bidders in government procurement, blocked apps and security reviews.",
+    "Restrictions on Chinese companies in India. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers.",
+  keywords: ["restrictions on Chinese companies in India", "public procurement restrictions China", "GFR 144(xi)", "Press Note 3", "registration"],
   alternates: guideAlternates("china", "restricted-sectors"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Restricted%20Sectors%20and%20Trade%20Rules%20for%20Chinese%20Companies", width: 1200, height: 630, alt: "Restricted Sectors and Trade Rules for Chinese Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Restrictions%20on%20Chinese%20Companies%20in%20India%3A%20A%202026%20Guide", width: 1200, height: 630, alt: "Restrictions on Chinese Companies in India: A 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Restricted Sectors and Trade Rules for Chinese Companies",
+    title: "Restrictions on Chinese Companies in India: A 2026 Guide",
     description:
-      "Beyond Press Note 3: sector limits, the registration rule for land-border-country bidders in government procurement, blocked apps and security reviews.",
+      "Restrictions on Chinese companies in India. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers.",
     url: "https://www.theaucorp.com/china-to-india/restricted-sectors-procurement-and-trade",
     locale: "en_CN",
   },
   twitter: {
-    title: "Restricted Sectors and Trade Rules for Chinese Companies",
+    title: "Restrictions on Chinese Companies in India: A 2026 Guide",
     description:
-      "Beyond Press Note 3: sector limits, the registration rule for land-border-country bidders in government procurement, blocked apps and security reviews.",
+      "Restrictions on Chinese companies in India. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers.",
   },
 }
 

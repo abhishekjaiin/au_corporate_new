@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Sending an Australian Executive to India",
+    absolute: "Employment Visa India for Australian Nationals: Filings",
   },
   description:
-    "How to relocate an Australian executive to India: employment visa, FRRO registration, housing, banking, tax residency and permanent establishment risk.",
+    "Employment visa India for Australian nationals. It covers the right visa, the employer on the contract and the papers to carry this year. Start with the papers.",
+  keywords: ["employment visa India for Australian nationals", "FRRO registration", "business visa India", "e-visa", "salary threshold", "tax residency"],
   alternates: guideAlternates("australia", "expat-visa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Sending%20an%20Australian%20Executive%20to%20India", width: 1200, height: 630, alt: "Sending an Australian Executive to India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Employment%20Visa%20India%20for%20Australian%20Nationals%3A%20Filings", width: 1200, height: 630, alt: "Employment Visa India for Australian Nationals: Filings" }],
     siteName: "AU Corporate",
-    title: "Sending an Australian Executive to India",
+    title: "Employment Visa India for Australian Nationals: Filings",
     description:
-      "How to relocate an Australian executive to India: employment visa, FRRO registration, housing, banking, tax residency and permanent establishment risk.",
+      "Employment visa India for Australian nationals. It covers the right visa, the employer on the contract and the papers to carry this year. Start with the papers.",
     url: "https://www.theaucorp.com/australia-to-india/expat-visa",
     locale: "en_AU",
   },
   twitter: {
-    title: "Sending an Australian Executive to India",
+    title: "Employment Visa India for Australian Nationals: Filings",
     description:
-      "How to relocate an Australian executive to India: employment visa, FRRO registration, housing, banking, tax residency and permanent establishment risk.",
+      "Employment visa India for Australian nationals. It covers the right visa, the employer on the contract and the papers to carry this year. Start with the papers.",
   },
 }
 

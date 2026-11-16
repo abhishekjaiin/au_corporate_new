@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Japanese Social Insurance for Employees Sent to India",
+    absolute: "Japan Social Insurance for Expats in India: A 2026 Guide",
   },
   description:
-    "What happens to Japanese pension, health and employment insurance when an employee is sent to India: the Certificate of Coverage and who pays what.",
+    "Japan social insurance for expats in India. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers.",
+  keywords: ["Japan social insurance for expats in India", "India Japan SSA", "certificate of coverage", "EPF"],
   alternates: guideAlternates("japan", "home-social-security"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Japanese%20Social%20Insurance%20for%20Employees%20Sent%20to%20India", width: 1200, height: 630, alt: "Japanese Social Insurance for Employees Sent to India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Japan%20Social%20Insurance%20for%20Expats%20in%20India%3A%20A%202026%20Guide", width: 1200, height: 630, alt: "Japan Social Insurance for Expats in India: A 2026 Guide" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "Japanese Social Insurance for Employees Sent to India",
+    title: "Japan Social Insurance for Expats in India: A 2026 Guide",
     description:
-      "What happens to Japanese pension, health and employment insurance when an employee is sent to India: the Certificate of Coverage and who pays what.",
+      "Japan social insurance for expats in India. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers.",
     url: "https://www.theaucorp.com/japan-to-india/tax-and-social-security-treaties/japan-social-insurance-for-expats-in-india",
   },
   twitter: {
-    title: "Japanese Social Insurance for Employees Sent to India",
+    title: "Japan Social Insurance for Expats in India: A 2026 Guide",
     description:
-      "What happens to Japanese pension, health and employment insurance when an employee is sent to India: the Certificate of Coverage and who pays what.",
+      "Japan social insurance for expats in India. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers.",
   },
 }
 

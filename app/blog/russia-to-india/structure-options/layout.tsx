@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Structure Options in India for a Russian Company",
+    absolute: "Subsidiary vs Branch vs Liaison Office in India in 2026",
   },
   description:
-    "Compare Indian structures for a Russian company: wholly owned private limited company, LLP, branch, liaison and project office, and joint venture, with tax.",
+    "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
+  keywords: ["subsidiary vs branch vs liaison office in India", "India entry structure for Russian companies", "LLP vs private limited", "wholly owned subsidiary", "branch office", "liaison office", "tax rate"],
   alternates: guideAlternates("russia", "subsidiary-vs-branch-vs-liaison-office-vs-llp"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Structure%20Options%20in%20India%20for%20a%20Russian%20Company", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%20vs%20Branch%20vs%20Liaison%20Office%20in%20India%20in%202026", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Structure Options in India for a Russian Company",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "Compare Indian structures for a Russian company: wholly owned private limited company, LLP, branch, liaison and project office, and joint venture, with tax.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
     url: "https://www.theaucorp.com/russia-to-india/structure-options",
     locale: "en_RU",
   },
   twitter: {
-    title: "Structure Options in India for a Russian Company",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "Compare Indian structures for a Russian company: wholly owned private limited company, LLP, branch, liaison and project office, and joint venture, with tax.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
   },
 }
 

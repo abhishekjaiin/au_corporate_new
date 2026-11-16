@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Incorporating an Indian Subsidiary from the UK",
+    absolute: "How to Register a Company in India from UK: A 2026 Guide",
   },
   description:
-    "A week-by-week plan for a UK company to incorporate a wholly owned Indian subsidiary: documents, DSC and DIN, SPICe+, bank account, FC-GPR, first board.",
+    "How to register a company in India from UK. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers.",
+  keywords: ["how to register a company in India from UK", "UK company incorporation in India", "SPICe+ incorporation", "incorporation timeline", "DIN", "DSC", "name approval", "MOA AOA", "PAN TAN"],
   alternates: guideAlternates("uk", "incorporation-process"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Incorporating%20an%20Indian%20Subsidiary%20from%20the%20UK", width: 1200, height: 630, alt: "Incorporating an Indian Subsidiary from the UK" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=How%20to%20Register%20a%20Company%20in%20India%20from%20UK%3A%20A%202026%20Guide", width: 1200, height: 630, alt: "How to Register a Company in India from UK: A 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Incorporating an Indian Subsidiary from the UK",
+    title: "How to Register a Company in India from UK: A 2026 Guide",
     description:
-      "A week-by-week plan for a UK company to incorporate a wholly owned Indian subsidiary: documents, DSC and DIN, SPICe+, bank account, FC-GPR, first board.",
+      "How to register a company in India from UK. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers.",
     url: "https://www.theaucorp.com/uk-to-india/incorporation-steps",
     locale: "en_GB",
   },
   twitter: {
-    title: "Incorporating an Indian Subsidiary from the UK",
+    title: "How to Register a Company in India from UK: A 2026 Guide",
     description:
-      "A week-by-week plan for a UK company to incorporate a wholly owned Indian subsidiary: documents, DSC and DIN, SPICe+, bank account, FC-GPR, first board.",
+      "How to register a company in India from UK. It covers the structure, the papers your parent signs and the filings that follow in writing. Start with the papers.",
   },
 }
 

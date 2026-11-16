@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Hong Kong Documents for India: Apostille",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "How to prepare Hong Kong company and director documents for Indian filings: certified copies, notary public, Hong Kong apostille, when consular legalisation.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "Hong Kong parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("hongkong", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Hong%20Kong%20Documents%20for%20India%3A%20Apostille", width: 1200, height: 630, alt: "Hong Kong Documents for India: Apostille" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "Documents Required for Subsidiary Registration in India" }],
     siteName: "AU Corporate",
-    title: "Hong Kong Documents for India: Apostille",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "How to prepare Hong Kong company and director documents for Indian filings: certified copies, notary public, Hong Kong apostille, when consular legalisation.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/hong-kong-to-india/documents-hong-kong-apostille",
     locale: "en_HK",
   },
   twitter: {
-    title: "Hong Kong Documents for India: Apostille",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "How to prepare Hong Kong company and director documents for Indian filings: certified copies, notary public, Hong Kong apostille, when consular legalisation.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

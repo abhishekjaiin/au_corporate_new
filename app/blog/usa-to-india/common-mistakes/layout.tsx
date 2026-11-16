@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "10 Common Mistakes US Companies Make Setting Up in India",
+    absolute: "Mistakes When Setting Up a Company in India from USA",
   },
   description:
-    "The ten most common and costly mistakes US companies make when setting up an Indian subsidiary, and how to avoid each. Includes a pre-filing checklist.",
+    "Mistakes when setting up a company in India from USA. It covers the structure, the papers your parent signs and the filings that follow today. We map the steps.",
+  keywords: ["mistakes when setting up a company in India from USA", "India entry pitfalls", "FEMA penalties", "late filing", "resident director", "bank account"],
   alternates: guideAlternates("usa", "common-mistakes"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=10%20Common%20Mistakes%20US%20Companies%20Make%20Setting%20Up%20in%20India", width: 1200, height: 630, alt: "10 Common Mistakes US Companies Make Setting Up in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Mistakes%20When%20Setting%20Up%20a%20Company%20in%20India%20from%20USA", width: 1200, height: 630, alt: "Mistakes When Setting Up a Company in India from USA" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "10 Common Mistakes US Companies Make Setting Up in India",
+    title: "Mistakes When Setting Up a Company in India from USA",
     description:
-      "The ten most common and costly mistakes US companies make when setting up an Indian subsidiary, and how to avoid each. Includes a pre-filing checklist.",
+      "Mistakes when setting up a company in India from USA. It covers the structure, the papers your parent signs and the filings that follow today. We map the steps.",
     url: "https://www.theaucorp.com/usa-to-india/common-mistakes",
   },
   twitter: {
-    title: "10 Common Mistakes US Companies Make Setting Up in India",
+    title: "Mistakes When Setting Up a Company in India from USA",
     description:
-      "The ten most common and costly mistakes US companies make when setting up an Indian subsidiary, and how to avoid each. Includes a pre-filing checklist.",
+      "Mistakes when setting up a company in India from USA. It covers the structure, the papers your parent signs and the filings that follow today. We map the steps.",
   },
 }
 

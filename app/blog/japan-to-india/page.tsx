@@ -72,7 +72,7 @@ export default function JapanToIndiaHubPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="How to Set Up a Subsidiary in India from Japan: The 2026 Guide"
-        description="How Japanese companies set up a subsidiary in India: structure, FDI rules, incorporation steps, RBI/FEMA filings, tax and compliance. By a Chartered Accountant."
+        description="Set up a subsidiary in India from Japan. It covers the structure, the papers your parent signs and the filings that follow for your team. Start with the papers."
         datePublished="2026-10-20"
         dateModified="2026-11-02"
         inLanguage="en-JP"

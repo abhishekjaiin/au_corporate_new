@@ -48,7 +48,7 @@ export default function GoodsTradeCustomsAndEaeuFtaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Trade with Russia from India: Customs Duties, Origin, the India-EAEU Free Trade Talks, Defence and Energy Procurement and Export Controls"
-        description="What Russian companies and their Indian subsidiaries must know about goods: no India-Russia preferential agreement in force, EAEU free trade negotiations, customs value and origin, anti-dumping duties, BIS standards, defence and energy procurement and export controls."
+        description="India EAEU FTA. It covers the structure, the papers your parent signs and the filings that follow before the bank is asked to move money. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -223,6 +223,27 @@ export default function GoodsTradeCustomsAndEaeuFtaPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Russian
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India EAEU FTA, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about India Russia trade customs, answer it from this same file. It is not a separate project. Put rules of origin on the checklist before the first filing, not after someone asks where it went. The apostille and the English translation are the document work.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The longer conversation is the bank, and whether the payment route is one the bank will actually process. Confirm the parent can own the shares it thinks it can own. The sector, and the shareholder chain above the parent, sometimes change the route. Pick two company names you would actually answer the phone as. The first name is often taken. The second name should not be a joke you would hate to keep.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true. Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole. Waiting until India asks for it is how timelines slip. Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment. The certificate of incorporation does not pay anyone.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

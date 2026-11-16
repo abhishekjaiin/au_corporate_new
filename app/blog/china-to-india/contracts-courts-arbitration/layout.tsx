@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Contracts and Arbitration for a Chinese Parent",
+    absolute: "Dispute Resolution and Arbitration in India: 2026 Guide",
   },
   description:
-    "How a Chinese parent protects its Indian subsidiary contracts: choice of law and seat, CIETAC, HKIAC and SIAC arbitration, enforcement of awards under.",
+    "Dispute resolution and arbitration in India for Chinese companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today.",
+  keywords: ["dispute resolution and arbitration in India for Chinese companies", "enforcing contracts in India", "arbitration clause", "Arbitration and Conciliation Act", "SIAC", "LCIA", "enforcement", "jurisdiction"],
   alternates: guideAlternates("china", "contracts-and-arbitration"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Contracts%20and%20Arbitration%20for%20a%20Chinese%20Parent", width: 1200, height: 630, alt: "Contracts and Arbitration for a Chinese Parent" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Dispute%20Resolution%20and%20Arbitration%20in%20India%3A%202026%20Guide", width: 1200, height: 630, alt: "Dispute Resolution and Arbitration in India: 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Contracts and Arbitration for a Chinese Parent",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "How a Chinese parent protects its Indian subsidiary contracts: choice of law and seat, CIETAC, HKIAC and SIAC arbitration, enforcement of awards under.",
+      "Dispute resolution and arbitration in India for Chinese companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today.",
     url: "https://www.theaucorp.com/china-to-india/contracts-courts-arbitration",
     locale: "en_CN",
   },
   twitter: {
-    title: "Contracts and Arbitration for a Chinese Parent",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "How a Chinese parent protects its Indian subsidiary contracts: choice of law and seat, CIETAC, HKIAC and SIAC arbitration, enforcement of awards under.",
+      "Dispute resolution and arbitration in India for Chinese companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today.",
   },
 }
 

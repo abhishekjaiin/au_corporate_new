@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India Subsidiary Compliance Calendar for US Companies",
+    absolute: "Indian Subsidiary Compliance Calendar: Key Filing Steps",
   },
   description:
-    "The recurring compliance of an Indian subsidiary: monthly, quarterly, annual and event-based filings under company, tax, GST, FEMA and labour law.",
+    "Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers.",
+  keywords: ["Indian subsidiary compliance calendar", "ROC due dates", "TDS due dates for subsidiaries", "AOC-4", "MGT-7", "FLA", "GST returns", "advance tax"],
   alternates: guideAlternates("usa", "compliance-calendar"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India%20Subsidiary%20Compliance%20Calendar%20for%20US%20Companies", width: 1200, height: 630, alt: "India Subsidiary Compliance Calendar for US Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Indian%20Subsidiary%20Compliance%20Calendar%3A%20Key%20Filing%20Steps", width: 1200, height: 630, alt: "Indian Subsidiary Compliance Calendar: Key Filing Steps" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "India Subsidiary Compliance Calendar for US Companies",
+    title: "Indian Subsidiary Compliance Calendar: Key Filing Steps",
     description:
-      "The recurring compliance of an Indian subsidiary: monthly, quarterly, annual and event-based filings under company, tax, GST, FEMA and labour law.",
+      "Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers.",
     url: "https://www.theaucorp.com/usa-to-india/compliance-calendar",
   },
   twitter: {
-    title: "India Subsidiary Compliance Calendar for US Companies",
+    title: "Indian Subsidiary Compliance Calendar: Key Filing Steps",
     description:
-      "The recurring compliance of an Indian subsidiary: monthly, quarterly, annual and event-based filings under company, tax, GST, FEMA and labour law.",
+      "Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers.",
   },
 }
 

@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Indian Subsidiary Registration for Foreign Companies",
+    absolute: "Indian Subsidiary Registration: Documents and Deadlines",
   },
   description:
-    "Register your India subsidiary with AU Corporate: incorporation, PAN, TAN, bank account, share issue and FC-GPR in 4–6 weeks, USD 750–1,000 all-inclusive.",
+    "Indian subsidiary registration. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. We map the steps.",
+  keywords: ["Indian subsidiary registration", "wholly owned subsidiary in India", "foreign subsidiary company registration", "set up subsidiary in India", "FDI automatic route", "SPICe+", "DIN", "resident director", "apostille", "FC-GPR"],
   alternates: {
     canonical: "https://www.theaucorp.com/india-subsidiary-registration",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=Indian%20Subsidiary%20Registration%20for%20Foreign%20Companies", width: 1200, height: 630, alt: "Indian Subsidiary Registration for Foreign Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Indian%20Subsidiary%20Registration%3A%20Documents%20and%20Deadlines", width: 1200, height: 630, alt: "Indian Subsidiary Registration: Documents and Deadlines" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "Indian Subsidiary Registration for Foreign Companies",
+    title: "Indian Subsidiary Registration: Documents and Deadlines",
     description:
-      "Register your India subsidiary with AU Corporate: incorporation, PAN, TAN, bank account, share issue and FC-GPR in 4–6 weeks, USD 750–1,000 all-inclusive.",
+      "Indian subsidiary registration. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. We map the steps.",
     url: "https://www.theaucorp.com/india-subsidiary-registration",
   },
   twitter: {
-    title: "Indian Subsidiary Registration for Foreign Companies",
+    title: "Indian Subsidiary Registration: Documents and Deadlines",
     description:
-      "Register your India subsidiary with AU Corporate: incorporation, PAN, TAN, bank account, share issue and FC-GPR in 4–6 weeks, USD 750–1,000 all-inclusive.",
+      "Indian subsidiary registration. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. We map the steps.",
   },
 }
 

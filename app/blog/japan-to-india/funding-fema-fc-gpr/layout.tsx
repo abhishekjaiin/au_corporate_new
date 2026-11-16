@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Funding an Indian Subsidiary from Japan: FEMA and FC-GPR",
+    absolute: "FC-GPR Filing for Japanese Investors: 2026 Filing Guide",
   },
   description:
-    "How a Japanese parent invests in an Indian subsidiary: equity, CCPS, ECB, the 60-day allotment rule, pricing, and RBI reporting through Form FC-GPR on FIRMS.",
+    "FC-GPR filing for Japanese investors. It covers share-capital reporting, parent loans and the clock that starts on allotment in practice. Start with the papers.",
+  keywords: ["FC-GPR filing for Japanese investors", "FEMA compliance", "FDI reporting", "FIRMS portal", "30 days", "valuation certificate", "KYC", "share allotment"],
   alternates: guideAlternates("japan", "funding-fema-fc-gpr"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Funding%20an%20Indian%20Subsidiary%20from%20Japan%3A%20FEMA%20and%20FC-GPR", width: 1200, height: 630, alt: "Funding an Indian Subsidiary from Japan: FEMA and FC-GPR" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=FC-GPR%20Filing%20for%20Japanese%20Investors%3A%202026%20Filing%20Guide", width: 1200, height: 630, alt: "FC-GPR Filing for Japanese Investors: 2026 Filing Guide" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "Funding an Indian Subsidiary from Japan: FEMA and FC-GPR",
+    title: "FC-GPR Filing for Japanese Investors: 2026 Filing Guide",
     description:
-      "How a Japanese parent invests in an Indian subsidiary: equity, CCPS, ECB, the 60-day allotment rule, pricing, and RBI reporting through Form FC-GPR on FIRMS.",
+      "FC-GPR filing for Japanese investors. It covers share-capital reporting, parent loans and the clock that starts on allotment in practice. Start with the papers.",
     url: "https://www.theaucorp.com/japan-to-india/funding-fema-fc-gpr",
   },
   twitter: {
-    title: "Funding an Indian Subsidiary from Japan: FEMA and FC-GPR",
+    title: "FC-GPR Filing for Japanese Investors: 2026 Filing Guide",
     description:
-      "How a Japanese parent invests in an Indian subsidiary: equity, CCPS, ECB, the 60-day allotment rule, pricing, and RBI reporting through Form FC-GPR on FIRMS.",
+      "FC-GPR filing for Japanese investors. It covers share-capital reporting, parent loans and the clock that starts on allotment in practice. Start with the papers.",
   },
 }
 

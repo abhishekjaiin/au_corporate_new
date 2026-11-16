@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Contracts, Courts and Arbitration between India and Russia",
+    absolute: "Dispute Resolution and Arbitration in India: 2026 Guide",
   },
   description:
-    "How to draft and enforce contracts between a Russian company and Indian counterparties: governing law, arbitration seat and institution, enforcing awards.",
+    "Dispute resolution and arbitration in India for Russian companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today.",
+  keywords: ["dispute resolution and arbitration in India for Russian companies", "enforcing contracts in India", "arbitration clause", "Arbitration and Conciliation Act", "SIAC", "LCIA", "enforcement", "jurisdiction"],
   alternates: guideAlternates("russia", "contracts-and-arbitration"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Contracts%2C%20Courts%20and%20Arbitration%20between%20India%20and%20Russia", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Dispute%20Resolution%20and%20Arbitration%20in%20India%3A%202026%20Guide", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Contracts, Courts and Arbitration between India and Russia",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "How to draft and enforce contracts between a Russian company and Indian counterparties: governing law, arbitration seat and institution, enforcing awards.",
+      "Dispute resolution and arbitration in India for Russian companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today.",
     url: "https://www.theaucorp.com/russia-to-india/contracts-courts-arbitration",
     locale: "en_RU",
   },
   twitter: {
-    title: "Contracts, Courts and Arbitration between India and Russia",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "How to draft and enforce contracts between a Russian company and Indian counterparties: governing law, arbitration seat and institution, enforcing awards.",
+      "Dispute resolution and arbitration in India for Russian companies. It covers share-capital reporting, parent loans and the clock that starts on allotment today.",
   },
 }
 

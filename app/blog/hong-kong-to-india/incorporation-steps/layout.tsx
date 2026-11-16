@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Incorporating an Indian Subsidiary from Hong Kong",
+    absolute: "How to Register a Company in India from Hong Kong: Guide",
   },
   description:
-    "Step-by-step route for a Hong Kong parent to set up an Indian private limited company: Press Note 3 approval, name, SPICe+, DIN and DSC, resident director.",
+    "How to register a company in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow, written for finance leads.",
+  keywords: ["how to register a company in India from Hong Kong", "Hong Kong company incorporation in India", "SPICe+ incorporation", "incorporation timeline", "DIN", "DSC", "name approval", "MOA AOA", "PAN TAN"],
   alternates: guideAlternates("hongkong", "incorporation-process"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Incorporating%20an%20Indian%20Subsidiary%20from%20Hong%20Kong", width: 1200, height: 630, alt: "Incorporating an Indian Subsidiary from Hong Kong" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=How%20to%20Register%20a%20Company%20in%20India%20from%20Hong%20Kong%3A%20Guide", width: 1200, height: 630, alt: "How to Register a Company in India from Hong Kong: Guide" }],
     siteName: "AU Corporate",
-    title: "Incorporating an Indian Subsidiary from Hong Kong",
+    title: "How to Register a Company in India from Hong Kong: Guide",
     description:
-      "Step-by-step route for a Hong Kong parent to set up an Indian private limited company: Press Note 3 approval, name, SPICe+, DIN and DSC, resident director.",
+      "How to register a company in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow, written for finance leads.",
     url: "https://www.theaucorp.com/hong-kong-to-india/incorporation-steps",
     locale: "en_HK",
   },
   twitter: {
-    title: "Incorporating an Indian Subsidiary from Hong Kong",
+    title: "How to Register a Company in India from Hong Kong: Guide",
     description:
-      "Step-by-step route for a Hong Kong parent to set up an Indian private limited company: Press Note 3 approval, name, SPICe+, DIN and DSC, resident director.",
+      "How to register a company in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow, written for finance leads.",
   },
 }
 

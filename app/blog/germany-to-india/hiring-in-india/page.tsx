@@ -50,7 +50,7 @@ export default function HiringInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Hiring in India as a German Employer: What Changes from German Practice"
-        description="A comparison for German HR teams hiring in India: employment contracts, provident fund, ESI, gratuity, labour codes, notice and dismissal, no works council, payroll tax and share plans, set against German practice."
+        description="Hiring employees in India for German companies. It covers the right visa, the employer on the contract and the papers to carry this year. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-11-02"
         isPartOfUrl={PARENT_URL}
@@ -207,6 +207,27 @@ export default function HiringInIndiaPage() {
           Last updated 2 November 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a German team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for hiring employees in India for German companies, start with the decision a German company has to make. The form name is the second conversation, not the first. If the parent team asks about payroll compliance India, answer it from this same file. It is not a separate project. Keep employee benefits India in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put CTC on the checklist before the first filing, not after someone asks where it went. The Handelsregister extract has to be notarised and apostilled. GDPR and works-council questions travel with the people plan. They do not replace the Indian forms. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer. The parent company abroad is not that employer, even if it pays the group bonus.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Keep passport copies, the visa and the address registration where HR can find them. Do not leave them in the person's own laptop only. Tax residence and social security are a separate note from the visa. A person can be allowed to work and still create a payroll question you have not modelled. If the assignment is short, say so in the letter. Open-ended expat letters are how a six-month plan becomes an unplanned local hire.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

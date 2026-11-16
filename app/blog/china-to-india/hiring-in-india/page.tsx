@@ -49,7 +49,7 @@ export default function HiringInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Hiring in India as a Chinese Employer: Local Contracts, Statutory Benefits and Managing Mixed Teams"
-        description="A guide for Chinese HR teams hiring in India: written contracts, provident fund, ESI, gratuity, labour codes, notice and termination, working hours, grievance rules and the practical issues of managing a mixed Indian and Chinese team."
+        description="Hiring employees in India for Chinese companies. It covers the right visa, the employer on the contract and the papers to carry for your team. We map the steps."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -237,6 +237,30 @@ export default function HiringInIndiaPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for hiring employees in India for Chinese companies, start with the decision a Chinese company has to make. The form name is the second conversation, not the first. If the parent team asks about payroll compliance India, answer it from this same file. It is not a separate project. Keep employee benefits India in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put CTC on the checklist before the first filing, not after someone asks where it went. Check the shareholder chain for Press Note 3 before anyone drafts an Indian form. Legalised documents and a certified English translation are the usual long pole. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The parent company abroad is not that employer, even if it pays the group bonus. Keep passport copies, the visa and the address registration where HR can find them. Do not leave them in the person's own laptop only. Tax residence and social security are a separate note from the visa. A person can be allowed to work and still create a payroll question you have not modelled. If the assignment is short, say so in the letter.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Open-ended expat letters are how a six-month plan becomes an unplanned local hire. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office. The employment visa follows the employer. If you later move the person to a new entity, the visa conversation starts again. Plan the employer first. Send one PDF that has the contract, the entity name and the role.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Immigration and payroll both read it, so it has to be the same story. One folder for the year, with a dull name, beats a trail of attachments. The next finance manager should be able to open it and see what was filed without calling anyone.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

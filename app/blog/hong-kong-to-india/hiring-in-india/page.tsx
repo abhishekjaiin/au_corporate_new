@@ -48,7 +48,7 @@ export default function HiringInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Hiring Staff in India as a Hong Kong-Owned Company: Employment Contracts, Provident Fund, ESI, Gratuity and Labour Codes"
-        description="How a Hong Kong-owned Indian subsidiary hires locally: offer and employment contracts, payroll taxes, provident fund, ESI, gratuity, labour codes, shops and establishments law, notice periods, POSH and differences from Hong Kong practice."
+        description="Hiring employees in India for Hong Kong companies. It covers the right visa, the employer on the contract and the papers to carry in practice. We map the steps."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -225,6 +225,43 @@ export default function HiringInIndiaPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Hong Kong
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Hong Kong team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for hiring employees in India for Hong Kong companies, start with the decision a Hong Kong company has to make. The form name is the second conversation, not the first. If the parent team asks about payroll compliance India, answer it from this same file. It is not a separate project. Keep employee benefits India in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put CTC on the checklist before the first filing, not after someone asks where it went. Hong Kong is often the regional signer. The Indian entity still files in its own name, and the Companies Registry extract still needs an apostille. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office. The employment visa follows the employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you later move the person to a new entity, the visa conversation starts again. Plan the employer first. Send one PDF that has the contract, the entity name and the role. Immigration and payroll both read it, so it has to be the same story. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The parent company abroad is not that employer, even if it pays the group bonus. Keep passport copies, the visa and the address registration where HR can find them. Do not leave them in the person's own laptop only. Tax residence and social security are a separate note from the visa. A person can be allowed to work and still create a payroll question you have not modelled. If the assignment is short, say so in the letter.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Open-ended expat letters are how a six-month plan becomes an unplanned local hire. Write the owner's name next to every filing. If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Keep the signed PDF, not a photo of the signed PDF. Banks and the Registrar both send those back, and the week you lose is never the week you had spare.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Do not translate the Indian sequence into the sequence you use at home. The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date. Save the acknowledgement. The form, on its own, does not prove you filed.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The acknowledgement is what you produce when the group auditor asks. Use the legal name of the Indian entity on the invoice, the contract and the bank. A brand name that is close enough for a website is not close enough for a KYC team. If a step needs a wet-ink signature, book it before the signatory travels. Chasing a director through an airport lounge is how a simple filing takes a month.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            One folder for the year, with a dull name, beats a trail of attachments. The next finance manager should be able to open it and see what was filed without calling anyone. Read the activity you registered against the work you actually do. Drift is quiet. It shows up when a bank, a customer or an auditor asks a question you did not expect. A fixed scope is kinder than an open promise to 'handle India'.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            List the forms, the period and what is outside the work. People can plan around a list. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

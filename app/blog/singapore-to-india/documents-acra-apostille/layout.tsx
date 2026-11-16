@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Singapore ACRA Documents and Apostille for India",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "The document checklist for a Singapore parent forming an Indian subsidiary: ACRA business profile, constitution, board resolution, director identity papers.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "Singapore parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("singapore", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Singapore%20ACRA%20Documents%20and%20Apostille%20for%20India", width: 1200, height: 630, alt: "Singapore ACRA Documents and Apostille for India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "Documents Required for Subsidiary Registration in India" }],
     siteName: "AU Corporate",
-    title: "Singapore ACRA Documents and Apostille for India",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "The document checklist for a Singapore parent forming an Indian subsidiary: ACRA business profile, constitution, board resolution, director identity papers.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/singapore-to-india/documents-acra-apostille",
     locale: "en_SG",
   },
   twitter: {
-    title: "Singapore ACRA Documents and Apostille for India",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "The document checklist for a Singapore parent forming an Indian subsidiary: ACRA business profile, constitution, board resolution, director identity papers.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

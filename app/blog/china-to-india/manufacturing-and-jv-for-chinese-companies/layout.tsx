@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Manufacturing and Joint Ventures for Chinese Companies",
+    absolute: "Chinese Joint Venture in India Manufacturing: Key Steps",
   },
   description:
-    "How Chinese manufacturers approach India: joint ventures with Indian partners, the 60-day fast-track sectors under the amended Press Note 3, incentive.",
+    "Chinese joint venture in India manufacturing. It covers the structure, the papers your parent signs and the filings that follow for your team. We map the steps.",
+  keywords: ["Chinese joint venture in India manufacturing", "PLI scheme Chinese companies", "Press Note 3", "JV", "manufacturing"],
   alternates: guideAlternates("china", "manufacturing-jv"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Manufacturing%20and%20Joint%20Ventures%20for%20Chinese%20Companies", width: 1200, height: 630, alt: "Manufacturing and Joint Ventures for Chinese Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Chinese%20Joint%20Venture%20in%20India%20Manufacturing%3A%20Key%20Steps", width: 1200, height: 630, alt: "Chinese Joint Venture in India Manufacturing: Key Steps" }],
     siteName: "AU Corporate",
-    title: "Manufacturing and Joint Ventures for Chinese Companies",
+    title: "Chinese Joint Venture in India Manufacturing: Key Steps",
     description:
-      "How Chinese manufacturers approach India: joint ventures with Indian partners, the 60-day fast-track sectors under the amended Press Note 3, incentive.",
+      "Chinese joint venture in India manufacturing. It covers the structure, the papers your parent signs and the filings that follow for your team. We map the steps.",
     url: "https://www.theaucorp.com/china-to-india/manufacturing-and-jv-for-chinese-companies",
     locale: "en_CN",
   },
   twitter: {
-    title: "Manufacturing and Joint Ventures for Chinese Companies",
+    title: "Chinese Joint Venture in India Manufacturing: Key Steps",
     description:
-      "How Chinese manufacturers approach India: joint ventures with Indian partners, the 60-day fast-track sectors under the amended Press Note 3, incentive.",
+      "Chinese joint venture in India manufacturing. It covers the structure, the papers your parent signs and the filings that follow for your team. We map the steps.",
   },
 }
 

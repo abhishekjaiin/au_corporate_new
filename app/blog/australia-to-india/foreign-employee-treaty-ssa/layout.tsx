@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Treaty and Social Security for Foreign Employees in India",
+    absolute: "India Australia Social Security Agreement: A 2026 Guide",
   },
   description:
-    "How the India-Australia DTAA (Article 15) and the India-Australia Social Security Agreement apply to Australian employees working in India: the 183-day.",
+    "India Australia social security agreement. It covers the right visa, the employer on the contract and the papers to carry in plain English with the dates named.",
+  keywords: ["India Australia social security agreement", "certificate of coverage", "international worker PF", "EPF", "superannuation", "exemption"],
   alternates: guideAlternates("australia", "foreign-employee-treaty-ssa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Treaty%20and%20Social%20Security%20for%20Foreign%20Employees%20in%20India", width: 1200, height: 630, alt: "Treaty and Social Security for Foreign Employees in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20Australia%20Social%20Security%20Agreement%3A%20A%202026%20Guide", width: 1200, height: 630, alt: "India Australia Social Security Agreement: A 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Treaty and Social Security for Foreign Employees in India",
+    title: "India Australia Social Security Agreement: A 2026 Guide",
     description:
-      "How the India-Australia DTAA (Article 15) and the India-Australia Social Security Agreement apply to Australian employees working in India: the 183-day.",
+      "India Australia social security agreement. It covers the right visa, the employer on the contract and the papers to carry in plain English with the dates named.",
     url: "https://www.theaucorp.com/australia-to-india/foreign-employee-treaty-ssa",
     locale: "en_AU",
   },
   twitter: {
-    title: "Treaty and Social Security for Foreign Employees in India",
+    title: "India Australia Social Security Agreement: A 2026 Guide",
     description:
-      "How the India-Australia DTAA (Article 15) and the India-Australia Social Security Agreement apply to Australian employees working in India: the 183-day.",
+      "India Australia social security agreement. It covers the right visa, the employer on the contract and the papers to carry in plain English with the dates named.",
   },
 }
 

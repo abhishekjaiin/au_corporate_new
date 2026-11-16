@@ -51,7 +51,7 @@ export default function DtaaWithholdingRatesPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="India-Japan DTAA Withholding Tax Rates: Dividends, Interest, Royalties and Fees for Technical Services"
-        description="Treaty rates for payments from India to Japan: 10% on dividends, interest, royalties and fees for technical services, against 20% domestic rates."
+        description="DTAA withholding tax rates India Japan. It covers corporate tax, GST, intercompany charges and the calendar to track so the dates stay honest. We map the steps."
         datePublished="2026-10-20"
         dateModified="2026-10-20"
         isPartOfUrl={PARENT_URL}
@@ -265,6 +265,20 @@ export default function DtaaWithholdingRatesPage() {
           Last updated 20 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Japanese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for DTAA withholding tax rates India Japan, start with the decision a Japanese company has to make. The form name is the second conversation, not the first. If the parent team asks about India Japan DTAA rates, answer it from this same file. It is not a separate project. Put dividend on the checklist before the first filing, not after someone asks where it went. interest sits on the critical path more often than people expect.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Leave a line for it in the working paper. Tokyo will want a short Japanese recap of what India just filed. Write that recap when you file, or it becomes a second project. Store the treaty residency certificate with the withholding working paper. The rate is only as good as the paper that supports it.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

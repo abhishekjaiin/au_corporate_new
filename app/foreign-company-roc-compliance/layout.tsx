@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "ROC Compliance for Foreign Companies in India: FC-1 to FC-4",
+    absolute: "Foreign Company ROC Compliance: Documents and Deadlines",
   },
   description:
-    "Form FC-1 registration, FC-2 changes, FC-3 accounts and the FC-4 annual return for a foreign company's India branch office.",
+    "Foreign company ROC compliance. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. We map the steps.",
+  keywords: ["foreign company ROC compliance", "Form FC-3 filing", "Form FC-4 annual return", "Form FC-1 registration", "FC-2", "authorised representative", "MCA", "Companies Act section 380", "late fee"],
   alternates: {
     canonical: "https://www.theaucorp.com/foreign-company-roc-compliance",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=ROC%20Compliance%20for%20Foreign%20Companies%20in%20India%3A%20FC-1%20to%20FC-4", width: 1200, height: 630, alt: "ROC Compliance for Foreign Companies in India: FC-1 to FC-4" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Foreign%20Company%20ROC%20Compliance%3A%20Documents%20and%20Deadlines", width: 1200, height: 630, alt: "Foreign Company ROC Compliance: Documents and Deadlines" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "ROC Compliance for Foreign Companies in India: FC-1 to FC-4",
+    title: "Foreign Company ROC Compliance: Documents and Deadlines",
     description:
-      "Form FC-1 registration, FC-2 changes, FC-3 accounts and the FC-4 annual return for a foreign company's India branch office.",
+      "Foreign company ROC compliance. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. We map the steps.",
     url: "https://www.theaucorp.com/foreign-company-roc-compliance",
   },
   twitter: {
-    title: "ROC Compliance for Foreign Companies in India: FC-1 to FC-4",
+    title: "Foreign Company ROC Compliance: Documents and Deadlines",
     description:
-      "Form FC-1 registration, FC-2 changes, FC-3 accounts and the FC-4 annual return for a foreign company's India branch office.",
+      "Foreign company ROC compliance. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. We map the steps.",
   },
 }
 

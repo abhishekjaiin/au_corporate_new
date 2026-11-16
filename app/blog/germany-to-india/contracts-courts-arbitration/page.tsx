@@ -48,7 +48,7 @@ export default function ContractsCourtsArbitrationPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Contracts, Courts and Arbitration: Choosing Law and Seat, and Enforcing in India and Germany"
-        description="How a German parent protects its Indian subsidiary contracts: choice of law, DIS and other arbitration, why German court judgments need a fresh suit in India, enforcing awards, stamping and the investment protection gap."
+        description="Dispute resolution and arbitration in India for German companies. See the papers, the order and the timing before anyone promises a date. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -237,6 +237,17 @@ export default function ContractsCourtsArbitrationPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and German
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a German team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for dispute resolution and arbitration in India for German companies, start with the decision a German company has to make. The form name is the second conversation, not the first. If the parent team asks about enforcing contracts in India, answer it from this same file. It is not a separate project. Keep arbitration clause in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/fema-rbi-compliance" className="font-semibold text-blue-800 underline">FEMA and RBI compliance</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

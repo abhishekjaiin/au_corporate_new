@@ -53,7 +53,7 @@ export default function EorVsSubsidiaryPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Employer of Record vs. Subsidiary in India: When to Use Each"
-        description="Compare an Employer of Record with your own Indian subsidiary: speed, control, compliance, tax presence and when to convert. A guide for US companies."
+        description="EOR vs subsidiary in India. It covers the employer, the pay date, provident fund and the expat papers in plain English with the dates named this year carefully."
         datePublished="2026-10-07"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -265,6 +265,30 @@ export default function EorVsSubsidiaryPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for EOR vs subsidiary in India, start with the decision a US company has to make. The form name is the second conversation, not the first. If the parent team asks about employer of record India, answer it from this same file. It is not a separate project. Keep when to set up subsidiary in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put IP ownership on the checklist before the first filing, not after someone asks where it went. The slow piece for a US parent is the state apostille on the board resolution, not the Indian portal. Form 5471 and the group audit pack come after the Indian entity exists. Set the pay date, the tax deposit and the salary register as one routine. Missing one of them is how a small team meets a notice in month four.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put expat gross-up, Indian provident fund and any home-country social security on one sheet. They do not net off by themselves. Contractors are not a quieter way to hire employees. If the person works like staff, treat them as staff and take the registrations that go with that. Keep contracts, ID and the monthly pay file for the year in one place. The labour inspection, when it comes, does not accept a search through inboxes.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Tell the parent the monthly payroll number in the group format. Do not make a controller in another city rebuild it from Indian payslips. When someone leaves, finish the full and final settlement and the exit letters. A dangling employee on the register is a small mess that grows. Do not pay an India hire from a parent card or a personal account. It feels practical for a month. It is a payroll and a permanent-establishment problem after that.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The offer letter should name the Indian employer. A group brand on the letter and a different company on the PF record will not survive a question. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

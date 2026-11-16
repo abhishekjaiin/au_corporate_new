@@ -47,7 +47,7 @@ export default function HongKongEmployeesInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Hong Kong Employees in India: Salary Tax, the MPF Position and EPF for International Workers"
-        description="What a Hong Kong employer must plan for staff in India: Indian salary tax and the treaty day-count test, Hong Kong salaries tax, MPF, EPF for international workers because there is no social security agreement, and secondment contracts."
+        description="India Hong Kong social security for employees. It covers the right visa, the employer on the contract and the papers to carry in writing. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -237,6 +237,20 @@ export default function HongKongEmployeesInIndiaPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Hong Kong
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Hong Kong team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Hong Kong social security for employees, start with the decision a Hong Kong company has to make. The form name is the second conversation, not the first. If the parent team asks about international worker PF, answer it from this same file. It is not a separate project. Keep certificate of coverage in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put EPF on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

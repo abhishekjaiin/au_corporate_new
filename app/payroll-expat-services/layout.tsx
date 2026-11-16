@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Payroll, PF, ESI and Expat Services in India",
+    absolute: "Payroll Outsourcing India for Foreign Companies in 2026",
   },
   description:
-    "Payroll, PF and ESI, professional tax, labour law compliance, recruitment, employment contracts and FRRO registration for expats in India.",
+    "Payroll outsourcing India for foreign companies. It covers the right visa, the employer on the contract and the papers to carry for your team. We map the steps.",
+  keywords: ["payroll outsourcing India for foreign companies", "PF ESI compliance", "expat payroll India", "FRRO registration", "professional tax", "labour codes", "gratuity", "Form 16", "employment contract"],
   alternates: {
     canonical: "https://www.theaucorp.com/payroll-expat-services",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=Payroll%2C%20PF%2C%20ESI%20and%20Expat%20Services%20in%20India", width: 1200, height: 630, alt: "Payroll, PF, ESI and Expat Services in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Payroll%20Outsourcing%20India%20for%20Foreign%20Companies%20in%202026", width: 1200, height: 630, alt: "Payroll Outsourcing India for Foreign Companies in 2026" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "Payroll, PF, ESI and Expat Services in India",
+    title: "Payroll Outsourcing India for Foreign Companies in 2026",
     description:
-      "Payroll, PF and ESI, professional tax, labour law compliance, recruitment, employment contracts and FRRO registration for expats in India.",
+      "Payroll outsourcing India for foreign companies. It covers the right visa, the employer on the contract and the papers to carry for your team. We map the steps.",
     url: "https://www.theaucorp.com/payroll-expat-services",
   },
   twitter: {
-    title: "Payroll, PF, ESI and Expat Services in India",
+    title: "Payroll Outsourcing India for Foreign Companies in 2026",
     description:
-      "Payroll, PF and ESI, professional tax, labour law compliance, recruitment, employment contracts and FRRO registration for expats in India.",
+      "Payroll outsourcing India for foreign companies. It covers the right visa, the employer on the contract and the papers to carry for your team. We map the steps.",
   },
 }
 

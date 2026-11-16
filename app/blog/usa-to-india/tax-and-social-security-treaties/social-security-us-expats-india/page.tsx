@@ -50,7 +50,7 @@ export default function SocialSecurityUsExpatsIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Social Security for US Expats in India: Is There a US-India Totalization Agreement?"
-        description="Is there a US-India social security agreement? What applies to a US expat in India: provident fund, US FICA, double coverage and planning."
+        description="Social security for US expats in India. It covers the right visa, the employer on the contract and the papers to carry in plain English and with one owner here."
         datePublished="2026-10-14"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -259,6 +259,23 @@ export default function SocialSecurityUsExpatsIndiaPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for social security for US expats in India, start with the decision a US company has to make. The form name is the second conversation, not the first. If the parent team asks about India US social security, answer it from this same file. It is not a separate project. Put totalization on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            EPF sits on the critical path more often than people expect. Leave a line for it in the working paper. The slow piece for a US parent is the state apostille on the board resolution, not the Indian portal. Form 5471 and the group audit pack come after the Indian entity exists. Send one PDF that has the contract, the entity name and the role. Immigration and payroll both read it, so it has to be the same story.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

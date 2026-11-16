@@ -45,7 +45,7 @@ export default function CommonMistakesPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Twelve Common Mistakes Russian Companies Make in India and How to Avoid Them"
-        description="The most common mistakes of Russian companies entering India: ignoring banking and sanctions, skipping Russian clearance, late FEMA filings, weak treaty paperwork, secondment tax errors, unauthenticated documents, unstamped contracts and ignoring the Indian calendar."
+        description="Mistakes when setting up a company in India from Russia. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -241,6 +241,30 @@ export default function CommonMistakesPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Russian
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for mistakes when setting up a company in India from Russia, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about India entry pitfalls, answer it from this same file. It is not a separate project. Put FEMA penalties on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The apostille and the English translation are the document work. The longer conversation is the bank, and whether the payment route is one the bank will actually process. Allot the shares, then report the investment. The day the money arrives and the day the shares are allotted are different days, and the reporting clock follows the allotment. Decide the structure before you collect passports. A subsidiary, a branch and a liaison office are different permissions, different tax and a different way out.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Confirm the parent can own the shares it thinks it can own. The sector, and the shareholder chain above the parent, sometimes change the route. Pick two company names you would actually answer the phone as. The first name is often taken. The second name should not be a joke you would hate to keep. Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole. Waiting until India asks for it is how timelines slip. Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The certificate of incorporation does not pay anyone. Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

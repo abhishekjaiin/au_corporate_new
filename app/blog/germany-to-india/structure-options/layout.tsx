@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Choosing an Indian Structure from Germany",
+    absolute: "Subsidiary vs Branch vs Liaison Office in India in 2026",
   },
   description:
-    "A decision guide for German companies: wholly owned subsidiary, joint venture with an Indian partner, project office, branch, liaison office, LLP and EOR.",
+    "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
+  keywords: ["subsidiary vs branch vs liaison office in India", "India entry structure for German companies", "LLP vs private limited", "wholly owned subsidiary", "branch office", "liaison office", "tax rate"],
   alternates: guideAlternates("germany", "subsidiary-vs-branch-vs-liaison-office-vs-llp"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Choosing%20an%20Indian%20Structure%20from%20Germany", width: 1200, height: 630, alt: "Choosing an Indian Structure from Germany" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%20vs%20Branch%20vs%20Liaison%20Office%20in%20India%20in%202026", width: 1200, height: 630, alt: "Subsidiary vs Branch vs Liaison Office in India in 2026" }],
     siteName: "AU Corporate",
-    title: "Choosing an Indian Structure from Germany",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "A decision guide for German companies: wholly owned subsidiary, joint venture with an Indian partner, project office, branch, liaison office, LLP and EOR.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
     url: "https://www.theaucorp.com/germany-to-india/structure-options",
     locale: "en_DE",
   },
   twitter: {
-    title: "Choosing an Indian Structure from Germany",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "A decision guide for German companies: wholly owned subsidiary, joint venture with an Indian partner, project office, branch, liaison office, LLP and EOR.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
   },
 }
 

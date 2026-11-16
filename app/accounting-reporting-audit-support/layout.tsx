@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Accounting & Audit Support for Indian Subsidiaries",
+    absolute: "Accounting Services for Foreign Companies in India",
   },
   description:
-    "Monthly accounting, reconciliations, TDS and GST workings and US GAAP or IFRS reporting for your Indian subsidiary, plus audit support. From USD 240 a month.",
+    "Accounting services for foreign companies in India. It covers the Indian statutory audit, the parent pack and how to prepare the file for you. We map the steps.",
+  keywords: ["accounting services for foreign companies in India", "statutory audit India subsidiary", "US GAAP reporting India", "monthly bookkeeping India", "IFRS", "Ind AS", "tax audit", "reconciliation", "TDS", "GST"],
   alternates: {
     canonical: "https://www.theaucorp.com/accounting-reporting-audit-support",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=Accounting%20%26%20Audit%20Support%20for%20Indian%20Subsidiaries", width: 1200, height: 630, alt: "Accounting & Audit Support for Indian Subsidiaries" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Accounting%20Services%20for%20Foreign%20Companies%20in%20India", width: 1200, height: 630, alt: "Accounting Services for Foreign Companies in India" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "Accounting & Audit Support for Indian Subsidiaries",
+    title: "Accounting Services for Foreign Companies in India",
     description:
-      "Monthly accounting, reconciliations, TDS and GST workings and US GAAP or IFRS reporting for your Indian subsidiary, plus audit support. From USD 240 a month.",
+      "Accounting services for foreign companies in India. It covers the Indian statutory audit, the parent pack and how to prepare the file for you. We map the steps.",
     url: "https://www.theaucorp.com/accounting-reporting-audit-support",
   },
   twitter: {
-    title: "Accounting & Audit Support for Indian Subsidiaries",
+    title: "Accounting Services for Foreign Companies in India",
     description:
-      "Monthly accounting, reconciliations, TDS and GST workings and US GAAP or IFRS reporting for your Indian subsidiary, plus audit support. From USD 240 a month.",
+      "Accounting services for foreign companies in India. It covers the Indian statutory audit, the parent pack and how to prepare the file for you. We map the steps.",
   },
 }
 

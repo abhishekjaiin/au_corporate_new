@@ -6,7 +6,8 @@ export const metadata: Metadata = {
     absolute: "Set Up a Subsidiary in India from Singapore: 2026 Guide",
   },
   description:
-    "How Singapore companies set up a subsidiary in India: structure, FDI rules, incorporation, FEMA filings, the India-Singapore tax treaty, holding companies.",
+    "Set up a subsidiary in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
+  keywords: ["set up a subsidiary in India from Singapore", "Singapore company setup in India", "register a company in India from Singapore", "India entry for Singapore companies", "FDI", "wholly owned subsidiary", "FEMA", "DTAA", "resident director", "FC-GPR"],
   alternates: guideAlternates("singapore", "hub"),
   openGraph: {
     type: "article",
@@ -14,14 +15,14 @@ export const metadata: Metadata = {
     siteName: "AU Corporate",
     title: "Set Up a Subsidiary in India from Singapore: 2026 Guide",
     description:
-      "How Singapore companies set up a subsidiary in India: structure, FDI rules, incorporation, FEMA filings, the India-Singapore tax treaty, holding companies.",
+      "Set up a subsidiary in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
     url: "https://www.theaucorp.com/singapore-to-india",
     locale: "en_SG",
   },
   twitter: {
     title: "Set Up a Subsidiary in India from Singapore: 2026 Guide",
     description:
-      "How Singapore companies set up a subsidiary in India: structure, FDI rules, incorporation, FEMA filings, the India-Singapore tax treaty, holding companies.",
+      "Set up a subsidiary in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
   },
 }
 

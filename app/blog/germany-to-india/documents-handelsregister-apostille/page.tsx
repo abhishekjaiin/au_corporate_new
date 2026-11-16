@@ -47,7 +47,7 @@ export default function DocumentsHandelsregisterApostillePage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Documents a German Company Must Prepare to Set Up an Indian Subsidiary: Handelsregister, Notary, Apostille and Translation"
-        description="The document checklist for a German parent forming an Indian subsidiary: Handelsregister extract, articles of association, shareholder resolution, certificate of representation by a notary, apostille from the Landgericht and English translation."
+        description="Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -239,6 +239,17 @@ export default function DocumentsHandelsregisterApostillePage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and German
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a German team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for documents required for subsidiary registration in India, start with the decision a German company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

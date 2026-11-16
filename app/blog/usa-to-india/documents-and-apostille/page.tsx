@@ -55,7 +55,7 @@ export default function DocumentsAndApostillePage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Documents Required from the US Parent, and How to Get Them Apostilled"
-        description="Which documents a US parent must prepare to incorporate an Indian subsidiary, and how notarization and apostille work for US state and federal documents."
+        description="Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent."
         datePublished="2026-10-07"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -243,6 +243,17 @@ export default function DocumentsAndApostillePage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for documents required for subsidiary registration in India, start with the decision a US company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

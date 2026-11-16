@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Global VAT and GST for Australian Companies Selling Abroad",
+    absolute: "GST in India vs VAT for Australian Companies: Key Steps",
   },
   description:
-    "How VAT and GST work for Australian companies selling digital services and goods into Europe, the UK, New Zealand, India and beyond: registration, B2B.",
+    "GST in India vs VAT for Australian companies. It covers corporate tax, GST, intercompany charges and the calendar to track for your team. Start with the papers.",
+  keywords: ["GST in India vs VAT for Australian companies", "GST registration subsidiary", "reverse charge", "input tax credit", "export of services", "LUT"],
   alternates: guideAlternates("australia", "global-vat"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Global%20VAT%20and%20GST%20for%20Australian%20Companies%20Selling%20Abroad", width: 1200, height: 630, alt: "Global VAT and GST for Australian Companies Selling Abroad" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=GST%20in%20India%20vs%20VAT%20for%20Australian%20Companies%3A%20Key%20Steps", width: 1200, height: 630, alt: "GST in India vs VAT for Australian Companies: Key Steps" }],
     siteName: "AU Corporate",
-    title: "Global VAT and GST for Australian Companies Selling Abroad",
+    title: "GST in India vs VAT for Australian Companies: Key Steps",
     description:
-      "How VAT and GST work for Australian companies selling digital services and goods into Europe, the UK, New Zealand, India and beyond: registration, B2B.",
+      "GST in India vs VAT for Australian companies. It covers corporate tax, GST, intercompany charges and the calendar to track for your team. Start with the papers.",
     url: "https://www.theaucorp.com/australia-to-india/global-vat",
     locale: "en_AU",
   },
   twitter: {
-    title: "Global VAT and GST for Australian Companies Selling Abroad",
+    title: "GST in India vs VAT for Australian Companies: Key Steps",
     description:
-      "How VAT and GST work for Australian companies selling digital services and goods into Europe, the UK, New Zealand, India and beyond: registration, B2B.",
+      "GST in India vs VAT for Australian companies. It covers corporate tax, GST, intercompany charges and the calendar to track for your team. Start with the papers.",
   },
 }
 

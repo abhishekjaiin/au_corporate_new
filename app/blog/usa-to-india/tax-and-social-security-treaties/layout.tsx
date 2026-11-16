@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Tax and Social Security Treaties for US Companies in India",
+    absolute: "India USA Tax and Social Security Treaties: A 2026 Guide",
   },
   description:
-    "The India-US tax treaty (DTAA) and social security for US expats: treaty rates, residency, EPF, FICA and the missing totalization agreement.",
+    "India USA tax and social security treaties. It covers corporate tax, GST, intercompany charges and the calendar to track before you file. Start with the papers.",
+  keywords: ["India USA tax and social security treaties", "India USA DTAA", "social security agreement", "treaty", "totalization", "PE"],
   alternates: guideAlternates("usa", "treaties-hub"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Tax%20and%20Social%20Security%20Treaties%20for%20US%20Companies%20in%20India", width: 1200, height: 630, alt: "Tax and Social Security Treaties for US Companies in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20USA%20Tax%20and%20Social%20Security%20Treaties%3A%20A%202026%20Guide", width: 1200, height: 630, alt: "India USA Tax and Social Security Treaties: A 2026 Guide" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "Tax and Social Security Treaties for US Companies in India",
+    title: "India USA Tax and Social Security Treaties: A 2026 Guide",
     description:
-      "The India-US tax treaty (DTAA) and social security for US expats: treaty rates, residency, EPF, FICA and the missing totalization agreement.",
+      "India USA tax and social security treaties. It covers corporate tax, GST, intercompany charges and the calendar to track before you file. Start with the papers.",
     url: "https://www.theaucorp.com/usa-to-india/tax-and-social-security-treaties",
   },
   twitter: {
-    title: "Tax and Social Security Treaties for US Companies in India",
+    title: "India USA Tax and Social Security Treaties: A 2026 Guide",
     description:
-      "The India-US tax treaty (DTAA) and social security for US expats: treaty rates, residency, EPF, FICA and the missing totalization agreement.",
+      "India USA tax and social security treaties. It covers corporate tax, GST, intercompany charges and the calendar to track before you file. Start with the papers.",
   },
 }
 

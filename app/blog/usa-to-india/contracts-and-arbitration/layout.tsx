@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Contracts and Arbitration in India for US Companies",
+    absolute: "Dispute Resolution and Arbitration in India: 2026 Guide",
   },
   description:
-    "Intercompany and customer contracts for an Indian subsidiary, governing law, arbitration clauses, the New York Convention and enforcing awards in India.",
+    "Dispute resolution and arbitration in India for US companies. It covers share-capital reporting, parent loans and the clock that starts on allotment in writing.",
+  keywords: ["dispute resolution and arbitration in India for US companies", "enforcing contracts in India", "arbitration clause", "Arbitration and Conciliation Act", "SIAC", "LCIA", "enforcement", "jurisdiction"],
   alternates: guideAlternates("usa", "contracts-and-arbitration"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Contracts%20and%20Arbitration%20in%20India%20for%20US%20Companies", width: 1200, height: 630, alt: "Contracts and Arbitration in India for US Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Dispute%20Resolution%20and%20Arbitration%20in%20India%3A%202026%20Guide", width: 1200, height: 630, alt: "Dispute Resolution and Arbitration in India: 2026 Guide" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "Contracts and Arbitration in India for US Companies",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "Intercompany and customer contracts for an Indian subsidiary, governing law, arbitration clauses, the New York Convention and enforcing awards in India.",
+      "Dispute resolution and arbitration in India for US companies. It covers share-capital reporting, parent loans and the clock that starts on allotment in writing.",
     url: "https://www.theaucorp.com/usa-to-india/contracts-and-arbitration",
   },
   twitter: {
-    title: "Contracts and Arbitration in India for US Companies",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "Intercompany and customer contracts for an Indian subsidiary, governing law, arbitration clauses, the New York Convention and enforcing awards in India.",
+      "Dispute resolution and arbitration in India for US companies. It covers share-capital reporting, parent loans and the clock that starts on allotment in writing.",
   },
 }
 

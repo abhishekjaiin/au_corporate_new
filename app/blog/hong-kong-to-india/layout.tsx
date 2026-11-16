@@ -6,7 +6,8 @@ export const metadata: Metadata = {
     absolute: "Set Up a Subsidiary in India from Hong Kong: 2026 Guide",
   },
   description:
-    "How Hong Kong companies set up a subsidiary in India: Press Note 3 approval, structure, incorporation, FEMA filings, the India-Hong Kong tax treaty.",
+    "Set up a subsidiary in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
+  keywords: ["set up a subsidiary in India from Hong Kong", "Hong Kong company setup in India", "register a company in India from Hong Kong", "India entry for Hong Kong companies", "FDI", "wholly owned subsidiary", "FEMA", "DTAA", "resident director", "FC-GPR"],
   alternates: guideAlternates("hongkong", "hub"),
   openGraph: {
     type: "article",
@@ -14,14 +15,14 @@ export const metadata: Metadata = {
     siteName: "AU Corporate",
     title: "Set Up a Subsidiary in India from Hong Kong: 2026 Guide",
     description:
-      "How Hong Kong companies set up a subsidiary in India: Press Note 3 approval, structure, incorporation, FEMA filings, the India-Hong Kong tax treaty.",
+      "Set up a subsidiary in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
     url: "https://www.theaucorp.com/hong-kong-to-india",
     locale: "en_HK",
   },
   twitter: {
     title: "Set Up a Subsidiary in India from Hong Kong: 2026 Guide",
     description:
-      "How Hong Kong companies set up a subsidiary in India: Press Note 3 approval, structure, incorporation, FEMA filings, the India-Hong Kong tax treaty.",
+      "Set up a subsidiary in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
   },
 }
 

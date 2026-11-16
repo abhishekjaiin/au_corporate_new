@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India Subsidiary Compliance Calendar: Australia",
+    absolute: "Indian Subsidiary Compliance Calendar: Key Filing Steps",
   },
   description:
-    "The recurring compliance of an Australian-owned Indian subsidiary: monthly, quarterly, annual and event-based filings under company, tax, GST, FEMA.",
+    "Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers.",
+  keywords: ["Indian subsidiary compliance calendar", "ROC due dates", "TDS due dates for subsidiaries", "AOC-4", "MGT-7", "FLA", "GST returns", "advance tax"],
   alternates: guideAlternates("australia", "compliance-calendar"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India%20Subsidiary%20Compliance%20Calendar%3A%20Australia", width: 1200, height: 630, alt: "India Subsidiary Compliance Calendar: Australia" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Indian%20Subsidiary%20Compliance%20Calendar%3A%20Key%20Filing%20Steps", width: 1200, height: 630, alt: "Indian Subsidiary Compliance Calendar: Key Filing Steps" }],
     siteName: "AU Corporate",
-    title: "India Subsidiary Compliance Calendar: Australia",
+    title: "Indian Subsidiary Compliance Calendar: Key Filing Steps",
     description:
-      "The recurring compliance of an Australian-owned Indian subsidiary: monthly, quarterly, annual and event-based filings under company, tax, GST, FEMA.",
+      "Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers.",
     url: "https://www.theaucorp.com/australia-to-india/compliance-calendar",
     locale: "en_AU",
   },
   twitter: {
-    title: "India Subsidiary Compliance Calendar: Australia",
+    title: "Indian Subsidiary Compliance Calendar: Key Filing Steps",
     description:
-      "The recurring compliance of an Australian-owned Indian subsidiary: monthly, quarterly, annual and event-based filings under company, tax, GST, FEMA.",
+      "Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers.",
   },
 }
 

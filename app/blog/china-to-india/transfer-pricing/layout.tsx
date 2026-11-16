@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Transfer Pricing Between China and India",
+    absolute: "Transfer Pricing India for Chinese Parent Companies",
   },
   description:
-    "How transfer pricing works between China and India: Indian arm's length rules and Form 48, pricing of components, equipment and technology, customs value.",
+    "Transfer pricing India for Chinese parent companies. It covers corporate tax, GST, intercompany charges and the calendar to track in practice. We map the steps.",
+  keywords: ["transfer pricing India for Chinese parent companies", "intercompany pricing India", "Form 3CEB", "arm's length", "safe harbour", "APA", "benchmarking", "master file"],
   alternates: guideAlternates("china", "transfer-pricing"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Transfer%20Pricing%20Between%20China%20and%20India", width: 1200, height: 630, alt: "Transfer Pricing Between China and India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Transfer%20Pricing%20India%20for%20Chinese%20Parent%20Companies", width: 1200, height: 630, alt: "Transfer Pricing India for Chinese Parent Companies" }],
     siteName: "AU Corporate",
-    title: "Transfer Pricing Between China and India",
+    title: "Transfer Pricing India for Chinese Parent Companies",
     description:
-      "How transfer pricing works between China and India: Indian arm's length rules and Form 48, pricing of components, equipment and technology, customs value.",
+      "Transfer pricing India for Chinese parent companies. It covers corporate tax, GST, intercompany charges and the calendar to track in practice. We map the steps.",
     url: "https://www.theaucorp.com/china-to-india/transfer-pricing",
     locale: "en_CN",
   },
   twitter: {
-    title: "Transfer Pricing Between China and India",
+    title: "Transfer Pricing India for Chinese Parent Companies",
     description:
-      "How transfer pricing works between China and India: Indian arm's length rules and Form 48, pricing of components, equipment and technology, customs value.",
+      "Transfer pricing India for Chinese parent companies. It covers corporate tax, GST, intercompany charges and the calendar to track in practice. We map the steps.",
   },
 }
 

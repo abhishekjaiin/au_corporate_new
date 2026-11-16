@@ -46,7 +46,7 @@ export default function SingaporeParentObligationsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="What a Singapore Parent Company Owes at Home When It Owns an Indian Subsidiary"
-        description="Singapore-side duties for a parent with an Indian subsidiary: territorial tax, foreign-sourced income exemption, no capital gains tax, GST, ACRA filings, transfer pricing, Pillar Two and anti-corruption law."
+        description="Singapore parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow. We map the steps."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         isPartOfUrl={PARENT_URL}
@@ -221,6 +221,17 @@ export default function SingaporeParentObligationsPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Singapore parent company obligations for Indian subsidiary, start with the decision a Singapore company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

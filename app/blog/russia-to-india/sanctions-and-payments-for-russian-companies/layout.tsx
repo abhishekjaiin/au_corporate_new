@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Sanctions and Payments for Russian Companies in India",
+    absolute: "India Russia Payments and Sanctions: 2026 Filing Guide",
   },
   description:
-    "The practical gate for Russian investors in India: US, EU and UK sanctions screening, the 50% ownership rule, Indian bank due diligence, settlement channels.",
+    "India Russia payments and sanctions. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
+  keywords: ["India Russia payments and sanctions", "rupee trade settlement", "SRVA account", "OFAC", "EU sanctions", "vostro"],
   alternates: guideAlternates("russia", "sanctions-payments"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Sanctions%20and%20Payments%20for%20Russian%20Companies%20in%20India", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20Russia%20Payments%20and%20Sanctions%3A%202026%20Filing%20Guide", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Sanctions and Payments for Russian Companies in India",
+    title: "India Russia Payments and Sanctions: 2026 Filing Guide",
     description:
-      "The practical gate for Russian investors in India: US, EU and UK sanctions screening, the 50% ownership rule, Indian bank due diligence, settlement channels.",
+      "India Russia payments and sanctions. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
     url: "https://www.theaucorp.com/russia-to-india/sanctions-and-payments-for-russian-companies",
     locale: "en_RU",
   },
   twitter: {
-    title: "Sanctions and Payments for Russian Companies in India",
+    title: "India Russia Payments and Sanctions: 2026 Filing Guide",
     description:
-      "The practical gate for Russian investors in India: US, EU and UK sanctions screening, the 50% ownership rule, Indian bank due diligence, settlement channels.",
+      "India Russia payments and sanctions. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
   },
 }
 

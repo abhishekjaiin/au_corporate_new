@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Contracts, Courts and Arbitration for UK Companies in India",
+    absolute: "Dispute Resolution and Arbitration in India: 2026 Guide",
   },
   description:
-    "How a UK company should draft contracts with its Indian subsidiary and customers, choose governing law and seat, and enforce English court judgments.",
+    "Dispute resolution and arbitration in India for UK companies. It covers share-capital reporting, parent loans and the clock that starts on allotment in writing.",
+  keywords: ["dispute resolution and arbitration in India for UK companies", "enforcing contracts in India", "arbitration clause", "Arbitration and Conciliation Act", "SIAC", "LCIA", "enforcement", "jurisdiction"],
   alternates: guideAlternates("uk", "contracts-and-arbitration"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Contracts%2C%20Courts%20and%20Arbitration%20for%20UK%20Companies%20in%20India", width: 1200, height: 630, alt: "Contracts, Courts and Arbitration for UK Companies in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Dispute%20Resolution%20and%20Arbitration%20in%20India%3A%202026%20Guide", width: 1200, height: 630, alt: "Dispute Resolution and Arbitration in India: 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Contracts, Courts and Arbitration for UK Companies in India",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "How a UK company should draft contracts with its Indian subsidiary and customers, choose governing law and seat, and enforce English court judgments.",
+      "Dispute resolution and arbitration in India for UK companies. It covers share-capital reporting, parent loans and the clock that starts on allotment in writing.",
     url: "https://www.theaucorp.com/uk-to-india/contracts-courts-arbitration",
     locale: "en_GB",
   },
   twitter: {
-    title: "Contracts, Courts and Arbitration for UK Companies in India",
+    title: "Dispute Resolution and Arbitration in India: 2026 Guide",
     description:
-      "How a UK company should draft contracts with its Indian subsidiary and customers, choose governing law and seat, and enforce English court judgments.",
+      "Dispute resolution and arbitration in India for UK companies. It covers share-capital reporting, parent loans and the clock that starts on allotment in writing.",
   },
 }
 

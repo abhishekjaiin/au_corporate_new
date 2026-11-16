@@ -48,7 +48,7 @@ export default function RussianParentObligationsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="What a Russian Parent Must Do at Home: Outbound Investment Controls, Currency Rules, Foreign Account Reporting and Tax Credit"
-        description="The Russian-side steps for a parent investing in India: Bank of Russia thresholds and approval for share investments abroad, currency control and repatriation rules, foreign account reporting, controlled foreign company rules, profit tax and treatment of Indian dividends."
+        description="Russian parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow this year carefully."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -222,6 +222,23 @@ export default function RussianParentObligationsPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Russian
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Russian parent company obligations for Indian subsidiary, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about parent company reporting India, answer it from this same file. It is not a separate project. Keep consolidation in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put CbCR on the checklist before the first filing, not after someone asks where it went. Form 3CEAA sits on the critical path more often than people expect. Leave a line for it in the working paper. The apostille and the English translation are the document work. The longer conversation is the bank, and whether the payment route is one the bank will actually process. Start the home-country notarisation while the Indian name is in process.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            That pack is usually the long pole. Waiting until India asks for it is how timelines slip.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

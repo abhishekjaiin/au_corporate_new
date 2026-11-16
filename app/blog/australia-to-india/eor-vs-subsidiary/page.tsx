@@ -50,7 +50,7 @@ export default function EorVsSubsidiaryPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Employer of Record vs. Subsidiary in India: When to Use Each"
-        description="Compare an Employer of Record with your own Indian subsidiary: speed, control, compliance, tax presence and when to convert. A guide for Australian companies."
+        description="EOR vs subsidiary in India. It covers the employer, the pay date, provident fund and the expat papers in plain English with the dates named this year carefully."
         datePublished="2026-10-15"
         dateModified="2026-11-02"
         isPartOfUrl={PARENT_URL}
@@ -221,6 +221,33 @@ export default function EorVsSubsidiaryPage() {
           Last updated 2 November 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Australian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for EOR vs subsidiary in India, start with the decision an Australian company has to make. The form name is the second conversation, not the first. If the parent team asks about employer of record India, answer it from this same file. It is not a separate project. Keep when to set up subsidiary in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put IP ownership on the checklist before the first filing, not after someone asks where it went. The Australian year-end is not 31 March. If the group pack is due on the Australian calendar, build the bridge workbook before someone asks for it in June. When someone leaves, finish the full and final settlement and the exit letters. A dangling employee on the register is a small mess that grows.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Do not pay an India hire from a parent card or a personal account. It feels practical for a month. It is a payroll and a permanent-establishment problem after that. The offer letter should name the Indian employer. A group brand on the letter and a different company on the PF record will not survive a question. Set the pay date, the tax deposit and the salary register as one routine.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Missing one of them is how a small team meets a notice in month four. Put expat gross-up, Indian provident fund and any home-country social security on one sheet. They do not net off by themselves. Contractors are not a quieter way to hire employees. If the person works like staff, treat them as staff and take the registrations that go with that. Keep contracts, ID and the monthly pay file for the year in one place.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The labour inspection, when it comes, does not accept a search through inboxes. Tell the parent the monthly payroll number in the group format. Do not make a controller in another city rebuild it from Indian payslips. Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted. Write the owner's name next to every filing.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Keep the signed PDF, not a photo of the signed PDF. Banks and the Registrar both send those back, and the week you lose is never the week you had spare.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

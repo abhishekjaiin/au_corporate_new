@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "157 FAQs: Setting Up an India Subsidiary from Russia",
+    absolute: "Russia to India Company Setup FAQ: Timeline and Filings",
   },
   description:
-    "157 plain answers for Russian companies: FDI route, sanctions, incorporation, FEMA, the India-Russia tax treaty, documents, staff, data protection.",
+    "Russia to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest. We map the steps.",
+  keywords: ["Russia to India company setup FAQ", "India subsidiary FAQ", "FDI", "resident director", "tax"],
   alternates: guideAlternates("russia", "faq"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=157%20FAQs%3A%20Setting%20Up%20an%20India%20Subsidiary%20from%20Russia", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Russia%20to%20India%20Company%20Setup%20FAQ%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "157 FAQs: Setting Up an India Subsidiary from Russia",
+    title: "Russia to India Company Setup FAQ: Timeline and Filings",
     description:
-      "157 plain answers for Russian companies: FDI route, sanctions, incorporation, FEMA, the India-Russia tax treaty, documents, staff, data protection.",
+      "Russia to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest. We map the steps.",
     url: "https://www.theaucorp.com/russia-to-india/faq",
     locale: "en_RU",
   },
   twitter: {
-    title: "157 FAQs: Setting Up an India Subsidiary from Russia",
+    title: "Russia to India Company Setup FAQ: Timeline and Filings",
     description:
-      "157 plain answers for Russian companies: FDI route, sanctions, incorporation, FEMA, the India-Russia tax treaty, documents, staff, data protection.",
+      "Russia to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest. We map the steps.",
   },
 }
 

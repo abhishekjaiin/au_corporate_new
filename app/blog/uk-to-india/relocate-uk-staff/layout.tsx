@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Relocating UK Staff to India",
+    absolute: "Relocate UK Staff to India: 2026 Guide for Foreign Firms",
   },
   description:
-    "How to move a UK employee to India: employment or short-stay visa, CETA intra-corporate transfers, FRRO registration, housing, banking and family.",
+    "Relocate UK staff to India. It covers the right visa, the employer on the contract and the papers to carry before anyone promises a date. Start with the papers.",
+  keywords: ["relocate UK staff to India", "employment visa India", "expat tax India", "FRRO", "social security", "e-visa", "tax residency"],
   alternates: guideAlternates("uk", "expat-visa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Relocating%20UK%20Staff%20to%20India", width: 1200, height: 630, alt: "Relocating UK Staff to India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Relocate%20UK%20Staff%20to%20India%3A%202026%20Guide%20for%20Foreign%20Firms", width: 1200, height: 630, alt: "Relocate UK Staff to India: 2026 Guide for Foreign Firms" }],
     siteName: "AU Corporate",
-    title: "Relocating UK Staff to India",
+    title: "Relocate UK Staff to India: 2026 Guide for Foreign Firms",
     description:
-      "How to move a UK employee to India: employment or short-stay visa, CETA intra-corporate transfers, FRRO registration, housing, banking and family.",
+      "Relocate UK staff to India. It covers the right visa, the employer on the contract and the papers to carry before anyone promises a date. Start with the papers.",
     url: "https://www.theaucorp.com/uk-to-india/relocate-uk-staff",
     locale: "en_GB",
   },
   twitter: {
-    title: "Relocating UK Staff to India",
+    title: "Relocate UK Staff to India: 2026 Guide for Foreign Firms",
     description:
-      "How to move a UK employee to India: employment or short-stay visa, CETA intra-corporate transfers, FRRO registration, housing, banking and family.",
+      "Relocate UK staff to India. It covers the right visa, the employer on the contract and the papers to carry before anyone promises a date. Start with the papers.",
   },
 }
 

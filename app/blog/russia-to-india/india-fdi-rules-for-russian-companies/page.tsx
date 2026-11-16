@@ -48,7 +48,7 @@ export default function IndiaFdiRulesForRussianCompaniesPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Can a Russian Company Invest in India? Automatic Route, Sector Caps, Defence and Sensitive Sectors, and the Real Obstacles"
-        description="How India's FDI rules apply to a Russian parent: Press Note 3 covers land-border countries and Russia is not one, the Automatic Route and sector caps, defence and nuclear limits, beneficial ownership checks and why sanctions and payments are the practical hurdles."
+        description="FDI in India from Russia. It covers the structure, the papers your parent signs and the filings that follow, with the bank pack included. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -227,6 +227,30 @@ export default function IndiaFdiRulesForRussianCompaniesPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Russian
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for FDI in India from Russia, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about Russian investment India rules, answer it from this same file. It is not a separate project. Put sectoral caps on the checklist before the first filing, not after someone asks where it went. The apostille and the English translation are the document work.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The longer conversation is the bank, and whether the payment route is one the bank will actually process. Allot the shares, then report the investment. The day the money arrives and the day the shares are allotted are different days, and the reporting clock follows the allotment. Decide the structure before you collect passports. A subsidiary, a branch and a liaison office are different permissions, different tax and a different way out.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Confirm the parent can own the shares it thinks it can own. The sector, and the shareholder chain above the parent, sometimes change the route. Pick two company names you would actually answer the phone as. The first name is often taken. The second name should not be a joke you would hate to keep. Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole. Waiting until India asks for it is how timelines slip. Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The certificate of incorporation does not pay anyone.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

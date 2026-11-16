@@ -381,6 +381,58 @@ export default function LiaisonOfficeRegistrationPage() {
           }),
         }}
       />
+            {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What to do with this in practice</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for liaison office registration in India, start with the decision a foreign company has to make. The form name is the second conversation, not the first. If the parent team asks about liaison office in India, answer it from this same file. It is not a separate project. Keep RBI approval liaison office in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put 3-year validity on the checklist before the first filing, not after someone asks where it went. Keep the parent's approval for the expense budget. Auditors and the RBI both like to see that the money was expected. If the work grows into contracts, stop and restructure. Do not stretch the old permission and hope the wording is wide enough. When you renew, file what you actually did. A renewal that describes a different office from the one you ran is a problem you wrote yourself.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Be honest about the activity. A liaison office cannot invoice Indian customers. If the plan is to sell, you are choosing the wrong structure. Write a one-page note of what the office may do. New hires drift into sales conversations. The note is how you stop that without a speech. Fund the office with expense remittances from the parent, and keep the permission letter in the bank file. The bank will ask why the money arrived.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Track the permission end date on the same calendar as the annual activity certificate. The opening party is not the date that matters. Do not hire a role whose only job is to close Indian revenue. That hire is the moment the office stops looking like a liaison office. Keep the signed PDF, not a photo of the signed PDF. Banks and the Registrar both send those back, and the week you lose is never the week you had spare.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Do not translate the Indian sequence into the sequence you use at home. The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date. Save the acknowledgement. The form, on its own, does not prove you filed.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The acknowledgement is what you produce when the group auditor asks. Use the legal name of the Indian entity on the invoice, the contract and the bank. A brand name that is close enough for a website is not close enough for a KYC team. If a step needs a wet-ink signature, book it before the signatory travels. Chasing a director through an airport lounge is how a simple filing takes a month.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            One folder for the year, with a dull name, beats a trail of attachments. The next finance manager should be able to open it and see what was filed without calling anyone. Read the activity you registered against the work you actually do. Drift is quiet. It shows up when a bank, a customer or an auditor asks a question you did not expect. A fixed scope is kinder than an open promise to 'handle India'.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            List the forms, the period and what is outside the work. People can plan around a list. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before. Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Write the owner's name next to every filing. If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Give the work a single name that both offices recognise. If India calls it onboarding and the parent calls it legal, the status email will talk about two projects that are one project. Decide what 'done' means before you start.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Done is not 'we sent the documents'. Done is the acknowledgement in the folder and the parent told, on the same day. Keep a decision log of three columns: the question, the answer, and who may change the answer. Memory is a poor system once a second director joins the thread. Do not collect passport scans in a personal WhatsApp chat. Put them in the folder with a restricted list.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            You will need them again, and you will not want to hunt a phone. When two documents disagree on a date of birth or a spelling, stop. Pick the passport and make everything else match it. Do not file the hopeful version. A weekly fifteen-minute call beats a monthly essay. The call has three questions: what moved, what is stuck, and what you need from the parent before Friday. If the parent wants a dashboard, give them five dates and a red or a green.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A dashboard with forty rows is where real blockers go to hide. Budget a week for the thing you have not thought of. In the first India setup it is usually a document in the wrong language, or a signatory who is on leave. Write the fee and the out-of-pocket items in the same note as the timeline. A timeline without a cost is how a finance controller loses trust in week six.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Do not promise a customer, or a new hire, a date you do not control. Promise the date you control, and describe the date that depends on a government or a bank as a range. After each filing, write one sentence on what it unlocked. The next person should see why the paper mattered, not only that it was uploaded. If you already have an Indian contractor or a consultant on the ground, list what they have signed and in whose name.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Old arrangements are the usual surprise.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/contact" className="font-semibold text-blue-800 underline">contact AU Corporate</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
     </main>
   )
 }

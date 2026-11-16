@@ -127,7 +127,7 @@ export default function TaxAndSocialSecurityTreatiesFaqPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Questions About the India-Japan Tax Treaty and Social Security Agreement"
-        description="50 plain answers on the India-Japan tax treaty, 10% withholding rates, certificate of residence, Form 41, expat tax and the Japan-India social security agreement."
+        description="India Japan tax treaty FAQ. It covers corporate tax, GST, intercompany charges and the calendar to track, including who signs each paper. Start with the papers."
         datePublished="2026-10-20"
         dateModified="2026-10-20"
         isPartOfUrl={PARENT_URL}
@@ -237,6 +237,17 @@ export default function TaxAndSocialSecurityTreatiesFaqPage() {
           Last updated 20 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Japanese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Japan tax treaty FAQ, start with the decision a Japanese company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

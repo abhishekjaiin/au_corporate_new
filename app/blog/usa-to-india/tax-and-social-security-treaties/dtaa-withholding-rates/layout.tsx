@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India-US DTAA Withholding Tax Rates for Payments to the US",
+    absolute: "DTAA Withholding Tax Rates India USA: 2026 Filing Guide",
   },
   description:
-    "Treaty rates for payments from India to the US: dividends 15% or 25%, interest 10% or 15%, royalties and fees 10% or 15%. Conditions and how to apply them.",
+    "DTAA withholding tax rates India USA. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads. We map the steps.",
+  keywords: ["DTAA withholding tax rates India USA", "India USA DTAA rates", "dividend", "interest", "royalty", "fees for technical services"],
   alternates: guideAlternates("usa", "dtaa-withholding-rates"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India-US%20DTAA%20Withholding%20Tax%20Rates%20for%20Payments%20to%20the%20US", width: 1200, height: 630, alt: "India-US DTAA Withholding Tax Rates for Payments to the US" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=DTAA%20Withholding%20Tax%20Rates%20India%20USA%3A%202026%20Filing%20Guide", width: 1200, height: 630, alt: "DTAA Withholding Tax Rates India USA: 2026 Filing Guide" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "India-US DTAA Withholding Tax Rates for Payments to the US",
+    title: "DTAA Withholding Tax Rates India USA: 2026 Filing Guide",
     description:
-      "Treaty rates for payments from India to the US: dividends 15% or 25%, interest 10% or 15%, royalties and fees 10% or 15%. Conditions and how to apply them.",
+      "DTAA withholding tax rates India USA. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads. We map the steps.",
     url: "https://www.theaucorp.com/usa-to-india/tax-and-social-security-treaties/dtaa-withholding-rates",
   },
   twitter: {
-    title: "India-US DTAA Withholding Tax Rates for Payments to the US",
+    title: "DTAA Withholding Tax Rates India USA: 2026 Filing Guide",
     description:
-      "Treaty rates for payments from India to the US: dividends 15% or 25%, interest 10% or 15%, royalties and fees 10% or 15%. Conditions and how to apply them.",
+      "DTAA withholding tax rates India USA. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads. We map the steps.",
   },
 }
 

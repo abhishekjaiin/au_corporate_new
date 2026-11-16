@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Documents for an Indian Subsidiary from the UK",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "The documents a UK company needs to incorporate an Indian subsidiary, how Companies House papers, notarisation and the UK apostille work, and the mistakes.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "UK parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("uk", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20for%20an%20Indian%20Subsidiary%20from%20the%20UK", width: 1200, height: 630, alt: "Documents for an Indian Subsidiary from the UK" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "Documents Required for Subsidiary Registration in India" }],
     siteName: "AU Corporate",
-    title: "Documents for an Indian Subsidiary from the UK",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "The documents a UK company needs to incorporate an Indian subsidiary, how Companies House papers, notarisation and the UK apostille work, and the mistakes.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/uk-to-india/documents-companies-house-apostille",
     locale: "en_GB",
   },
   twitter: {
-    title: "Documents for an Indian Subsidiary from the UK",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "The documents a UK company needs to incorporate an Indian subsidiary, how Companies House papers, notarisation and the UK apostille work, and the mistakes.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

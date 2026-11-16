@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Handling Indian Tax Notices for a Japanese-Owned Subsidiary",
+    absolute: "Income Tax Notices for Foreign Subsidiaries in India",
   },
   description:
-    "How a Japanese-owned Indian subsidiary should handle Indian income tax, GST and transfer pricing notices: deadlines, replies, appeals and the India-Japan MAP.",
+    "Income tax notices for foreign subsidiaries in India. It covers corporate tax, GST, intercompany charges and the calendar to track today. Start with the papers.",
+  keywords: ["income tax notices for foreign subsidiaries in India", "tax litigation India", "faceless assessment", "appeal", "CIT(A)", "ITAT"],
   alternates: guideAlternates("japan", "tax-notices-and-litigation"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Handling%20Indian%20Tax%20Notices%20for%20a%20Japanese-Owned%20Subsidiary", width: 1200, height: 630, alt: "Handling Indian Tax Notices for a Japanese-Owned Subsidiary" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Income%20Tax%20Notices%20for%20Foreign%20Subsidiaries%20in%20India", width: 1200, height: 630, alt: "Income Tax Notices for Foreign Subsidiaries in India" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "Handling Indian Tax Notices for a Japanese-Owned Subsidiary",
+    title: "Income Tax Notices for Foreign Subsidiaries in India",
     description:
-      "How a Japanese-owned Indian subsidiary should handle Indian income tax, GST and transfer pricing notices: deadlines, replies, appeals and the India-Japan MAP.",
+      "Income tax notices for foreign subsidiaries in India. It covers corporate tax, GST, intercompany charges and the calendar to track today. Start with the papers.",
     url: "https://www.theaucorp.com/japan-to-india/tax-notices-and-litigation",
   },
   twitter: {
-    title: "Handling Indian Tax Notices for a Japanese-Owned Subsidiary",
+    title: "Income Tax Notices for Foreign Subsidiaries in India",
     description:
-      "How a Japanese-owned Indian subsidiary should handle Indian income tax, GST and transfer pricing notices: deadlines, replies, appeals and the India-Japan MAP.",
+      "Income tax notices for foreign subsidiaries in India. It covers corporate tax, GST, intercompany charges and the calendar to track today. Start with the papers.",
   },
 }
 

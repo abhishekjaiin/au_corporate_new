@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India-Japan DTAA Withholding Tax Rates: Payments to Japan",
+    absolute: "DTAA Withholding Tax Rates India Japan: Key Filing Steps",
   },
   description:
-    "Treaty rates for payments from India to Japan: 10% on dividends, interest, royalties and fees for technical services, against 20% domestic rates.",
+    "DTAA withholding tax rates India Japan. It covers corporate tax, GST, intercompany charges and the calendar to track so the dates stay honest. We map the steps.",
+  keywords: ["DTAA withholding tax rates India Japan", "India Japan DTAA rates", "dividend", "interest", "royalty", "fees for technical services"],
   alternates: guideAlternates("japan", "dtaa-withholding-rates"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India-Japan%20DTAA%20Withholding%20Tax%20Rates%3A%20Payments%20to%20Japan", width: 1200, height: 630, alt: "India-Japan DTAA Withholding Tax Rates: Payments to Japan" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=DTAA%20Withholding%20Tax%20Rates%20India%20Japan%3A%20Key%20Filing%20Steps", width: 1200, height: 630, alt: "DTAA Withholding Tax Rates India Japan: Key Filing Steps" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "India-Japan DTAA Withholding Tax Rates: Payments to Japan",
+    title: "DTAA Withholding Tax Rates India Japan: Key Filing Steps",
     description:
-      "Treaty rates for payments from India to Japan: 10% on dividends, interest, royalties and fees for technical services, against 20% domestic rates.",
+      "DTAA withholding tax rates India Japan. It covers corporate tax, GST, intercompany charges and the calendar to track so the dates stay honest. We map the steps.",
     url: "https://www.theaucorp.com/japan-to-india/tax-and-social-security-treaties/dtaa-withholding-rates",
   },
   twitter: {
-    title: "India-Japan DTAA Withholding Tax Rates: Payments to Japan",
+    title: "DTAA Withholding Tax Rates India Japan: Key Filing Steps",
     description:
-      "Treaty rates for payments from India to Japan: 10% on dividends, interest, royalties and fees for technical services, against 20% domestic rates.",
+      "DTAA withholding tax rates India Japan. It covers corporate tax, GST, intercompany charges and the calendar to track so the dates stay honest. We map the steps.",
   },
 }
 

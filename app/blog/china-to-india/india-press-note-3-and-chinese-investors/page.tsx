@@ -49,7 +49,7 @@ export default function IndiaPressNote3AndChineseInvestorsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Press Note 3 for Chinese Companies: When Government Approval Is Needed and What the 2026 Easing Changes"
-        description="How India's Press Note 3 (2020) applies to a Chinese parent: prior government approval for investors incorporated in China, the 2026 easing for passive minority land-border ownership, the control test, the 60-day sectors, director clearance and planning."
+        description="Press Note 3 FDI approval. It covers the structure, the papers your parent signs and the filings that follow, including the usual timing. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -266,6 +266,23 @@ export default function IndiaPressNote3AndChineseInvestorsPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Press Note 3 FDI approval, start with the decision a Chinese company has to make. The form name is the second conversation, not the first. If the parent team asks about FDI from China India, answer it from this same file. It is not a separate project. Keep land border country FDI in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put MHA clearance on the checklist before the first filing, not after someone asks where it went. Check the shareholder chain for Press Note 3 before anyone drafts an Indian form. Legalised documents and a certified English translation are the usual long pole. Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole. Waiting until India asks for it is how timelines slip.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment. The certificate of incorporation does not pay anyone. Allot the shares, then report the investment. The day the money arrives and the day the shares are allotted are different days, and the reporting clock follows the allotment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

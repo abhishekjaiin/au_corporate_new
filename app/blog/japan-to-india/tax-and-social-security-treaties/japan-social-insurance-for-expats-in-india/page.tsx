@@ -48,7 +48,7 @@ export default function JapanSocialInsuranceForExpatsInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Japanese Social Insurance for Employees Sent to India: Pension, Health and Employment Insurance"
-        description="What happens to Japanese pension, health and employment insurance when an employee is sent to India: the Certificate of Coverage and who pays what."
+        description="Japan social insurance for expats in India. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers."
         datePublished="2026-10-20"
         dateModified="2026-10-20"
         isPartOfUrl={PARENT_URL}
@@ -256,6 +256,30 @@ export default function JapanSocialInsuranceForExpatsInIndiaPage() {
           Last updated 20 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Japanese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Japan social insurance for expats in India, start with the decision a Japanese company has to make. The form name is the second conversation, not the first. If the parent team asks about India Japan SSA, answer it from this same file. It is not a separate project. Put certificate of coverage on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            EPF sits on the critical path more often than people expect. Leave a line for it in the working paper. Tokyo will want a short Japanese recap of what India just filed. Write that recap when you file, or it becomes a second project. Keep passport copies, the visa and the address registration where HR can find them. Do not leave them in the person's own laptop only. Tax residence and social security are a separate note from the visa.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A person can be allowed to work and still create a payroll question you have not modelled. If the assignment is short, say so in the letter. Open-ended expat letters are how a six-month plan becomes an unplanned local hire. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office. The employment visa follows the employer.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you later move the person to a new entity, the visa conversation starts again. Plan the employer first. Send one PDF that has the contract, the entity name and the role. Immigration and payroll both read it, so it has to be the same story. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The parent company abroad is not that employer, even if it pays the group bonus.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

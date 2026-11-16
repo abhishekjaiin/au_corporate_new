@@ -49,7 +49,7 @@ export default function UsSocialSecurityForAmericansInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="US Social Security and FICA for Americans Working in India: Who Pays and When"
-        description="When Social Security and Medicare tax apply to Americans working in India: US employer, Indian subsidiary, Section 3121(l) agreements and self-employment."
+        description="US social security for Americans in India. It covers corporate tax, GST, intercompany charges and the calendar to track with clear dates. Start with the papers."
         datePublished="2026-10-14"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -246,6 +246,23 @@ export default function UsSocialSecurityForAmericansInIndiaPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for US social security for Americans in India, start with the decision a US company has to make. The form name is the second conversation, not the first. If the parent team asks about SSA benefits India, answer it from this same file. It is not a separate project. Put totalization on the checklist before the first filing, not after someone asks where it went. FICA sits on the critical path more often than people expect.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Leave a line for it in the working paper. The slow piece for a US parent is the state apostille on the board resolution, not the Indian portal. Form 5471 and the group audit pack come after the Indian entity exists. Corporate tax, GST and transfer pricing are three calendars. A team that watches only the income-tax return will miss a GST date, and the GST date is monthly. Give every intercompany charge a basis before the invoice goes out.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A year-end true-up with no working paper is how a transfer-pricing file gets thin. Compute withholding on the Indian rule, then check the treaty. Doing it the other way round is how a rate gets applied to the wrong payment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

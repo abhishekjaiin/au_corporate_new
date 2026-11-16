@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Russian Documents for India: Apostille and Translation",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "How to prepare Russian company and director documents for Indian filings: both countries are parties to the Apostille Convention, which authority issues.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "Russian parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("russia", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Russian%20Documents%20for%20India%3A%20Apostille%20and%20Translation", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Russian Documents for India: Apostille and Translation",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "How to prepare Russian company and director documents for Indian filings: both countries are parties to the Apostille Convention, which authority issues.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/russia-to-india/documents-apostille-and-translation",
     locale: "en_RU",
   },
   twitter: {
-    title: "Russian Documents for India: Apostille and Translation",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "How to prepare Russian company and director documents for Indian filings: both countries are parties to the Apostille Convention, which authority issues.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

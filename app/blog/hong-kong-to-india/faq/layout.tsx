@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "157 FAQs: Setting Up an India Subsidiary from Hong Kong",
+    absolute: "Hong Kong to India Company Setup FAQ: 2026 Filing Guide",
   },
   description:
-    "157 plain answers for Hong Kong companies: Press Note 3 approval, incorporation, FEMA, the India-Hong Kong tax treaty, documents, staff, data protection.",
+    "Hong Kong to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow with clear dates. Start with the papers.",
+  keywords: ["Hong Kong to India company setup FAQ", "India subsidiary FAQ", "FDI", "resident director", "tax"],
   alternates: guideAlternates("hongkong", "faq"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=157%20FAQs%3A%20Setting%20Up%20an%20India%20Subsidiary%20from%20Hong%20Kong", width: 1200, height: 630, alt: "157 FAQs: Setting Up an India Subsidiary from Hong Kong" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Hong%20Kong%20to%20India%20Company%20Setup%20FAQ%3A%202026%20Filing%20Guide", width: 1200, height: 630, alt: "Hong Kong to India Company Setup FAQ: 2026 Filing Guide" }],
     siteName: "AU Corporate",
-    title: "157 FAQs: Setting Up an India Subsidiary from Hong Kong",
+    title: "Hong Kong to India Company Setup FAQ: 2026 Filing Guide",
     description:
-      "157 plain answers for Hong Kong companies: Press Note 3 approval, incorporation, FEMA, the India-Hong Kong tax treaty, documents, staff, data protection.",
+      "Hong Kong to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow with clear dates. Start with the papers.",
     url: "https://www.theaucorp.com/hong-kong-to-india/faq",
     locale: "en_HK",
   },
   twitter: {
-    title: "157 FAQs: Setting Up an India Subsidiary from Hong Kong",
+    title: "Hong Kong to India Company Setup FAQ: 2026 Filing Guide",
     description:
-      "157 plain answers for Hong Kong companies: Press Note 3 approval, incorporation, FEMA, the India-Hong Kong tax treaty, documents, staff, data protection.",
+      "Hong Kong to India company setup FAQ. It covers the structure, the papers your parent signs and the filings that follow with clear dates. Start with the papers.",
   },
 }
 

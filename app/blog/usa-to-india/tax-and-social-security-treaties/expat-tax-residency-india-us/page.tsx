@@ -50,7 +50,7 @@ export default function ExpatTaxResidencyIndiaUsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Tax Residency for US Expats in India: Residency Tests, Treaty Tie-Breaker and Double Tax Relief"
-        description="Which country taxes a US expat in India: Indian residency tests, US worldwide tax, the treaty tie-breaker, foreign tax credit and exclusion."
+        description="Tax residency of US expats in India. It covers the right visa, the employer on the contract and the papers to carry for a foreign parent. Start with the papers."
         datePublished="2026-10-14"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -273,6 +273,17 @@ export default function ExpatTaxResidencyIndiaUsPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for tax residency of US expats in India, start with the decision a US company has to make. The form name is the second conversation, not the first. If the parent team asks about expat tax India, answer it from this same file. It is not a separate project.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

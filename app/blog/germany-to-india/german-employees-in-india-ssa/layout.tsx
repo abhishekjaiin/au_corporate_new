@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "German Employees in India: Tax and Social Security",
+    absolute: "India Germany Social Security for Employees: 2026 Guide",
   },
   description:
-    "How income tax and social security apply to German staff in India: the 183-day treaty test, the 2009 social security agreement, the 48-month detachment.",
+    "India Germany social security for employees. It covers the right visa, the employer on the contract and the papers to carry so the group calendar does not slip.",
+  keywords: ["India Germany social security for employees", "international worker PF", "certificate of coverage", "EPF", "social security agreement", "exemption"],
   alternates: guideAlternates("germany", "foreign-employee-treaty-ssa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=German%20Employees%20in%20India%3A%20Tax%20and%20Social%20Security", width: 1200, height: 630, alt: "German Employees in India: Tax and Social Security" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20Germany%20Social%20Security%20for%20Employees%3A%202026%20Guide", width: 1200, height: 630, alt: "India Germany Social Security for Employees: 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "German Employees in India: Tax and Social Security",
+    title: "India Germany Social Security for Employees: 2026 Guide",
     description:
-      "How income tax and social security apply to German staff in India: the 183-day treaty test, the 2009 social security agreement, the 48-month detachment.",
+      "India Germany social security for employees. It covers the right visa, the employer on the contract and the papers to carry so the group calendar does not slip.",
     url: "https://www.theaucorp.com/germany-to-india/german-employees-in-india-ssa",
     locale: "en_DE",
   },
   twitter: {
-    title: "German Employees in India: Tax and Social Security",
+    title: "India Germany Social Security for Employees: 2026 Guide",
     description:
-      "How income tax and social security apply to German staff in India: the 183-day treaty test, the 2009 social security agreement, the 48-month detachment.",
+      "India Germany social security for employees. It covers the right visa, the employer on the contract and the papers to carry so the group calendar does not slip.",
   },
 }
 

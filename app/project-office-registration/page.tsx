@@ -381,6 +381,43 @@ export default function ProjectOfficeRegistrationPage() {
           }),
         }}
       />
+            {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What to do with this in practice</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for project office registration in India, start with the decision a foreign company has to make. The form name is the second conversation, not the first. If the parent team asks about project office for foreign company, answer it from this same file. It is not a separate project. Keep general permission RBI in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put foreign funded project on the checklist before the first filing, not after someone asks where it went. UIN sits on the critical path more often than people expect. Leave a line for it in the working paper. Invoice only what the project office is allowed to invoice. A helpful extra service is how a project office starts to look like a branch. Plan the closure when you plan the opening.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Surplus money, people and the bank account all need a last step. Do not discover that in the final month. If the customer extends the contract, extend the permission before the old end date. Working in the gap is the part you would rather not explain. Tie the office to one contract. Write the customer, the site and the end date in the internal memo. People leave, and the next manager will not remember.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Check that the contract allows the foreign company to do the work in India. The permission cannot rescue a contract that does not. Send only the money the permission describes. A second site, or a different customer, is a new conversation with the bank and usually a new permission. Keep the contract, the RBI letter and the bank mandate in one file. Auditors ask for all three, and they ask on a Tuesday.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Hire against the project, not against a vague India plan. When the project ends, those roles end or they move into a different entity on purpose. A fixed scope is kinder than an open promise to 'handle India'. List the forms, the period and what is outside the work. People can plan around a list. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted. Write the owner's name next to every filing. If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Keep the signed PDF, not a photo of the signed PDF.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Banks and the Registrar both send those back, and the week you lose is never the week you had spare. Do not translate the Indian sequence into the sequence you use at home. The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Save the acknowledgement. The form, on its own, does not prove you filed. The acknowledgement is what you produce when the group auditor asks. Use the legal name of the Indian entity on the invoice, the contract and the bank. A brand name that is close enough for a website is not close enough for a KYC team. If a step needs a wet-ink signature, book it before the signatory travels.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Chasing a director through an airport lounge is how a simple filing takes a month.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/contact" className="font-semibold text-blue-800 underline">contact AU Corporate</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
     </main>
   )
 }

@@ -48,7 +48,7 @@ export default function DataProtectionPiplDpdpPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Moving Personal Data Between China and India: PIPL Cross-Border Routes, Important Data and the DPDP Act"
-        description="How China's PIPL, Data Security Law and cross-border data rules apply to a Chinese company with an Indian subsidiary, and how India's Digital Personal Data Protection Act and data restrictions affect the Indian side."
+        description="DPDP Act compliance for Chinese companies. It covers the structure, the papers your parent signs and the filings that follow in practice. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -231,6 +231,17 @@ export default function DataProtectionPiplDpdpPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for DPDP Act compliance for Chinese companies, start with the decision a Chinese company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

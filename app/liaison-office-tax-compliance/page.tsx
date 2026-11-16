@@ -290,6 +290,23 @@ export default function LiaisonOfficeTaxCompliancePage() {
           }),
         }}
       />
+            {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What to do with this in practice</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for liaison office taxation in India, start with the decision a foreign company has to make. The form name is the second conversation, not the first. If the parent team asks about Form 49C, answer it from this same file. It is not a separate project. Keep liaison office PE risk in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put TDS on the checklist before the first filing, not after someone asks where it went. annual statement sits on the critical path more often than people expect. Leave a line for it in the working paper. When you renew, file what you actually did. A renewal that describes a different office from the one you ran is a problem you wrote yourself. Be honest about the activity. A liaison office cannot invoice Indian customers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If the plan is to sell, you are choosing the wrong structure.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/liaison-office-registration" className="font-semibold text-blue-800 underline">liaison office registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
     </main>
   )
 }

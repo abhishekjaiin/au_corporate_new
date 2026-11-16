@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Transfer Pricing in India for Australian-Owned Subsidiaries",
+    absolute: "Transfer Pricing India for Australian Parent Companies",
   },
   description:
-    "How transfer pricing works for an Indian subsidiary of an Australian company: arm's length pricing, documentation, Form 48, methods, safe harbour and audits.",
+    "Transfer pricing India for Australian parent companies. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads.",
+  keywords: ["transfer pricing India for Australian parent companies", "intercompany pricing India", "Form 3CEB", "arm's length", "safe harbour", "APA", "benchmarking", "master file"],
   alternates: guideAlternates("australia", "transfer-pricing"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Transfer%20Pricing%20in%20India%20for%20Australian-Owned%20Subsidiaries", width: 1200, height: 630, alt: "Transfer Pricing in India for Australian-Owned Subsidiaries" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Transfer%20Pricing%20India%20for%20Australian%20Parent%20Companies", width: 1200, height: 630, alt: "Transfer Pricing India for Australian Parent Companies" }],
     siteName: "AU Corporate",
-    title: "Transfer Pricing in India for Australian-Owned Subsidiaries",
+    title: "Transfer Pricing India for Australian Parent Companies",
     description:
-      "How transfer pricing works for an Indian subsidiary of an Australian company: arm's length pricing, documentation, Form 48, methods, safe harbour and audits.",
+      "Transfer pricing India for Australian parent companies. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads.",
     url: "https://www.theaucorp.com/australia-to-india/transfer-pricing",
     locale: "en_AU",
   },
   twitter: {
-    title: "Transfer Pricing in India for Australian-Owned Subsidiaries",
+    title: "Transfer Pricing India for Australian Parent Companies",
     description:
-      "How transfer pricing works for an Indian subsidiary of an Australian company: arm's length pricing, documentation, Form 48, methods, safe harbour and audits.",
+      "Transfer pricing India for Australian parent companies. It covers corporate tax, GST, intercompany charges and the calendar to track, written for finance leads.",
   },
 }
 

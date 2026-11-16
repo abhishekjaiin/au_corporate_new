@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Accounting and Audit Support for Project Offices in India",
+    absolute: "Project Office Accounting in India: Timeline and Filings",
   },
   description:
-    "Project-wise accounting, head office reconciliation, retention and WIP, TDS and GST workings, US GAAP or IFRS reporting and audit for India project offices.",
+    "Project office accounting in India. It covers the contract, the permission, the bank file and the closing steps so the dates stay honest. Start with the papers.",
+  keywords: ["project office accounting in India", "project office audit", "WIP", "retention", "head office reconciliation"],
   alternates: {
     canonical: "https://www.theaucorp.com/project-office-accounting-audit",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=Accounting%20and%20Audit%20Support%20for%20Project%20Offices%20in%20India", width: 1200, height: 630, alt: "Accounting and Audit Support for Project Offices in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Project%20Office%20Accounting%20in%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "Project Office Accounting in India: Timeline and Filings" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "Accounting and Audit Support for Project Offices in India",
+    title: "Project Office Accounting in India: Timeline and Filings",
     description:
-      "Project-wise accounting, head office reconciliation, retention and WIP, TDS and GST workings, US GAAP or IFRS reporting and audit for India project offices.",
+      "Project office accounting in India. It covers the contract, the permission, the bank file and the closing steps so the dates stay honest. Start with the papers.",
     url: "https://www.theaucorp.com/project-office-accounting-audit",
   },
   twitter: {
-    title: "Accounting and Audit Support for Project Offices in India",
+    title: "Project Office Accounting in India: Timeline and Filings",
     description:
-      "Project-wise accounting, head office reconciliation, retention and WIP, TDS and GST workings, US GAAP or IFRS reporting and audit for India project offices.",
+      "Project office accounting in India. It covers the contract, the permission, the bank file and the closing steps so the dates stay honest. Start with the papers.",
   },
 }
 

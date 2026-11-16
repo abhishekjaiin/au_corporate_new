@@ -48,7 +48,7 @@ export default function RelocateChineseStaffPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Relocating Chinese Staff to India: Employment Visa, Business Visa, Clearance and Registration"
-        description="What a Chinese company must plan when sending staff to India: business visa limits, employment visa rules and salary floor, security clearance, the reported 2025 visa facilitation, FRRO registration, family visas and directors."
+        description="Relocate Chinese staff to India. It covers the right visa, the employer on the contract and the papers to carry so the dates stay honest. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -234,6 +234,27 @@ export default function RelocateChineseStaffPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Chinese
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Chinese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for relocate Chinese staff to India, start with the decision a Chinese company has to make. The form name is the second conversation, not the first. If the parent team asks about employment visa India, answer it from this same file. It is not a separate project. Keep expat tax India in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put tax residency on the checklist before the first filing, not after someone asks where it went. Check the shareholder chain for Press Note 3 before anyone drafts an Indian form. Legalised documents and a certified English translation are the usual long pole. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office. The employment visa follows the employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you later move the person to a new entity, the visa conversation starts again. Plan the employer first. Send one PDF that has the contract, the entity name and the role. Immigration and payroll both read it, so it has to be the same story. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The parent company abroad is not that employer, even if it pays the group bonus.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

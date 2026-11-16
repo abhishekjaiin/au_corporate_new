@@ -48,7 +48,7 @@ export default function SanctionsAndPaymentsForRussianCompaniesPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Sanctions, Banking and Payment Channels for a Russian Parent and Its Indian Subsidiary: Screening, Special Rupee Accounts and Bank Due Diligence"
-        description="The practical gate for Russian investors in India: US, EU and UK sanctions screening, the 50% ownership rule, Indian bank due diligence, settlement channels including rupee vostro accounts, why non-dollar payments are not a safe harbour and a compliance checklist."
+        description="India Russia payments and sanctions. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -226,6 +226,23 @@ export default function SanctionsAndPaymentsForRussianCompaniesPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Russian
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Russia payments and sanctions, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about rupee trade settlement, answer it from this same file. It is not a separate project. Keep SRVA account in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put OFAC on the checklist before the first filing, not after someone asks where it went. EU sanctions sits on the critical path more often than people expect. Leave a line for it in the working paper. The apostille and the English translation are the document work. The longer conversation is the bank, and whether the payment route is one the bank will actually process. Pick two company names you would actually answer the phone as.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The first name is often taken. The second name should not be a joke you would hate to keep. Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

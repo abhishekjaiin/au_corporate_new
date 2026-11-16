@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "US Reporting for an Indian Subsidiary: Form 5471, FBAR",
+    absolute: "US Parent Company Obligations for Indian Subsidiary",
   },
   description:
-    "US reporting that follows when you own an Indian subsidiary: Form 5471, FBAR, Form 8938 and international tax regimes. A guide for US finance teams.",
+    "US parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest.",
+  keywords: ["US parent company obligations for Indian subsidiary", "parent company reporting India", "consolidation", "CbCR", "Form 3CEAA", "FLA return", "ultimate beneficial owner"],
   alternates: guideAlternates("usa", "parent-obligations"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=US%20Reporting%20for%20an%20Indian%20Subsidiary%3A%20Form%205471%2C%20FBAR", width: 1200, height: 630, alt: "US Reporting for an Indian Subsidiary: Form 5471, FBAR" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=US%20Parent%20Company%20Obligations%20for%20Indian%20Subsidiary", width: 1200, height: 630, alt: "US Parent Company Obligations for Indian Subsidiary" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "US Reporting for an Indian Subsidiary: Form 5471, FBAR",
+    title: "US Parent Company Obligations for Indian Subsidiary",
     description:
-      "US reporting that follows when you own an Indian subsidiary: Form 5471, FBAR, Form 8938 and international tax regimes. A guide for US finance teams.",
+      "US parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest.",
     url: "https://www.theaucorp.com/usa-to-india/us-parent-obligations",
   },
   twitter: {
-    title: "US Reporting for an Indian Subsidiary: Form 5471, FBAR",
+    title: "US Parent Company Obligations for Indian Subsidiary",
     description:
-      "US reporting that follows when you own an Indian subsidiary: Form 5471, FBAR, Form 8938 and international tax regimes. A guide for US finance teams.",
+      "US parent company obligations for Indian subsidiary. It covers the structure, the papers your parent signs and the filings that follow so the dates stay honest.",
   },
 }
 

@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "FEMA and RBI Compliance for Project Offices in India",
+    absolute: "Project Office Compliance in India: Timeline and Filings",
   },
   description:
-    "Form FNC, the Annual Activity Certificate, surplus remittance and closure for a foreign company's India project office.",
+    "Project office compliance in India. It covers the contract, the permission, the bank file and the closing steps so the dates stay honest. Start with the papers.",
+  keywords: ["project office compliance in India", "annual activity certificate project office", "surplus remittance", "AD bank", "RBI", "contract changes"],
   alternates: {
     canonical: "https://www.theaucorp.com/project-office-fema-rbi-compliance",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=FEMA%20and%20RBI%20Compliance%20for%20Project%20Offices%20in%20India", width: 1200, height: 630, alt: "FEMA and RBI Compliance for Project Offices in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Project%20Office%20Compliance%20in%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "Project Office Compliance in India: Timeline and Filings" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "FEMA and RBI Compliance for Project Offices in India",
+    title: "Project Office Compliance in India: Timeline and Filings",
     description:
-      "Form FNC, the Annual Activity Certificate, surplus remittance and closure for a foreign company's India project office.",
+      "Project office compliance in India. It covers the contract, the permission, the bank file and the closing steps so the dates stay honest. Start with the papers.",
     url: "https://www.theaucorp.com/project-office-fema-rbi-compliance",
   },
   twitter: {
-    title: "FEMA and RBI Compliance for Project Offices in India",
+    title: "Project Office Compliance in India: Timeline and Filings",
     description:
-      "Form FNC, the Annual Activity Certificate, surplus remittance and closure for a foreign company's India project office.",
+      "Project office compliance in India. It covers the contract, the permission, the bank file and the closing steps so the dates stay honest. Start with the papers.",
   },
 }
 

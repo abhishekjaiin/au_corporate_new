@@ -48,7 +48,7 @@ export default function TreatyBenefitsDocumentsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="How to Claim India-Japan Treaty Benefits: Certificate of Residence, Form 41 and Beneficial Ownership"
-        description="Documents a Japanese company needs to claim India-Japan treaty rates: certificate of residence, Form 41 (previously Form 10F) and no-PE declaration."
+        description="Form 10F and tax residency certificate. It covers corporate tax, GST, intercompany charges and the calendar to track so the dates stay honest. We map the steps."
         datePublished="2026-10-20"
         dateModified="2026-11-02"
         isPartOfUrl={PARENT_URL}
@@ -210,6 +210,30 @@ export default function TreatyBenefitsDocumentsPage() {
           Last updated 2 November 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Japanese team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Form 10F and tax residency certificate, start with the decision a Japanese company has to make. The form name is the second conversation, not the first. If the parent team asks about DTAA benefit documents, answer it from this same file. It is not a separate project. Put TRC on the checklist before the first filing, not after someone asks where it went. Tokyo will want a short Japanese recap of what India just filed.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Write that recap when you file, or it becomes a second project. Once a year, read the intercompany agreements against the invoices. Contracts and billing drift apart, and the drift is what gets questioned. Corporate tax, GST and transfer pricing are three calendars. A team that watches only the income-tax return will miss a GST date, and the GST date is monthly. Give every intercompany charge a basis before the invoice goes out.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A year-end true-up with no working paper is how a transfer-pricing file gets thin. Compute withholding on the Indian rule, then check the treaty. Doing it the other way round is how a rate gets applied to the wrong payment. Write invoice descriptions that a tax officer can understand without a call. 'Management support' with no hours and no names will not do. Keep the advance-tax dates in the same diary as the group forecast.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A missed instalment is a quiet interest cost the parent will ask about later. GST registration should follow the activity, not a guess in the first week. Registering too early creates returns with nothing on them. Registering late creates a different problem. Store the treaty residency certificate with the withholding working paper. The rate is only as good as the paper that supports it. One folder for the year, with a dull name, beats a trail of attachments.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The next finance manager should be able to open it and see what was filed without calling anyone.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

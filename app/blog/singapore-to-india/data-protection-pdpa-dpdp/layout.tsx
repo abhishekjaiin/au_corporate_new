@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Data Protection for Singapore Companies in India",
+    absolute: "DPDP Act Compliance for Singapore Companies: 2026 Guide",
   },
   description:
-    "How Singapore's PDPA and India's Digital Personal Data Protection Act apply when a Singapore company has an Indian subsidiary: transfer limitation.",
+    "DPDP Act compliance for Singapore companies. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
+  keywords: ["DPDP Act compliance for Singapore companies", "data protection India", "cross-border data transfer", "Data Fiduciary", "consent", "DPDP Rules 2025", "GDPR"],
   alternates: guideAlternates("singapore", "data-protection"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Data%20Protection%20for%20Singapore%20Companies%20in%20India", width: 1200, height: 630, alt: "Data Protection for Singapore Companies in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=DPDP%20Act%20Compliance%20for%20Singapore%20Companies%3A%202026%20Guide", width: 1200, height: 630, alt: "DPDP Act Compliance for Singapore Companies: 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Data Protection for Singapore Companies in India",
+    title: "DPDP Act Compliance for Singapore Companies: 2026 Guide",
     description:
-      "How Singapore's PDPA and India's Digital Personal Data Protection Act apply when a Singapore company has an Indian subsidiary: transfer limitation.",
+      "DPDP Act compliance for Singapore companies. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
     url: "https://www.theaucorp.com/singapore-to-india/data-protection-pdpa-dpdp",
     locale: "en_SG",
   },
   twitter: {
-    title: "Data Protection for Singapore Companies in India",
+    title: "DPDP Act Compliance for Singapore Companies: 2026 Guide",
     description:
-      "How Singapore's PDPA and India's Digital Personal Data Protection Act apply when a Singapore company has an Indian subsidiary: transfer limitation.",
+      "DPDP Act compliance for Singapore companies. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers.",
   },
 }
 

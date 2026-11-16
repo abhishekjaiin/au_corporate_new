@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Exit and Restructuring in India for a Russian Parent",
+    absolute: "How to Close a Subsidiary in India: Timeline and Filings",
   },
   description:
-    "How a Russian parent exits or restructures an Indian business: sale of shares, buyer sanctions checks, FEMA pricing, FC-TRS, capital gains tax, buy-back.",
+    "How to close a subsidiary in India. It covers the structure, the papers your parent signs and the filings that follow before money moves. Start with the papers.",
+  keywords: ["how to close a subsidiary in India", "strike off company India", "sale of Indian subsidiary", "NCLT", "voluntary liquidation", "Section 248", "share transfer"],
   alternates: guideAlternates("russia", "restructuring-and-exit"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Exit%20and%20Restructuring%20in%20India%20for%20a%20Russian%20Parent", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=How%20to%20Close%20a%20Subsidiary%20in%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Exit and Restructuring in India for a Russian Parent",
+    title: "How to Close a Subsidiary in India: Timeline and Filings",
     description:
-      "How a Russian parent exits or restructures an Indian business: sale of shares, buyer sanctions checks, FEMA pricing, FC-TRS, capital gains tax, buy-back.",
+      "How to close a subsidiary in India. It covers the structure, the papers your parent signs and the filings that follow before money moves. Start with the papers.",
     url: "https://www.theaucorp.com/russia-to-india/exit-and-restructuring",
     locale: "en_RU",
   },
   twitter: {
-    title: "Exit and Restructuring in India for a Russian Parent",
+    title: "How to Close a Subsidiary in India: Timeline and Filings",
     description:
-      "How a Russian parent exits or restructures an Indian business: sale of shares, buyer sanctions checks, FEMA pricing, FC-TRS, capital gains tax, buy-back.",
+      "How to close a subsidiary in India. It covers the structure, the papers your parent signs and the filings that follow before money moves. Start with the papers.",
   },
 }
 

@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India-US Tax Treaty and Permanent Establishment Risk",
+    absolute: "Permanent Establishment Risk in India: Key Filing Steps",
   },
   description:
-    "How the India-US tax treaty applies to payments to your US parent: Withholding Tax rates, Tax Residency Certificate, Form 41 and permanent establishment risk.",
+    "Permanent establishment risk in India. It covers corporate tax, GST, intercompany charges and the calendar to track for a foreign parent. Start with the papers.",
+  keywords: ["permanent establishment risk in India", "PE risk DTAA USA", "service PE", "fixed place", "dependent agent", "tax treaty", "withholding"],
   alternates: guideAlternates("usa", "dtaa-pe-risk"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India-US%20Tax%20Treaty%20and%20Permanent%20Establishment%20Risk", width: 1200, height: 630, alt: "India-US Tax Treaty and Permanent Establishment Risk" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Permanent%20Establishment%20Risk%20in%20India%3A%20Key%20Filing%20Steps", width: 1200, height: 630, alt: "Permanent Establishment Risk in India: Key Filing Steps" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "India-US Tax Treaty and Permanent Establishment Risk",
+    title: "Permanent Establishment Risk in India: Key Filing Steps",
     description:
-      "How the India-US tax treaty applies to payments to your US parent: Withholding Tax rates, Tax Residency Certificate, Form 41 and permanent establishment risk.",
+      "Permanent establishment risk in India. It covers corporate tax, GST, intercompany charges and the calendar to track for a foreign parent. Start with the papers.",
     url: "https://www.theaucorp.com/usa-to-india/dtaa-pe-risk",
   },
   twitter: {
-    title: "India-US Tax Treaty and Permanent Establishment Risk",
+    title: "Permanent Establishment Risk in India: Key Filing Steps",
     description:
-      "How the India-US tax treaty applies to payments to your US parent: Withholding Tax rates, Tax Residency Certificate, Form 41 and permanent establishment risk.",
+      "Permanent establishment risk in India. It covers corporate tax, GST, intercompany charges and the calendar to track for a foreign parent. Start with the papers.",
   },
 }
 

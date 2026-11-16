@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Subsidiary, Joint Venture, Branch or EOR: China",
+    absolute: "Subsidiary vs Branch vs Liaison Office in India in 2026",
   },
   description:
-    "A comparison of ways for a Chinese company to operate in India: wholly owned subsidiary, joint venture with an Indian partner, branch or liaison office, LLP.",
+    "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
+  keywords: ["subsidiary vs branch vs liaison office in India", "India entry structure for Chinese companies", "LLP vs private limited", "wholly owned subsidiary", "branch office", "liaison office", "tax rate"],
   alternates: guideAlternates("china", "subsidiary-vs-branch-vs-liaison-office-vs-llp"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%2C%20Joint%20Venture%2C%20Branch%20or%20EOR%3A%20China", width: 1200, height: 630, alt: "Subsidiary, Joint Venture, Branch or EOR: China" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%20vs%20Branch%20vs%20Liaison%20Office%20in%20India%20in%202026", width: 1200, height: 630, alt: "Subsidiary vs Branch vs Liaison Office in India in 2026" }],
     siteName: "AU Corporate",
-    title: "Subsidiary, Joint Venture, Branch or EOR: China",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "A comparison of ways for a Chinese company to operate in India: wholly owned subsidiary, joint venture with an Indian partner, branch or liaison office, LLP.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
     url: "https://www.theaucorp.com/china-to-india/structure-options",
     locale: "en_CN",
   },
   twitter: {
-    title: "Subsidiary, Joint Venture, Branch or EOR: China",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "A comparison of ways for a Chinese company to operate in India: wholly owned subsidiary, joint venture with an Indian partner, branch or liaison office, LLP.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
   },
 }
 

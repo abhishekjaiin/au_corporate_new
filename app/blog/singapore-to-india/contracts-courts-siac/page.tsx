@@ -47,7 +47,7 @@ export default function ContractsCourtsSiacPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Contracts, Courts and Arbitration: Using Singapore as the Seat and Enforcing in India"
-        description="How a Singapore parent protects its Indian subsidiary contracts: choice of law, SIAC arbitration, enforcing Singapore awards and judgments in India, stamping, interim relief and drafting points."
+        description="Dispute resolution and arbitration in India for Singapore companies. See the papers, the order and the timing, including who signs each paper. We map the steps."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         isPartOfUrl={PARENT_URL}
@@ -232,6 +232,23 @@ export default function ContractsCourtsSiacPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for dispute resolution and arbitration in India for Singapore companies, start with the decision a Singapore company has to make. The form name is the second conversation, not the first. If the parent team asks about enforcing contracts in India, answer it from this same file. It is not a separate project. Keep arbitration clause in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put LCIA on the checklist before the first filing, not after someone asks where it went. A Singapore holding company does not skip Indian reporting. It only changes who signs the parent set. ACRA papers still need an apostille. Tell the bank the purpose in the same words you will use on the form. A cheerful payment reference and a formal purpose that disagree will stall the credit. If the parent is itself owned by another foreign company, draw the chain before you file.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The form asks about that chain, and guessing is visible.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/fema-rbi-compliance" className="font-semibold text-blue-800 underline">FEMA and RBI compliance</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

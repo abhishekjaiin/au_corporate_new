@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Sending Chinese Employees to India: Visas and FRRO",
+    absolute: "Relocate Chinese Staff to India: A Practical 2026 Guide",
   },
   description:
-    "What a Chinese company must plan when sending staff to India: business visa limits, employment visa rules and salary floor, security clearance, the reported.",
+    "Relocate Chinese staff to India. It covers the right visa, the employer on the contract and the papers to carry so the dates stay honest. Start with the papers.",
+  keywords: ["relocate Chinese staff to India", "employment visa India", "expat tax India", "FRRO", "social security", "e-visa", "tax residency"],
   alternates: guideAlternates("china", "expat-visa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Sending%20Chinese%20Employees%20to%20India%3A%20Visas%20and%20FRRO", width: 1200, height: 630, alt: "Sending Chinese Employees to India: Visas and FRRO" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Relocate%20Chinese%20Staff%20to%20India%3A%20A%20Practical%202026%20Guide", width: 1200, height: 630, alt: "Relocate Chinese Staff to India: A Practical 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Sending Chinese Employees to India: Visas and FRRO",
+    title: "Relocate Chinese Staff to India: A Practical 2026 Guide",
     description:
-      "What a Chinese company must plan when sending staff to India: business visa limits, employment visa rules and salary floor, security clearance, the reported.",
+      "Relocate Chinese staff to India. It covers the right visa, the employer on the contract and the papers to carry so the dates stay honest. Start with the papers.",
     url: "https://www.theaucorp.com/china-to-india/relocate-chinese-staff",
     locale: "en_CN",
   },
   twitter: {
-    title: "Sending Chinese Employees to India: Visas and FRRO",
+    title: "Relocate Chinese Staff to India: A Practical 2026 Guide",
     description:
-      "What a Chinese company must plan when sending staff to India: business visa limits, employment visa rules and salary floor, security clearance, the reported.",
+      "Relocate Chinese staff to India. It covers the right visa, the employer on the contract and the papers to carry so the dates stay honest. Start with the papers.",
   },
 }
 

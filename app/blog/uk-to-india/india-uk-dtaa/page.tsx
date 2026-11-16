@@ -55,7 +55,7 @@ export default function IndiaUkDtaaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="The India-UK Tax Treaty (DTAA), Article by Article: India as Source State, the UK as Residence State"
-        description="The India-UK double taxation convention explained article by article from the UK parent's point of view: rates table, permanent establishment, royalties and fees, gains, employees, relief and how to claim."
+        description="India UK DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner in writing."
         datePublished="2026-10-19"
         dateModified="2026-10-19"
         isPartOfUrl={PARENT_URL}

@@ -48,7 +48,7 @@ export default function RepatriatingProfitsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Getting Money Out of India to Germany: Dividends, Service Fees, Royalties, Interest and Loan Repayments"
-        description="How a German parent receives money from an Indian subsidiary: the flat 10% treaty rate, Section 393 withholding, Forms 41, 145 and 146, German 95% exemption, VAT on service fees and Indian GST reverse charge."
+        description="Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -231,6 +231,36 @@ export default function RepatriatingProfitsPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and German
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a German team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for repatriation of profits from India, start with the decision a German company has to make. The form name is the second conversation, not the first. If the parent team asks about dividend repatriation India, answer it from this same file. It is not a separate project. Keep royalty and service fees in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put Form 15CA 15CB on the checklist before the first filing, not after someone asks where it went. The Handelsregister extract has to be notarised and apostilled. GDPR and works-council questions travel with the people plan. They do not replace the Indian forms. The bank will ask for the board minute, the financials and the tax proof. Collect them before you book the remittance, not after the bank asks. Keep a running note of what has already gone out this year.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The second remittance is where people forget the first one. Do not use a service fee as a quiet dividend. If the substance is a share of profit, call it that and take the steps that go with a dividend. Check the withholding on the way out. The gross the parent expects and the net that arrives are different numbers, and someone has to explain the gap. Currency and the purpose code should match the paper.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A mismatch looks small on the form and large to the bank. After the money lands, file the note back to the India board pack. The next year's auditor will ask where it went. You can send profits you have earned, after the tax and the audit steps that apply. You cannot send a number because the parent would like the cash this quarter. Decide whether the payment is a dividend, a royalty or a service fee before you draft the bank request.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The label has to match the agreement. If a step needs a wet-ink signature, book it before the signatory travels. Chasing a director through an airport lounge is how a simple filing takes a month. One folder for the year, with a dull name, beats a trail of attachments. The next finance manager should be able to open it and see what was filed without calling anyone. Read the activity you registered against the work you actually do.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Drift is quiet. It shows up when a bank, a customer or an auditor asks a question you did not expect. A fixed scope is kinder than an open promise to 'handle India'. List the forms, the period and what is outside the work. People can plan around a list. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/fema-rbi-compliance" className="font-semibold text-blue-800 underline">FEMA and RBI compliance</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

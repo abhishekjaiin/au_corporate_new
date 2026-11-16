@@ -50,7 +50,7 @@ export default function RepatriatingProfitsPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Getting Money Out of India to a Russian Parent: Dividends at 10%, Service Fees, Royalties, Interest and Loan Repayments"
-        description="How a Russian parent receives money from an Indian subsidiary: 10% treaty withholding, Section 393, Forms 41, 145 and 146, Russian tax treatment, payment routes acceptable to banks and the documents banks ask for."
+        description="Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-11-02"
         isPartOfUrl={PARENT_URL}
@@ -213,6 +213,40 @@ export default function RepatriatingProfitsPage() {
           Last updated 2 November 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Russian team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for repatriation of profits from India, start with the decision a Russian company has to make. The form name is the second conversation, not the first. If the parent team asks about dividend repatriation India, answer it from this same file. It is not a separate project. Keep royalty and service fees in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put DTAA on the checklist before the first filing, not after someone asks where it went. buyback sits on the critical path more often than people expect. Leave a line for it in the working paper. The apostille and the English translation are the document work. The longer conversation is the bank, and whether the payment route is one the bank will actually process. Currency and the purpose code should match the paper.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A mismatch looks small on the form and large to the bank. After the money lands, file the note back to the India board pack. The next year's auditor will ask where it went. You can send profits you have earned, after the tax and the audit steps that apply. You cannot send a number because the parent would like the cash this quarter. Decide whether the payment is a dividend, a royalty or a service fee before you draft the bank request.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The label has to match the agreement. The bank will ask for the board minute, the financials and the tax proof. Collect them before you book the remittance, not after the bank asks. Keep a running note of what has already gone out this year. The second remittance is where people forget the first one. Do not use a service fee as a quiet dividend. If the substance is a share of profit, call it that and take the steps that go with a dividend.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Check the withholding on the way out. The gross the parent expects and the net that arrives are different numbers, and someone has to explain the gap. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before. Ask the bank what it wants before the money leaves. Every bank has a slightly different pack, and the second version of the pack is the one that gets accepted.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Write the owner's name next to every filing. If the owner is 'the team', then nobody owns it, and the reminder will sit in a channel until the date has passed. Keep the signed PDF, not a photo of the signed PDF. Banks and the Registrar both send those back, and the week you lose is never the week you had spare. Do not translate the Indian sequence into the sequence you use at home.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date. Save the acknowledgement. The form, on its own, does not prove you filed. The acknowledgement is what you produce when the group auditor asks.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Use the legal name of the Indian entity on the invoice, the contract and the bank. A brand name that is close enough for a website is not close enough for a KYC team. Keep the signed pack in one folder.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/fema-rbi-compliance" className="font-semibold text-blue-800 underline">FEMA and RBI compliance</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

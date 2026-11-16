@@ -57,7 +57,7 @@ export default function HiringAndPayrollPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Hiring and Payroll in India for US Companies: Contracts, PF, ESI and Gratuity"
-        description="How US companies hire in India: employment contracts, provident fund, ESI, gratuity, professional tax, payroll steps and India's labour codes."
+        description="Hiring employees in India for US companies. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers."
         datePublished="2026-10-07"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -269,6 +269,17 @@ export default function HiringAndPayrollPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for hiring employees in India for US companies, start with the decision a US company has to make. The form name is the second conversation, not the first.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

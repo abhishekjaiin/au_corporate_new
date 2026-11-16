@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India-Australia DTAA and Permanent Establishment",
+    absolute: "Permanent Establishment Risk in India: Key Filing Steps",
   },
   description:
-    "How the India-Australia DTAA applies to payments to your Australian parent: withholding rates, the ATO residency certificate (NAT 75442), Form 41 and PE risk.",
+    "Permanent establishment risk in India. It covers corporate tax, GST, intercompany charges and the calendar to track for a foreign parent. Start with the papers.",
+  keywords: ["permanent establishment risk in India", "PE risk DTAA Australia", "service PE", "fixed place", "dependent agent", "tax treaty", "withholding"],
   alternates: guideAlternates("australia", "dtaa-pe-risk"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India-Australia%20DTAA%20and%20Permanent%20Establishment", width: 1200, height: 630, alt: "India-Australia DTAA and Permanent Establishment" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Permanent%20Establishment%20Risk%20in%20India%3A%20Key%20Filing%20Steps", width: 1200, height: 630, alt: "Permanent Establishment Risk in India: Key Filing Steps" }],
     siteName: "AU Corporate",
-    title: "India-Australia DTAA and Permanent Establishment",
+    title: "Permanent Establishment Risk in India: Key Filing Steps",
     description:
-      "How the India-Australia DTAA applies to payments to your Australian parent: withholding rates, the ATO residency certificate (NAT 75442), Form 41 and PE risk.",
+      "Permanent establishment risk in India. It covers corporate tax, GST, intercompany charges and the calendar to track for a foreign parent. Start with the papers.",
     url: "https://www.theaucorp.com/australia-to-india/dtaa-pe-risk",
     locale: "en_AU",
   },
   twitter: {
-    title: "India-Australia DTAA and Permanent Establishment",
+    title: "Permanent Establishment Risk in India: Key Filing Steps",
     description:
-      "How the India-Australia DTAA applies to payments to your Australian parent: withholding rates, the ATO residency certificate (NAT 75442), Form 41 and PE risk.",
+      "Permanent establishment risk in India. It covers corporate tax, GST, intercompany charges and the calendar to track for a foreign parent. Start with the papers.",
   },
 }
 

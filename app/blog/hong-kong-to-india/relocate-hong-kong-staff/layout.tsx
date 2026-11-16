@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Relocating Hong Kong Staff to India",
+    absolute: "Relocate Hong Kong Staff to India: Timeline and Filings",
   },
   description:
-    "How to relocate Hong Kong staff to an Indian subsidiary: employment and business visa categories, the salary floor, FRRO registration within 14 days.",
+    "Relocate Hong Kong staff to India. It covers the right visa, the employer on the contract and the papers to carry, including the usual timing. We map the steps.",
+  keywords: ["relocate Hong Kong staff to India", "employment visa India", "expat tax India", "FRRO", "social security", "e-visa", "tax residency"],
   alternates: guideAlternates("hongkong", "expat-visa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Relocating%20Hong%20Kong%20Staff%20to%20India", width: 1200, height: 630, alt: "Relocating Hong Kong Staff to India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Relocate%20Hong%20Kong%20Staff%20to%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "Relocate Hong Kong Staff to India: Timeline and Filings" }],
     siteName: "AU Corporate",
-    title: "Relocating Hong Kong Staff to India",
+    title: "Relocate Hong Kong Staff to India: Timeline and Filings",
     description:
-      "How to relocate Hong Kong staff to an Indian subsidiary: employment and business visa categories, the salary floor, FRRO registration within 14 days.",
+      "Relocate Hong Kong staff to India. It covers the right visa, the employer on the contract and the papers to carry, including the usual timing. We map the steps.",
     url: "https://www.theaucorp.com/hong-kong-to-india/relocate-hong-kong-staff",
     locale: "en_HK",
   },
   twitter: {
-    title: "Relocating Hong Kong Staff to India",
+    title: "Relocate Hong Kong Staff to India: Timeline and Filings",
     description:
-      "How to relocate Hong Kong staff to an Indian subsidiary: employment and business visa categories, the salary floor, FRRO registration within 14 days.",
+      "Relocate Hong Kong staff to India. It covers the right visa, the employer on the contract and the papers to carry, including the usual timing. We map the steps.",
   },
 }
 

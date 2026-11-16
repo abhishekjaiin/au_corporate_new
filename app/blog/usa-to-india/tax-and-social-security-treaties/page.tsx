@@ -62,7 +62,7 @@ export default function TaxAndSocialSecurityTreatiesPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="India-US Tax Treaty and Social Security: The Complete Guide for US Companies and Expats"
-        description="The India-US tax treaty (DTAA) and social security for US expats: treaty rates, residency, EPF, FICA and the missing totalization agreement."
+        description="India USA tax and social security treaties. It covers corporate tax, GST, intercompany charges and the calendar to track before you file. Start with the papers."
         datePublished="2026-10-14"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -280,6 +280,27 @@ export default function TaxAndSocialSecurityTreatiesPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India USA tax and social security treaties, start with the decision a US company has to make. The form name is the second conversation, not the first. If the parent team asks about India USA DTAA, answer it from this same file. It is not a separate project. Keep social security agreement in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put treaty on the checklist before the first filing, not after someone asks where it went. totalization sits on the critical path more often than people expect. Leave a line for it in the working paper. The slow piece for a US parent is the state apostille on the board resolution, not the Indian portal. Form 5471 and the group audit pack come after the Indian entity exists. Compute withholding on the Indian rule, then check the treaty.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Doing it the other way round is how a rate gets applied to the wrong payment. Write invoice descriptions that a tax officer can understand without a call. 'Management support' with no hours and no names will not do. Keep the advance-tax dates in the same diary as the group forecast. A missed instalment is a quiet interest cost the parent will ask about later. GST registration should follow the activity, not a guess in the first week.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Registering too early creates returns with nothing on them. Registering late creates a different problem. Store the treaty residency certificate with the withholding working paper. The rate is only as good as the paper that supports it.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

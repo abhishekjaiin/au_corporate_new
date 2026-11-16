@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Repatriating Profits from India to Russia",
+    absolute: "Repatriation of Profits from India: Timeline and Filings",
   },
   description:
-    "How a Russian parent receives money from an Indian subsidiary: 10% treaty withholding, Section 393, Forms 41, 145 and 146, Russian tax treatment, payment.",
+    "Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers.",
+  keywords: ["repatriation of profits from India", "dividend repatriation India", "royalty and service fees", "withholding tax", "DTAA", "buyback", "Form 15CA 15CB"],
   alternates: guideAlternates("russia", "repatriating-profits"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Repatriating%20Profits%20from%20India%20to%20Russia", width: 1200, height: 630, alt: "AU Corporate" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Repatriation%20of%20Profits%20from%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "AU Corporate" }],
     siteName: "AU Corporate",
-    title: "Repatriating Profits from India to Russia",
+    title: "Repatriation of Profits from India: Timeline and Filings",
     description:
-      "How a Russian parent receives money from an Indian subsidiary: 10% treaty withholding, Section 393, Forms 41, 145 and 146, Russian tax treatment, payment.",
+      "Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers.",
     url: "https://www.theaucorp.com/russia-to-india/repatriating-profits",
     locale: "en_RU",
   },
   twitter: {
-    title: "Repatriating Profits from India to Russia",
+    title: "Repatriation of Profits from India: Timeline and Filings",
     description:
-      "How a Russian parent receives money from an Indian subsidiary: 10% treaty withholding, Section 393, Forms 41, 145 and 146, Russian tax treatment, payment.",
+      "Repatriation of profits from India. It covers when profits can go home, the bank pack and what must exist first so the dates stay honest. Start with the papers.",
   },
 }
 

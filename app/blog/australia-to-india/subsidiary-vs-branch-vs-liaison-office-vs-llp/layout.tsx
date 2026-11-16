@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Subsidiary, Branch, Liaison or LLP: Australia",
+    absolute: "Subsidiary vs Branch vs Liaison Office in India in 2026",
   },
   description:
-    "Compare the four ways an Australian company can enter India: wholly owned subsidiary, branch office, liaison office and LLP.",
+    "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
+  keywords: ["subsidiary vs branch vs liaison office in India", "LLP for foreign company", "India entry structure", "wholly owned subsidiary", "branch office", "liaison office", "FDI", "tax rate"],
   alternates: guideAlternates("australia", "subsidiary-vs-branch-vs-liaison-office-vs-llp"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%2C%20Branch%2C%20Liaison%20or%20LLP%3A%20Australia", width: 1200, height: 630, alt: "Subsidiary, Branch, Liaison or LLP: Australia" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%20vs%20Branch%20vs%20Liaison%20Office%20in%20India%20in%202026", width: 1200, height: 630, alt: "Subsidiary vs Branch vs Liaison Office in India in 2026" }],
     siteName: "AU Corporate",
-    title: "Subsidiary, Branch, Liaison or LLP: Australia",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "Compare the four ways an Australian company can enter India: wholly owned subsidiary, branch office, liaison office and LLP.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
     url: "https://www.theaucorp.com/australia-to-india/subsidiary-vs-branch-vs-liaison-office-vs-llp",
     locale: "en_AU",
   },
   twitter: {
-    title: "Subsidiary, Branch, Liaison or LLP: Australia",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "Compare the four ways an Australian company can enter India: wholly owned subsidiary, branch office, liaison office and LLP.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
   },
 }
 

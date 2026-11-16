@@ -47,7 +47,7 @@ export default function SupplyChainAndEsgDutiesPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Supply Chain Due Diligence, Sustainability Reporting and CBAM: How German and EU Rules Reach Indian Operations"
-        description="How German and EU supply chain, sustainability and carbon border rules reach an Indian subsidiary or supplier: the German Supply Chain Act (LkSG), EU reporting, CBAM, and what to prepare."
+        description="German Supply Chain Act India suppliers. It covers the structure, the papers your parent signs and the filings that follow for your team. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -222,6 +222,20 @@ export default function SupplyChainAndEsgDutiesPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and German
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a German team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for German Supply Chain Act India suppliers, start with the decision a German company has to make. The form name is the second conversation, not the first. If the parent team asks about ESG compliance India, answer it from this same file. It is not a separate project. Put CSDDD on the checklist before the first filing, not after someone asks where it went. The Handelsregister extract has to be notarised and apostilled.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            GDPR and works-council questions travel with the people plan. They do not replace the Indian forms. Decide the structure before you collect passports. A subsidiary, a branch and a liaison office are different permissions, different tax and a different way out. Confirm the parent can own the shares it thinks it can own. The sector, and the shareholder chain above the parent, sometimes change the route.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

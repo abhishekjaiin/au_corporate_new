@@ -51,7 +51,7 @@ export default function IndiaSingaporeDtaaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="The India-Singapore Tax Treaty (DTAA), Article by Article: India as Source State, Singapore as Residence State"
-        description="The India-Singapore double taxation agreement explained article by article from the Singapore parent's point of view: rates table, permanent establishment, share gains, limitation of benefits and how to claim."
+        description="India Singapore DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner now."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         isPartOfUrl={PARENT_URL}
@@ -315,6 +315,20 @@ export default function IndiaSingaporeDtaaPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Singapore DTAA, start with the decision a Singapore company has to make. The form name is the second conversation, not the first. If the parent team asks about India Singapore tax treaty, answer it from this same file. It is not a separate project. Keep DTAA rates in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put royalty on the checklist before the first filing, not after someone asks where it went. TRC sits on the critical path more often than people expect. Leave a line for it in the working paper. A Singapore holding company does not skip Indian reporting. It only changes who signs the parent set. ACRA papers still need an apostille.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/corporate-tax-gst-transfer-pricing" className="font-semibold text-blue-800 underline">tax and transfer pricing</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

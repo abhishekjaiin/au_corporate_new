@@ -54,7 +54,7 @@ export default function IncorporationProcessPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Incorporation Process for a US-Owned Indian Subsidiary, Step by Step"
-        description="The eight steps to incorporate a wholly owned subsidiary in India from the USA: forms, order of steps, typical 4 to 6 week timeline and first 90 days."
+        description="How to register a company in India from USA. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers."
         datePublished="2026-10-07"
         dateModified="2026-10-14"
         isPartOfUrl={PARENT_URL}
@@ -220,6 +220,20 @@ export default function IncorporationProcessPage() {
           Last updated 14 October 2026. General information only, not legal or tax advice. Indian rules change
           often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a US team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for how to register a company in India from USA, start with the decision a US company has to make. The form name is the second conversation, not the first. If the parent team asks about US company incorporation in India, answer it from this same file. It is not a separate project. Keep SPICe+ incorporation in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put DIN on the checklist before the first filing, not after someone asks where it went. MOA AOA sits on the critical path more often than people expect. Leave a line for it in the working paper.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

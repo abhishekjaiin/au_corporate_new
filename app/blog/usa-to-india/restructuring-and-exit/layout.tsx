@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Restructuring, Mergers and Exit for an Indian Subsidiary",
+    absolute: "How to Close a Subsidiary in India: Timeline and Filings",
   },
   description:
-    "Options to restructure, sell, merge or close an Indian subsidiary: share sale, slump sale, merger, buyback, strike-off and liquidation, with tax and RBI steps.",
+    "How to close a subsidiary in India. It covers the structure, the papers your parent signs and the filings that follow before money moves. Start with the papers.",
+  keywords: ["how to close a subsidiary in India", "strike off company India", "merger and restructuring", "NCLT", "voluntary liquidation", "Section 248", "share transfer"],
   alternates: guideAlternates("usa", "restructuring-and-exit"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Restructuring%2C%20Mergers%20and%20Exit%20for%20an%20Indian%20Subsidiary", width: 1200, height: 630, alt: "Restructuring, Mergers and Exit for an Indian Subsidiary" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=How%20to%20Close%20a%20Subsidiary%20in%20India%3A%20Timeline%20and%20Filings", width: 1200, height: 630, alt: "How to Close a Subsidiary in India: Timeline and Filings" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "Restructuring, Mergers and Exit for an Indian Subsidiary",
+    title: "How to Close a Subsidiary in India: Timeline and Filings",
     description:
-      "Options to restructure, sell, merge or close an Indian subsidiary: share sale, slump sale, merger, buyback, strike-off and liquidation, with tax and RBI steps.",
+      "How to close a subsidiary in India. It covers the structure, the papers your parent signs and the filings that follow before money moves. Start with the papers.",
     url: "https://www.theaucorp.com/usa-to-india/restructuring-and-exit",
   },
   twitter: {
-    title: "Restructuring, Mergers and Exit for an Indian Subsidiary",
+    title: "How to Close a Subsidiary in India: Timeline and Filings",
     description:
-      "Options to restructure, sell, merge or close an Indian subsidiary: share sale, slump sale, merger, buyback, strike-off and liquidation, with tax and RBI steps.",
+      "How to close a subsidiary in India. It covers the structure, the papers your parent signs and the filings that follow before money moves. Start with the papers.",
   },
 }
 

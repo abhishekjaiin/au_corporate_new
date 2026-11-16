@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Resident Director Requirement for an Indian Company",
+    absolute: "Resident Director in India: 2026 Guide for Foreign Firms",
   },
   description:
-    "Every Indian company needs a Resident Director who has stayed in India 182 days in the financial year. Who qualifies, options for US parents, and duties.",
+    "Resident director in India. It covers the structure, the papers your parent signs and the filings that follow, including who signs each paper. We map the steps.",
+  keywords: ["resident director in India", "nominee director services India", "section 149(3) resident director", "182 days", "DIN", "director liability", "Companies Act"],
   alternates: guideAlternates("usa", "resident-director"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Resident%20Director%20Requirement%20for%20an%20Indian%20Company", width: 1200, height: 630, alt: "Resident Director Requirement for an Indian Company" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Resident%20Director%20in%20India%3A%202026%20Guide%20for%20Foreign%20Firms", width: 1200, height: 630, alt: "Resident Director in India: 2026 Guide for Foreign Firms" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "Resident Director Requirement for an Indian Company",
+    title: "Resident Director in India: 2026 Guide for Foreign Firms",
     description:
-      "Every Indian company needs a Resident Director who has stayed in India 182 days in the financial year. Who qualifies, options for US parents, and duties.",
+      "Resident director in India. It covers the structure, the papers your parent signs and the filings that follow, including who signs each paper. We map the steps.",
     url: "https://www.theaucorp.com/usa-to-india/resident-director",
   },
   twitter: {
-    title: "Resident Director Requirement for an Indian Company",
+    title: "Resident Director in India: 2026 Guide for Foreign Firms",
     description:
-      "Every Indian company needs a Resident Director who has stayed in India 182 days in the financial year. Who qualifies, options for US parents, and duties.",
+      "Resident director in India. It covers the structure, the papers your parent signs and the filings that follow, including who signs each paper. We map the steps.",
   },
 }
 

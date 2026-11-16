@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "German Documents and Apostille for an India Subsidiary",
+    absolute: "Documents Required for Subsidiary Registration in India",
   },
   description:
-    "The document checklist for a German parent forming an Indian subsidiary: Handelsregister extract, articles of association, shareholder resolution.",
+    "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
+  keywords: ["documents required for subsidiary registration in India", "apostille documents for India", "German parent company documents", "notarisation", "board resolution", "certificate of incorporation", "KYC", "consularisation"],
   alternates: guideAlternates("germany", "documents-and-apostille"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=German%20Documents%20and%20Apostille%20for%20an%20India%20Subsidiary", width: 1200, height: 630, alt: "German Documents and Apostille for an India Subsidiary" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Documents%20Required%20for%20Subsidiary%20Registration%20in%20India", width: 1200, height: 630, alt: "Documents Required for Subsidiary Registration in India" }],
     siteName: "AU Corporate",
-    title: "German Documents and Apostille for an India Subsidiary",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "The document checklist for a German parent forming an Indian subsidiary: Handelsregister extract, articles of association, shareholder resolution.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
     url: "https://www.theaucorp.com/germany-to-india/documents-handelsregister-apostille",
     locale: "en_DE",
   },
   twitter: {
-    title: "German Documents and Apostille for an India Subsidiary",
+    title: "Documents Required for Subsidiary Registration in India",
     description:
-      "The document checklist for a German parent forming an Indian subsidiary: Handelsregister extract, articles of association, shareholder resolution.",
+      "Documents required for subsidiary registration in India. It covers the structure, the papers your parent signs and the filings that follow for a foreign parent.",
   },
 }
 

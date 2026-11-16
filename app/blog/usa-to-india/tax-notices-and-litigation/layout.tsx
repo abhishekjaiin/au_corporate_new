@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Handling Indian Tax Notices for a US-Owned Subsidiary",
+    absolute: "Income Tax Notices for Foreign Subsidiaries in India",
   },
   description:
-    "What to do on receiving an Indian income tax, GST or transfer pricing notice: first steps, appeal routes, DRP, ITAT, MAP and Advance Pricing Agreements.",
+    "Income tax notices for foreign subsidiaries in India. It covers corporate tax, GST, intercompany charges and the calendar to track today. Start with the papers.",
+  keywords: ["income tax notices for foreign subsidiaries in India", "tax litigation India", "faceless assessment", "appeal", "CIT(A)", "ITAT"],
   alternates: guideAlternates("usa", "tax-notices-and-litigation"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Handling%20Indian%20Tax%20Notices%20for%20a%20US-Owned%20Subsidiary", width: 1200, height: 630, alt: "Handling Indian Tax Notices for a US-Owned Subsidiary" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Income%20Tax%20Notices%20for%20Foreign%20Subsidiaries%20in%20India", width: 1200, height: 630, alt: "Income Tax Notices for Foreign Subsidiaries in India" }],
     locale: "en_US",
     siteName: "AU Corporate",
-    title: "Handling Indian Tax Notices for a US-Owned Subsidiary",
+    title: "Income Tax Notices for Foreign Subsidiaries in India",
     description:
-      "What to do on receiving an Indian income tax, GST or transfer pricing notice: first steps, appeal routes, DRP, ITAT, MAP and Advance Pricing Agreements.",
+      "Income tax notices for foreign subsidiaries in India. It covers corporate tax, GST, intercompany charges and the calendar to track today. Start with the papers.",
     url: "https://www.theaucorp.com/usa-to-india/tax-notices-and-litigation",
   },
   twitter: {
-    title: "Handling Indian Tax Notices for a US-Owned Subsidiary",
+    title: "Income Tax Notices for Foreign Subsidiaries in India",
     description:
-      "What to do on receiving an Indian income tax, GST or transfer pricing notice: first steps, appeal routes, DRP, ITAT, MAP and Advance Pricing Agreements.",
+      "Income tax notices for foreign subsidiaries in India. It covers corporate tax, GST, intercompany charges and the calendar to track today. Start with the papers.",
   },
 }
 

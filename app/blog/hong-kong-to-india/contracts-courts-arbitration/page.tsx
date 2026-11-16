@@ -48,7 +48,7 @@ export default function ContractsCourtsArbitrationPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Contracts and Dispute Resolution for Hong Kong Companies in India: Governing Law, HKIAC Arbitration, Enforcing Hong Kong Judgments and Awards"
-        description="How to draft and enforce contracts between a Hong Kong company and Indian counterparties: governing law, HKIAC or SIAC seats, Hong Kong as a reciprocating territory under Section 44A, enforcing awards under the New York Convention, stamp duty and limits on interim relief."
+        description="Dispute resolution and arbitration in India for Hong Kong companies. See the papers, the order and the timing, including who signs each paper. We map the steps."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -223,6 +223,23 @@ export default function ContractsCourtsArbitrationPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Hong Kong
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Hong Kong team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for dispute resolution and arbitration in India for Hong Kong companies, start with the decision a Hong Kong company has to make. The form name is the second conversation, not the first. If the parent team asks about enforcing contracts in India, answer it from this same file. It is not a separate project. Keep arbitration clause in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put LCIA on the checklist before the first filing, not after someone asks where it went. Hong Kong is often the regional signer. The Indian entity still files in its own name, and the Companies Registry extract still needs an apostille. File the annual foreign-liability return even in a quiet year. The year you skip is the year it stops feeling optional. Tell the bank the purpose in the same words you will use on the form.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A cheerful payment reference and a formal purpose that disagree will stall the credit. If the parent is itself owned by another foreign company, draw the chain before you file. The form asks about that chain, and guessing is visible. Keep SWIFT copies, the valuation and the board minute together. The reporting is a pack, not a single upload. A delay is cheaper to explain early. Compounding later is a process, and it is not a favour you want to need.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/fema-rbi-compliance" className="font-semibold text-blue-800 underline">FEMA and RBI compliance</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

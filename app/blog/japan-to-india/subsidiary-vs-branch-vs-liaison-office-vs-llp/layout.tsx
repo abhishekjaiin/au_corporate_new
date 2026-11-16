@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Subsidiary, Branch, Liaison or LLP: Japan",
+    absolute: "Subsidiary vs Branch vs Liaison Office in India in 2026",
   },
   description:
-    "Compare the four ways a Japanese company can enter India: wholly owned subsidiary, branch office, liaison office and LLP.",
+    "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
+  keywords: ["subsidiary vs branch vs liaison office in India", "LLP for foreign company", "India entry structure", "wholly owned subsidiary", "branch office", "liaison office", "FDI", "tax rate"],
   alternates: guideAlternates("japan", "subsidiary-vs-branch-vs-liaison-office-vs-llp"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%2C%20Branch%2C%20Liaison%20or%20LLP%3A%20Japan", width: 1200, height: 630, alt: "Subsidiary, Branch, Liaison or LLP: Japan" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Subsidiary%20vs%20Branch%20vs%20Liaison%20Office%20in%20India%20in%202026", width: 1200, height: 630, alt: "Subsidiary vs Branch vs Liaison Office in India in 2026" }],
     locale: "en_JP",
     siteName: "AU Corporate",
-    title: "Subsidiary, Branch, Liaison or LLP: Japan",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "Compare the four ways a Japanese company can enter India: wholly owned subsidiary, branch office, liaison office and LLP.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
     url: "https://www.theaucorp.com/japan-to-india/subsidiary-vs-branch-vs-liaison-office-vs-llp",
   },
   twitter: {
-    title: "Subsidiary, Branch, Liaison or LLP: Japan",
+    title: "Subsidiary vs Branch vs Liaison Office in India in 2026",
     description:
-      "Compare the four ways a Japanese company can enter India: wholly owned subsidiary, branch office, liaison office and LLP.",
+      "Subsidiary vs branch vs liaison office in India. It covers what the office may do, how expenses are funded and when you renew in writing. Start with the papers.",
   },
 }
 

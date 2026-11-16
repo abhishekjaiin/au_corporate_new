@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Using Hong Kong as a Regional Hub for India",
+    absolute: "Hong Kong Holding Company for India: 2026 Filing Guide",
   },
   description:
-    "How groups use a Hong Kong company as a regional holding, trading or treasury hub for India, the substance Indian and Hong Kong tax authorities expect.",
+    "Hong Kong holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
+  keywords: ["Hong Kong holding company for India", "regional hub", "DTAA", "holding structure", "beneficial owner"],
   alternates: guideAlternates("hongkong", "holdco"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Using%20Hong%20Kong%20as%20a%20Regional%20Hub%20for%20India", width: 1200, height: 630, alt: "Using Hong Kong as a Regional Hub for India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Hong%20Kong%20Holding%20Company%20for%20India%3A%202026%20Filing%20Guide", width: 1200, height: 630, alt: "Hong Kong Holding Company for India: 2026 Filing Guide" }],
     siteName: "AU Corporate",
-    title: "Using Hong Kong as a Regional Hub for India",
+    title: "Hong Kong Holding Company for India: 2026 Filing Guide",
     description:
-      "How groups use a Hong Kong company as a regional holding, trading or treasury hub for India, the substance Indian and Hong Kong tax authorities expect.",
+      "Hong Kong holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
     url: "https://www.theaucorp.com/hong-kong-to-india/hong-kong-as-regional-hub-for-india",
     locale: "en_HK",
   },
   twitter: {
-    title: "Using Hong Kong as a Regional Hub for India",
+    title: "Hong Kong Holding Company for India: 2026 Filing Guide",
     description:
-      "How groups use a Hong Kong company as a regional holding, trading or treasury hub for India, the substance Indian and Hong Kong tax authorities expect.",
+      "Hong Kong holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here.",
   },
 }
 

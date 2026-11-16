@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Data Protection for Chinese Companies in India",
+    absolute: "DPDP Act Compliance for Chinese Companies: A 2026 Guide",
   },
   description:
-    "How China's PIPL, Data Security Law and cross-border data rules apply to a Chinese company with an Indian subsidiary, and how India's Digital Personal Data.",
+    "DPDP Act compliance for Chinese companies. It covers the structure, the papers your parent signs and the filings that follow in practice. Start with the papers.",
+  keywords: ["DPDP Act compliance for Chinese companies", "data protection India", "cross-border data transfer", "Data Fiduciary", "consent", "DPDP Rules 2025", "GDPR"],
   alternates: guideAlternates("china", "data-protection"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Data%20Protection%20for%20Chinese%20Companies%20in%20India", width: 1200, height: 630, alt: "Data Protection for Chinese Companies in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=DPDP%20Act%20Compliance%20for%20Chinese%20Companies%3A%20A%202026%20Guide", width: 1200, height: 630, alt: "DPDP Act Compliance for Chinese Companies: A 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "Data Protection for Chinese Companies in India",
+    title: "DPDP Act Compliance for Chinese Companies: A 2026 Guide",
     description:
-      "How China's PIPL, Data Security Law and cross-border data rules apply to a Chinese company with an Indian subsidiary, and how India's Digital Personal Data.",
+      "DPDP Act compliance for Chinese companies. It covers the structure, the papers your parent signs and the filings that follow in practice. Start with the papers.",
     url: "https://www.theaucorp.com/china-to-india/data-protection-pipl-dpdp",
     locale: "en_CN",
   },
   twitter: {
-    title: "Data Protection for Chinese Companies in India",
+    title: "DPDP Act Compliance for Chinese Companies: A 2026 Guide",
     description:
-      "How China's PIPL, Data Security Law and cross-border data rules apply to a Chinese company with an Indian subsidiary, and how India's Digital Personal Data.",
+      "DPDP Act compliance for Chinese companies. It covers the structure, the papers your parent signs and the filings that follow in practice. Start with the papers.",
   },
 }
 

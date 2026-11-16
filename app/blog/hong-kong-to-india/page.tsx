@@ -81,7 +81,7 @@ export default function HongKongToIndiaHubPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="How to Set Up a Subsidiary in India from Hong Kong: The 2026 Guide"
-        description="How Hong Kong companies set up a subsidiary in India: Press Note 3 approval, structure, incorporation, FEMA filings, the India-Hong Kong tax treaty, documents, staff and compliance. By a Chartered Accountant."
+        description="Set up a subsidiary in India from Hong Kong. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         inLanguage="en-HK"
@@ -551,6 +551,40 @@ export default function HongKongToIndiaHubPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Hong Kong
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Hong Kong team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for set up a subsidiary in India from Hong Kong, start with the decision a Hong Kong company has to make. The form name is the second conversation, not the first. If the parent team asks about Hong Kong company setup in India, answer it from this same file. It is not a separate project. Keep register a company in India from Hong Kong in the kickoff note.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            People use different words for it, and the papers are the same papers. Put FDI on the checklist before the first filing, not after someone asks where it went. wholly owned subsidiary sits on the critical path more often than people expect. Leave a line for it in the working paper. Hong Kong is often the regional signer. The Indian entity still files in its own name, and the Companies Registry extract still needs an apostille.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Pick two company names you would actually answer the phone as. The first name is often taken. The second name should not be a joke you would hate to keep. Appoint a resident director who really spends the required time in India. A name on a slide is not a director, and the declaration has to be true. Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Waiting until India asks for it is how timelines slip. Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Open the bank account in the entity's exact legal name before you promise a salary date or a vendor payment. The certificate of incorporation does not pay anyone. Allot the shares, then report the investment.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The day the money arrives and the day the shares are allotted are different days, and the reporting clock follows the allotment. Decide the structure before you collect passports. A subsidiary, a branch and a liaison office are different permissions, different tax and a different way out. Confirm the parent can own the shares it thinks it can own. The sector, and the shareholder chain above the parent, sometimes change the route.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Do not translate the Indian sequence into the sequence you use at home. The words look familiar. The order is not, and the home order will get a form rejected. When a date moves, tell the parent the same day. A quiet slip becomes a quarter-end surprise, and the person who has to explain it is rarely the person who moved the date. Save the acknowledgement. The form, on its own, does not prove you filed.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The acknowledgement is what you produce when the group auditor asks. Use the legal name of the Indian entity on the invoice, the contract and the bank. A brand name that is close enough for a website is not close enough for a KYC team. If a step needs a wet-ink signature, book it before the signatory travels. Chasing a director through an airport lounge is how a simple filing takes a month.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">What we ask on the first call</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Keep the signed pack in one shared folder.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

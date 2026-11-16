@@ -46,7 +46,7 @@ export default function IndiaSingaporeCecaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="The India-Singapore CECA: What the 2005 Agreement Gives a Singapore Company Setting Up in India, and What It Leaves Alone"
-        description="What the India-Singapore Comprehensive Economic Cooperation Agreement (CECA) means for a Singapore company with an Indian subsidiary: investment, services, people, the EPF exemption and the open review."
+        description="India Singapore CECA. It covers the structure, the papers your parent signs and the filings that follow in plain English for your finance team on a single page."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         isPartOfUrl={PARENT_URL}
@@ -232,6 +232,20 @@ export default function IndiaSingaporeCecaPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for India Singapore CECA, start with the decision a Singapore company has to make. The form name is the second conversation, not the first. If the parent team asks about CECA benefits, answer it from this same file. It is not a separate project. Keep rules of origin in the kickoff note. People use different words for it, and the papers are the same papers. Put tariff on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A Singapore holding company does not skip Indian reporting. It only changes who signs the parent set. ACRA papers still need an apostille. Start the home-country notarisation while the Indian name is in process. That pack is usually the long pole. Waiting until India asks for it is how timelines slip.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

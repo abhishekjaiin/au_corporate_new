@@ -79,7 +79,7 @@ export default function AustraliaToIndiaHubPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="How to Set Up a Subsidiary in India from Australia: The 2026 Guide"
-        description="How Australian companies set up a subsidiary in India: structure, FDI rules, incorporation steps, RBI/FEMA filings, the India-Australia tax treaty and compliance. By a Chartered Accountant."
+        description="Set up a subsidiary in India from Australia. It covers the structure, the papers your parent signs and the filings that follow this year. Start with the papers."
         datePublished="2026-10-15"
         dateModified="2026-11-02"
         inLanguage="en-AU"

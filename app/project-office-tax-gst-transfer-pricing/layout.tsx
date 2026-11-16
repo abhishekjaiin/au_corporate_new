@@ -2,27 +2,28 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Tax, GST and Transfer Pricing for Project Offices in India",
+    absolute: "Project Office Taxation in India: A Practical 2026 Guide",
   },
   description:
-    "Tax rate, PE, lower deduction certificate, presumptive tax, GST, transfer pricing and treaty relief for the India project office of a foreign company.",
+    "Project office taxation in India. It covers the contract, the permission, the bank file and the closing steps, including who signs each paper. We map the steps.",
+  keywords: ["project office taxation in India", "project office PE", "lower deduction certificate", "presumptive tax", "GST", "transfer pricing"],
   alternates: {
     canonical: "https://www.theaucorp.com/project-office-tax-gst-transfer-pricing",
   },
   openGraph: {
     type: "website",
-    images: [{ url: "https://www.theaucorp.com/og?title=Tax%2C%20GST%20and%20Transfer%20Pricing%20for%20Project%20Offices%20in%20India", width: 1200, height: 630, alt: "Tax, GST and Transfer Pricing for Project Offices in India" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Project%20Office%20Taxation%20in%20India%3A%20A%20Practical%202026%20Guide", width: 1200, height: 630, alt: "Project Office Taxation in India: A Practical 2026 Guide" }],
     locale: "en_IN",
     siteName: "AU Corporate",
-    title: "Tax, GST and Transfer Pricing for Project Offices in India",
+    title: "Project Office Taxation in India: A Practical 2026 Guide",
     description:
-      "Tax rate, PE, lower deduction certificate, presumptive tax, GST, transfer pricing and treaty relief for the India project office of a foreign company.",
+      "Project office taxation in India. It covers the contract, the permission, the bank file and the closing steps, including who signs each paper. We map the steps.",
     url: "https://www.theaucorp.com/project-office-tax-gst-transfer-pricing",
   },
   twitter: {
-    title: "Tax, GST and Transfer Pricing for Project Offices in India",
+    title: "Project Office Taxation in India: A Practical 2026 Guide",
     description:
-      "Tax rate, PE, lower deduction certificate, presumptive tax, GST, transfer pricing and treaty relief for the India project office of a foreign company.",
+      "Project office taxation in India. It covers the contract, the permission, the bank file and the closing steps, including who signs each paper. We map the steps.",
   },
 }
 

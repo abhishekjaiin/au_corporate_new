@@ -48,7 +48,7 @@ export default function HiringInIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Hiring in India as a UK Employer: How Indian Employment Differs, and What to Put in the Contract"
-        description="How a UK company should hire in India through its subsidiary: contracts, provident fund, ESI, gratuity, the labour codes, payroll, and how to extend share plans to Indian employees."
+        description="Hiring employees in India for UK companies. It covers the right visa, the employer on the contract and the papers to carry for your team. Start with the papers."
         datePublished="2026-10-19"
         dateModified="2026-10-19"
         isPartOfUrl={PARENT_URL}
@@ -237,6 +237,23 @@ export default function HiringInIndiaPage() {
           Last updated 19 October 2026. General information only, not legal or tax advice. Indian and UK rules
           change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a UK team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for hiring employees in India for UK companies, start with the decision a UK company has to make. The form name is the second conversation, not the first. If the parent team asks about payroll compliance India, answer it from this same file. It is not a separate project. Keep employee benefits India in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put CTC on the checklist before the first filing, not after someone asks where it went. Companies House papers still need a notary and an apostille before India will rely on them. HMRC questions can wait until the Indian facts are finished. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office. The employment visa follows the employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you later move the person to a new entity, the visa conversation starts again. Plan the employer first. Send one PDF that has the contract, the entity name and the role. Immigration and payroll both read it, so it has to be the same story. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

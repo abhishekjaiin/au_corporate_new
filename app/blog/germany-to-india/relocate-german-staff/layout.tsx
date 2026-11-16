@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Sending German Employees to India: Visas and Tax",
+    absolute: "Relocate German Staff to India: Documents and Deadlines",
   },
   description:
-    "What a German company must plan when sending staff to India: employment visa rules, FRRO registration, 183-day tax test, Section 392 salary tax, the Social.",
+    "Relocate German staff to India. It covers the right visa, the employer on the contract and the papers to carry so your parent is not guessing. We map the steps.",
+  keywords: ["relocate German staff to India", "employment visa India", "expat tax India", "FRRO", "social security", "e-visa", "tax residency"],
   alternates: guideAlternates("germany", "expat-visa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Sending%20German%20Employees%20to%20India%3A%20Visas%20and%20Tax", width: 1200, height: 630, alt: "Sending German Employees to India: Visas and Tax" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=Relocate%20German%20Staff%20to%20India%3A%20Documents%20and%20Deadlines", width: 1200, height: 630, alt: "Relocate German Staff to India: Documents and Deadlines" }],
     siteName: "AU Corporate",
-    title: "Sending German Employees to India: Visas and Tax",
+    title: "Relocate German Staff to India: Documents and Deadlines",
     description:
-      "What a German company must plan when sending staff to India: employment visa rules, FRRO registration, 183-day tax test, Section 392 salary tax, the Social.",
+      "Relocate German staff to India. It covers the right visa, the employer on the contract and the papers to carry so your parent is not guessing. We map the steps.",
     url: "https://www.theaucorp.com/germany-to-india/relocate-german-staff",
     locale: "en_DE",
   },
   twitter: {
-    title: "Sending German Employees to India: Visas and Tax",
+    title: "Relocate German Staff to India: Documents and Deadlines",
     description:
-      "What a German company must plan when sending staff to India: employment visa rules, FRRO registration, 183-day tax test, Section 392 salary tax, the Social.",
+      "Relocate German staff to India. It covers the right visa, the employer on the contract and the papers to carry so your parent is not guessing. We map the steps.",
   },
 }
 

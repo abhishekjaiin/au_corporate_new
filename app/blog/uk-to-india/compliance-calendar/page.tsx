@@ -46,7 +46,7 @@ export default function ComplianceCalendarPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="The Compliance Calendar for a UK-Owned Indian Subsidiary, Month by Month, with the UK Parent's Dates Beside It"
-        description="A month-by-month compliance calendar for an Indian subsidiary: GST, TDS, provident fund, advance tax, AGM, ROC and RBI filings, mapped against the UK parent's Companies House and HMRC dates."
+        description="Indian subsidiary compliance calendar. It covers the structure, the papers your parent signs and the filings that follow before you file. Start with the papers."
         datePublished="2026-10-19"
         dateModified="2026-10-19"
         isPartOfUrl={PARENT_URL}
@@ -272,6 +272,20 @@ export default function ComplianceCalendarPage() {
           Last updated 19 October 2026. General information only, not legal or tax advice. Indian and UK rules
           change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a UK team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Indian subsidiary compliance calendar, start with the decision a UK company has to make. The form name is the second conversation, not the first. If the parent team asks about ROC due dates, answer it from this same file. It is not a separate project. Keep TDS due dates for subsidiaries in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put GST returns on the checklist before the first filing, not after someone asks where it went.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

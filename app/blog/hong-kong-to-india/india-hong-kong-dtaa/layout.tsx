@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "India-Hong Kong DTAA for Hong Kong Companies",
+    absolute: "India Hong Kong DTAA for Foreign Companies: 2026 Guide",
   },
   description:
-    "The India-Hong Kong tax treaty explained for a Hong Kong parent: 5% dividend rate, 10% interest, royalties and fees for technical services, permanent.",
+    "India Hong Kong DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner now.",
+  keywords: ["India Hong Kong DTAA for Foreign Companies: 2026 Guide", "India Hong Kong tax treaty", "DTAA rates", "dividend", "royalty", "PE", "Form 10F", "TRC"],
   alternates: guideAlternates("hongkong", "india-dtaa"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=India-Hong%20Kong%20DTAA%20for%20Hong%20Kong%20Companies", width: 1200, height: 630, alt: "India-Hong Kong DTAA for Hong Kong Companies" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=India%20Hong%20Kong%20DTAA%20for%20Foreign%20Companies%3A%202026%20Guide", width: 1200, height: 630, alt: "India Hong Kong DTAA for Foreign Companies: 2026 Guide" }],
     siteName: "AU Corporate",
-    title: "India-Hong Kong DTAA for Hong Kong Companies",
+    title: "India Hong Kong DTAA for Foreign Companies: 2026 Guide",
     description:
-      "The India-Hong Kong tax treaty explained for a Hong Kong parent: 5% dividend rate, 10% interest, royalties and fees for technical services, permanent.",
+      "India Hong Kong DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner now.",
     url: "https://www.theaucorp.com/hong-kong-to-india/india-hong-kong-dtaa",
     locale: "en_HK",
   },
   twitter: {
-    title: "India-Hong Kong DTAA for Hong Kong Companies",
+    title: "India Hong Kong DTAA for Foreign Companies: 2026 Guide",
     description:
-      "The India-Hong Kong tax treaty explained for a Hong Kong parent: 5% dividend rate, 10% interest, royalties and fees for technical services, permanent.",
+      "India Hong Kong DTAA. It covers corporate tax, GST, intercompany charges and the calendar to track in plain English with the dates named and with one owner now.",
   },
 }
 

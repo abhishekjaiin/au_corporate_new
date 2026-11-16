@@ -48,7 +48,7 @@ export default function RelocateHongKongStaffPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Moving Hong Kong Employees to India: Employment Visa, Registration with FRRO, Dependants and Clearance"
-        description="How to relocate Hong Kong staff to an Indian subsidiary: employment and business visa categories, the salary floor, FRRO registration within 14 days for stays over 180 days, dependants, security clearance for land-border nationals, tax and exit."
+        description="Relocate Hong Kong staff to India. It covers the right visa, the employer on the contract and the papers to carry, including the usual timing. We map the steps."
         datePublished="2026-10-26"
         dateModified="2026-10-26"
         isPartOfUrl={PARENT_URL}
@@ -222,6 +222,30 @@ export default function RelocateHongKongStaffPage() {
           Last updated 26 October 2026. General information only, not legal or tax advice. Indian and Hong Kong
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Hong Kong team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for relocate Hong Kong staff to India, start with the decision a Hong Kong company has to make. The form name is the second conversation, not the first. If the parent team asks about employment visa India, answer it from this same file. It is not a separate project. Keep expat tax India in the kickoff note. People use different words for it, and the papers are the same papers.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            Put e-visa on the checklist before the first filing, not after someone asks where it went. tax residency sits on the critical path more often than people expect. Leave a line for it in the working paper. Hong Kong is often the regional signer. The Indian entity still files in its own name, and the Companies Registry extract still needs an apostille. Tax residence and social security are a separate note from the visa.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            A person can be allowed to work and still create a payroll question you have not modelled. If the assignment is short, say so in the letter. Open-ended expat letters are how a six-month plan becomes an unplanned local hire. Match the visa to the stay. A business visa is for visits. It is not permission to live in India and run the office. The employment visa follows the employer.
+          </p>
+          <h2 className="text-xl font-bold text-gray-900 mt-8 mb-3 scroll-mt-24">The order that usually works</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you later move the person to a new entity, the visa conversation starts again. Plan the employer first. Send one PDF that has the contract, the entity name and the role. Immigration and payroll both read it, so it has to be the same story. Start the visa work before the person gives notice at home. Document legalisation and appointments take longer than the slide says. Local hires need a real Indian employer.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            The parent company abroad is not that employer, even if it pays the group bonus. Keep passport copies, the visa and the address registration where HR can find them. Do not leave them in the person's own laptop only. The first year is clumsier than the third. Budget time for a portal that wants the same document twice, and for a director who has not used an Indian login before.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/payroll-expat-services" className="font-semibold text-blue-800 underline">payroll and expat support</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

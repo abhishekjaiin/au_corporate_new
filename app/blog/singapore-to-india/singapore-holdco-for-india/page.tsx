@@ -48,7 +48,7 @@ export default function SingaporeHoldcoForIndiaPage() {
       <GuideArticleSchema
         url={PAGE_URL}
         headline="Using a Singapore Holding Company for Indian Investments: What the Treaty Gives, and What Substance Is Needed to Keep It"
-        description="How a Singapore holdco is used to own Indian subsidiaries: treaty positions on dividends and gains, grandfathering, Article 24A limitation of benefits, principal purpose test, POEM, GAAR and indirect transfer risk."
+        description="Singapore holding company for India. It covers the structure, the papers your parent signs and the filings that follow in plain English and with one owner here."
         datePublished="2026-10-21"
         dateModified="2026-10-21"
         isPartOfUrl={PARENT_URL}
@@ -251,6 +251,20 @@ export default function SingaporeHoldcoForIndiaPage() {
           Last updated 21 October 2026. General information only, not legal or tax advice. Indian and Singapore
           rules change often; confirm current requirements before acting.
         </p>
+              {/* seo-expand:start */}
+        <section id="how-this-works-in-practice" className="mt-12 max-w-full" aria-label="Practical notes">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 scroll-mt-24 break-words">What a Singapore team should do next</h2>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            If you are here for Singapore holding company for India, start with the decision a Singapore company has to make. The form name is the second conversation, not the first. If the parent team asks about Singapore holdco structure, answer it from this same file. It is not a separate project. Put LOB clause on the checklist before the first filing, not after someone asks where it went. A Singapore holding company does not skip Indian reporting.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4 break-words">
+            It only changes who signs the parent set. ACRA papers still need an apostille. Match every director and shareholder name to the passport, including middle names. A shortened name that HR uses will not match, and the filing comes back. Keep the signed pack in one shared folder.
+          </p>
+          <p className="text-base leading-relaxed text-gray-700 mb-4">
+            If you want the filings done rather than only explained, see our <a href="/india-subsidiary-registration" className="font-semibold text-blue-800 underline">Indian subsidiary registration</a>.
+          </p>
+        </section>
+        {/* seo-expand:end */}
       </article>
 
       <GuideLeadForm

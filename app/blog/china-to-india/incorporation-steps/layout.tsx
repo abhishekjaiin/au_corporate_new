@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Incorporation Steps for a Chinese-Owned Indian Subsidiary",
+    absolute: "How to Register a Company in India from China: Key Steps",
   },
   description:
-    "The step-by-step plan for incorporating an Indian private limited company owned by a Chinese parent: Press Note 3 approval, documents, director clearance.",
+    "How to register a company in India from China. It covers the structure, the papers your parent signs and the filings that follow for you. Start with the papers.",
+  keywords: ["how to register a company in India from China", "Chinese company incorporation in India", "SPICe+ incorporation", "incorporation timeline", "DIN", "DSC", "name approval", "MOA AOA", "PAN TAN"],
   alternates: guideAlternates("china", "incorporation-process"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Incorporation%20Steps%20for%20a%20Chinese-Owned%20Indian%20Subsidiary", width: 1200, height: 630, alt: "Incorporation Steps for a Chinese-Owned Indian Subsidiary" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=How%20to%20Register%20a%20Company%20in%20India%20from%20China%3A%20Key%20Steps", width: 1200, height: 630, alt: "How to Register a Company in India from China: Key Steps" }],
     siteName: "AU Corporate",
-    title: "Incorporation Steps for a Chinese-Owned Indian Subsidiary",
+    title: "How to Register a Company in India from China: Key Steps",
     description:
-      "The step-by-step plan for incorporating an Indian private limited company owned by a Chinese parent: Press Note 3 approval, documents, director clearance.",
+      "How to register a company in India from China. It covers the structure, the papers your parent signs and the filings that follow for you. Start with the papers.",
     url: "https://www.theaucorp.com/china-to-india/incorporation-steps",
     locale: "en_CN",
   },
   twitter: {
-    title: "Incorporation Steps for a Chinese-Owned Indian Subsidiary",
+    title: "How to Register a Company in India from China: Key Steps",
     description:
-      "The step-by-step plan for incorporating an Indian private limited company owned by a Chinese parent: Press Note 3 approval, documents, director clearance.",
+      "How to register a company in India from China. It covers the structure, the papers your parent signs and the filings that follow for you. Start with the papers.",
   },
 }
 

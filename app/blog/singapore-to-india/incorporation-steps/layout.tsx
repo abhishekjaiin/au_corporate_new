@@ -3,25 +3,26 @@ import { guideAlternates } from "@/lib/guides/countries"
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Incorporating an Indian Subsidiary from Singapore",
+    absolute: "How to Register a Company in India from Singapore: Guide",
   },
   description:
-    "A split plan for a Singapore parent forming an Indian private limited company: what the Singapore team does, what the Indian team does, SPICe+, bank.",
+    "How to register a company in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow, written for finance leads.",
+  keywords: ["how to register a company in India from Singapore", "Singapore company incorporation in India", "SPICe+ incorporation", "incorporation timeline", "DIN", "DSC", "name approval", "MOA AOA", "PAN TAN"],
   alternates: guideAlternates("singapore", "incorporation-process"),
   openGraph: {
     type: "article",
-    images: [{ url: "https://www.theaucorp.com/og?title=Incorporating%20an%20Indian%20Subsidiary%20from%20Singapore", width: 1200, height: 630, alt: "Incorporating an Indian Subsidiary from Singapore" }],
+    images: [{ url: "https://www.theaucorp.com/og?title=How%20to%20Register%20a%20Company%20in%20India%20from%20Singapore%3A%20Guide", width: 1200, height: 630, alt: "How to Register a Company in India from Singapore: Guide" }],
     siteName: "AU Corporate",
-    title: "Incorporating an Indian Subsidiary from Singapore",
+    title: "How to Register a Company in India from Singapore: Guide",
     description:
-      "A split plan for a Singapore parent forming an Indian private limited company: what the Singapore team does, what the Indian team does, SPICe+, bank.",
+      "How to register a company in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow, written for finance leads.",
     url: "https://www.theaucorp.com/singapore-to-india/incorporation-steps",
     locale: "en_SG",
   },
   twitter: {
-    title: "Incorporating an Indian Subsidiary from Singapore",
+    title: "How to Register a Company in India from Singapore: Guide",
     description:
-      "A split plan for a Singapore parent forming an Indian private limited company: what the Singapore team does, what the Indian team does, SPICe+, bank.",
+      "How to register a company in India from Singapore. It covers the structure, the papers your parent signs and the filings that follow, written for finance leads.",
   },
 }
 
