@@ -280,14 +280,14 @@ export function Footer() {
 
             <div className="flex flex-wrap justify-center sm:justify-end gap-4 sm:gap-6">
 
-              <Link
+              <Link prefetch={false}
                 href="/privacy"
                 className="text-gray-500 hover:text-gold-dark text-xs sm:text-sm transition"
               >
                 Privacy Policy
               </Link>
 
-              <Link
+              <Link prefetch={false}
                 href="/terms"
                 className="text-gray-500 hover:text-gold-dark text-xs sm:text-sm transition"
               >
