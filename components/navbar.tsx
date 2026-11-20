@@ -172,7 +172,7 @@ export function Navbar() {
                         </div>
                       ))}
                     </div>
-                    <Link
+                    <Link prefetch={false}
                       href="/contact"
                       className="flex items-center justify-between px-6 py-3.5 text-sm transition-colors hover:opacity-90"
                       style={{ backgroundColor: "#081a42" }}
@@ -216,7 +216,7 @@ export function Navbar() {
                     {/* Navy service-line rail */}
                     <div className="w-[62%] py-4 bg-blue">
                       {coreServiceLinks.map((item) => (
-                        <Link
+                        <Link prefetch={false}
                           key={item.label}
                           href={item.href}
                           className="group mx-2 flex items-start gap-3 rounded-lg px-4 py-2.5 transition-colors hover:bg-white/10"
@@ -232,7 +232,7 @@ export function Navbar() {
 
                     {/* CTA */}
                     <div className="flex w-[38%] flex-col justify-between p-5">
-                      <Link
+                      <Link prefetch={false}
                         href="/contact"
                         className="mt-4 block rounded-xl border border-gray-200 bg-gray-100 p-4 transition-colors hover:border-gold"
                       >
