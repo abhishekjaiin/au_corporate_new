@@ -34,13 +34,10 @@ export default function robots(): MetadataRoute.Robots {
       allowPublic("PerplexityBot"),
       allowPublic("Google-Extended"),
       allowPublic("Applebot-Extended"),
-      allowPublic("CCBot"),
 
       // SEO crawlers may fetch public pages. Private paths stay disallowed.
       allowPublic("AhrefsBot"),
       allowPublic("SemrushBot"),
-      allowPublic("MJ12bot"),
-      allowPublic("DotBot"),
     ],
     sitemap: ["https://www.theaucorp.com/sitemap.xml"],
   }
