@@ -10,6 +10,13 @@ function allowPublic(userAgent: string) {
   }
 }
 
+function disallowCrawler(userAgent: string) {
+  return {
+    userAgent,
+    disallow: "/",
+  }
+}
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
@@ -35,9 +42,15 @@ export default function robots(): MetadataRoute.Robots {
       allowPublic("Google-Extended"),
       allowPublic("Applebot-Extended"),
 
-      // SEO crawlers may fetch public pages. Private paths stay disallowed.
+      // Keep major SEO audit crawlers available for site analysis.
       allowPublic("AhrefsBot"),
       allowPublic("SemrushBot"),
+
+      // Explicit groups override the wildcard rule above for these
+      // high-volume crawlers. This is a crawl request, not bot-level security.
+      disallowCrawler("CCBot"),
+      disallowCrawler("MJ12bot"),
+      disallowCrawler("DotBot"),
     ],
     sitemap: ["https://www.theaucorp.com/sitemap.xml"],
   }
